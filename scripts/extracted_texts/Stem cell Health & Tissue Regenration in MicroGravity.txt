@@ -1,0 +1,1230 @@
+Review
+Microgravity and Cellular Biology: Insights into Cellular
+Responses and Implications for Human Health
+NelsonAdolfoLópezGarzón1,MaríaVirginiaPinzón-Fernández1,JhanS.SaavedraT.1,
+HumbertoA.Nati-Castillo2 ,MarlonArias-Intriago3 ,CamilaSalazar-Santoliva3
+andJuanS.Izquierdo-Condoy3,*
+1 GrupodeInvestigaciónenSalud(GIS),DepartamentodeMedicinaInterna,UniversidaddelCauca,
+Popayan190003,Colombia
+2 InterinstitutionalInternalMedicineGroup(GIMI1),DepartmentofInternalMedicine,UniversidadLibre,
+Cali760031,Colombia
+3 OneHealthResearchGroup,UniversidaddelasAméricas,Quito170124,Ecuador
+* Correspondence:juan.izquierdo.condoy@udla.edu.ec
+Abstract: Microgravity,definedbyminimalgravitationalforces,representsauniqueenvi-
+ronmentthatprofoundlyinfluencesbiologicalsystems,includinghumancells. Thisreview
+examines the effects of microgravity on biological processes and their implications for
+humanhealth. Microgravitysignificantlyimpactstheimmunesystembydisruptingkey
+mechanisms,suchasTcellactivation,cytokineproduction,andmacrophagedifferenti-
+ation,leadingtoincreasedsusceptibilitytoinfections. Incancerbiology,itpromotesthe
+formationofspheroidsincancerstemcellsandthyroidcancercells,whichcloselymimic
+invivo tumor dynamics, providing novel insights for oncology research. Additionally,
+microgravity enhances tissue regeneration by modulating critical pathways, including
+HippoandPI3K-Akt,therebyimprovingstemcelldifferentiationintohematopoieticand
+cardiomyocytelineages. Attheorganlevel,microgravityinducesnotablechangesinhep-
+aticmetabolism,endothelialfunction,andbonemechanotransduction,contributingtolipid
+dysregulation,vascularremodeling,andacceleratedboneloss.Notably,cardiomyocytesde-
+AcademicEditors:JohnLawlerand
+rivedfromhumanpluripotentstemcellsandculturedundermicrogravityexhibitenhanced
+KhaledKamal
+mitochondrialbiogenesis,improvedcalciumhandling,andadvancedstructuralmatura-
+Received:21February2025
+tion,includingincreasedsarcomerelengthandnucleareccentricity. Theseadvancements
+Revised:21March2025
+Accepted:25March2025 enablethedevelopmentoffunctionalcardiomyocytes,presentingpromisingtherapeutic
+Published:27March2025 opportunitiesfortreatingcardiacdiseases,suchasmyocardialinfarctions. Thesefindings
+Citation: LópezGarzón,N.A.; underscorethedualimplicationsofmicrogravityforspacemedicineandterrestrialhealth.
+Pinzón-Fernández,M.V.;SaavedraT.,J.S.; They highlight its potential to drive advances in regenerative therapies, oncology, and
+Nati-Castillo,H.A.;Arias-Intriago,M.; immunologicalinterventions. Continuedresearchintothebiologicaleffectsofmicrogravity
+Salazar-Santoliva,C.;Izquierdo-Condoy,
+isessentialforprotectingastronauthealthduringprolongedspacemissionsandfostering
+J.S.MicrogravityandCellularBiology:
+biomedicalinnovationswithtransformativeapplicationsonEarth.
+InsightsintoCellularResponsesand
+ImplicationsforHumanHealth.Int.J.
+Keywords: microgravity;tissueeffects;immunesystem;cardiomyocytes;cancerbiology;
+Mol.Sci.2025,26,3058.
+https://doi.org/10.3390/ humanhealth
+ijms26073058
+Copyright:©2025bytheauthors.
+LicenseeMDPI,Basel,Switzerland.
+1. Introduction
+Thisarticleisanopenaccessarticle
+distributedunderthetermsand Microgravity,aconditioncharacterizedbyminimalandalmostimperceptiblegravita-
+conditionsoftheCreativeCommons tionalforces,occursprimarilyinspaceorinspecializedenvironmentsdesignedtosimulate
+Attribution(CCBY)license
+thisstate[1,2]. Incellularbiology,microgravitypresentsauniqueopportunitytostudy
+(https://creativecommons.org/
+howcellsrespondtothedrasticreductioningravity—afundamentalfactorthatregulates
+licenses/by/4.0/).
+Int.J.Mol.Sci.2025,26,3058 https://doi.org/10.3390/ijms26073058
+
+Int.J.Mol.Sci.2025,26,3058 2of23
+numerouscellularprocessesonEarth[3–5]. Undermicrogravityconditions,mechanical
+forcesthatinfluencecellstructureandfunctionundergosignificantalterations,impacting
+cytoskeletalorganization,celladhesion,andintracellularsignaling. Thesechangesinturn
+affectcriticalcellularprocesses,includingproliferation,differentiation,communication,
+andsurvival[4–6].
+Historically,researchonmicrogravityhasbeenconductedaboardspacestations,such
+astheInternationalSpaceStation,andonsuborbitalplatforms. Morerecently,terrestrial
+laboratorieshaveadoptedadvancedtechnologies,suchasrotatingbioreactors,tosimulate
+microgravityconditions[1,7,8].Theseinvestigations,conductedbothinspaceandonEarth,
+havegainedimportanceduetotheirdualapplications: safeguardingastronauthealthand
+addressingterrestrialdiseases[1,9,10].
+Thisreviewaimstoexplorerecentadvancesinunderstandingtheeffectsofmicrogravity
+onbiologicalprocesses,emphasizingitsimplicationsandapplicationsforhumanhealth.
+2. MaterialsandMethods
+AcomprehensiveliteraturereviewwasconductedusingPubMed,Scopus,andEm-
+basedatabases. SearchtermswerestructuredfollowingthePICOTframework,withthe
+componentsdefinedasfollows:
+• Population:Stemcells,Tcells,endothelialcells,cancercells,kidneycells,andbonecells.
+• Intervention: Microgravity,simulatedmicrogravity,ormicrogravityconditions.
+• Comparison: Cellsundernormalorstandardgravityconditions.
+• Outcomes: Effectsoncellproliferation,tissueregeneration,cellularmetabolism,organ
+homeostasis,andimmunehealth.
+• Timing: Publicationswithnostartdaterestriction,availableuptoNovember2024.
+Theresearchquestion,basedonthePICOframework,wasasfollows:
+“Howdoesmicrogravity(includingsimulatedconditions)affectstemcells,Tcells,en-
+dothelial cells, kidney cells, and other biological cells compared to cells under normal
+gravityconditions,specificallyintermsofcellproliferation,tissueregeneration,cellular
+metabolism,organhomeostasis,andimmunehealth?”
+Toensureacomprehensivesearch,relevantMedicalSubjectHeadings(MeSH)terms
+wereincluded. Keytermscoveredthestudypopulations(e.g.,stemcells,Tcells,endothe-
+lialcells,cancercells,kidneycells,bonecells),conditions(e.g.,microgravity,simulated
+microgravity, standardgravity), and outcomesofinterest(e.g., cellproliferation, tissue
+regeneration,cellularmetabolism,organhomeostasis,immunehealth).
+TheliteraturesearchwasperformedinDecember2024andincludedpublicationsin
+EnglishandSpanish. Eligiblestudiesencompassedobservationalstudies,invitroresearch,
+and experimental investigations that addressed the effects of microgravity on critical
+biologicalprocesses. Theretrievedresultsweresystematicallycategorizedbasedontheir
+focus,enablingadetailedanalysisofmicrogravity’simpactondifferentbiologicalfunctions.
+Thefindingswerethencontrastedwithobservationsfromcellsmaintainedunderstandard
+gravity conditions, providing a comprehensive comparison of cellular adaptations in
+theseenvironments.
+3. EffectsofMicrogravityontheImmuneSystem
+3.1. AlterationsinImmuneCells
+Microgravitysignificantlyimpactstheimmunesystem,compromisingthedevelop-
+ment, function, and response of immune cells, which weakens the body’s defenses in
+space environments. Hematopoietic stem cells, essential for generating immune cells,
+showimpaireddifferentiationintomacrophages,criticalforinfectioncontrol. Furthermore,
+
+Int. J. Mol. Sci. 2025, 26, x FOR PEER REVIEW 3 of 26
+3. Effects of Microgravity on the Immune System
+3.1. Alterations in Immune Cells
+Int.J.Mol.Sci.2025,26,3058 Microgravity significantly impacts the immune system, compromising the develop- 3of23
+ment, function, and response of immune cells, which weakens the body’s defenses in
+space environments. Hematopoietic stem cells, essential for generating immune cells,
+show impaired differentiation into macrophages, critical for infection control. Further-
+an imbalance between M1 (pro-inflammatory) and M2 (anti-inflammatory and repair)
+more, an imbalance between M1 (pro-inflammatory) and M2 (anti-inflammatory and re-
+macrophages disrupts the immune system’s ability to handle infections and repair tis-
+pair) macrophages disrupts the immune system’s ability to handle infections and repair
+sues[1,2].
+tissues [1,2].
+DeDnednrdirtiitcicc ceellllss,, ppiivvoottaal linin TT lylmymphpohcyotcey atcetiavcattiiovna tvioian avntiiageann tpirgeesnenptarteiosnen, atraet iaolnso, arealso
+advadevrseerslyelayf afeffcetcetded..K Keeyym moolleeccuulleess ssuucchh aass tthhee mmaajojor rhhisitsotcoocmompaptiabtiilbitiyl ictoymcopmlexp l(eMxH(MC)H C)and
+cosatnimd cuolsattimoruylaptororyt epirnosteCinDs 8C0Da8n0 danCdD C8D68s6h sohwowr eredduucceedd eexxpprreessssioionn, d,idmiminiisnhiisnhgi ndgend-endritic
+celdlrfiutinc ccteilol fnuanlcittiyo.nNaloittya. bNloy,tabbrliye, fberixepf eoxspuorseusretos tmo micircoroggrraavviittyy ttrraannssieienntltyl yenehnahncaen dceend-endritic
+dritic cell activity; however, this effect is not sustained over the long term [2].
+cellactivity;however,thiseffectisnotsustainedoverthelongterm[2].
+Neutrophils exhibit increased numbers in microgravity but with reduced functional-
+Neutrophilsexhibitincreasednumbersinmicrogravitybutwithreducedfunctionality,
+ity, impairing their ability to destroy microorganisms effectively. B lymphocytes, respon-
+impairingtheirabilitytodestroymicroorganismseffectively.Blymphocytes,responsiblefor
+sible for humoral immunity, demonstrate decreased proliferation and increased apopto-
+humoralimmunity,demonstratedecreasedproliferationandincreasedapoptosis. Similarly,
+sis. Similarly, natural killer (NK) cells, critical for innate immunity, experience reduced
+natcuyrtoatlokxiilcl earct(iNvitKy), lciemllisti,ncgr itthieciarl afboirliitny ntoa teeliimminmauten tiutym,oerxsp oerr iinenfecceterde dceullcse [d2,c3y] t(oFitgouxriec activity,
+lim1i)t. ingtheirabilitytoeliminatetumorsorinfectedcells[2,3](Figure1).
+Figure1.Effectsofmicrogravityonthehumanimmunesystem.Thisfigureillustratesthecomplex
+Figure 1. Effects of microgravity on the human immune system. This figure illustrates the complex
+impactofmicrogravityonvariousimmunecellpopulationsandkeymolecularsignalingpathways.
+impact of microgravity on various immune cell populations and key molecular signaling pathways.
+ExpEoxpsuosreurteo tmo micircorgograravviittyy lleeaaddss ttoo ssiiggnnifiificacnatn atlatelrtaetriaotnios nins iimnmimunmeu cnelel fcuenllctfiuonn,c tiniocnlu,diinncgl uad sihnifgt ashiftin
+macrophagepolarizationfromthepro-inflammatoryM1phenotypetotheanti-inflammatoryM2
+phenotype. Dendriticcellsexhibitareducedcapacityforantigenpresentation,whileneutrophil
+numbersincrease,buttheirfunctionalitydeclines.Additionally,thecytotoxicactivityofnaturalkiller
+(NK)cellsisdiminished,potentiallyimpairingimmunesurveillance.Tcellactivation,proliferation,
+andcytokineproductionarealsosuppressed,accompaniedbydecreasedexpressionofIL-2R.Atthe
+molecularlevel,microgravitydisruptscriticalsignalingpathways,includingtheRAS-RAF-MEK-ERK
+cascadeandtheNF-κBpathway, furthercontributingtoimmunedysregulation. Thesefindings
+highlightthewidespreadandmultifacetedeffectsofmicrogravityonimmunesystemfunction,which
+mayhaveimplicationsforlong-termspacetravelandastronauthealth.
+
+Int.J.Mol.Sci.2025,26,3058 4of23
+3.2. ImpactonTCells
+Microgravity profoundly affects T cell-mediated immunity, disrupting activation,
+proliferation,andapoptosis. StudiesusingconcanavalinA—astandardactivatorofresting
+Tcells—revealedsignificantinhibitionofactivationandproliferationinCD4+andCD8+T
+cells,withtheeffectsintensifyingoverlongerexposuredurations. Reducedexpressionof
+activationmarkerssuchasCD25(IL-2receptor),CD69(earlyactivationmarker),andCD71
+(irontransportmarker)underscoresthisdysfunction[11,12].
+CD4+Tcells,criticalforregulatingimmuneresponsesthroughcytokineslikeIL-2and
+IFN-γ,showagreaterreductioninproliferationandcytokineproductioncomparedtoCD8+
+Tcells. Evenbriefexposure(8h)tomicrogravitynotablysuppressesCD4+cellfunctions,
+whileCD8+cellsrequirelongerexposure(16h)toexhibitsimilarimpairments[11,12].
+Cytokineproductionisnotablycompromisedundermicrogravity. CD4+cellsexhibit
+decreasedsecretionofIL-2,essentialforTcellexpansion,andIFN-γ,crucialformacrophage
+activationandantiviraldefense. ThesedeficienciesindicateareducedcapacityofTcellsto
+coordinateandamplifyimmuneresponses[11].
+ApoptosisofTcellsisacceleratedundermicrogravity,withanearlieronsetoflate
+apoptoticprocesses. Pre-exposedcellsshowanincreaseinlate-stageapoptosisandareduc-
+tioninearly-stageapoptosis,indicatingafasterprogressionthroughapoptoticpathways
+comparedtocontrolsundernormalgravity. Thiseffectislinkedtoincreasedexpression
+oftheFasreceptorinCD8+cells,acriticalcomponentoftheFas/FasLpathway,which
+regulatesapoptosisthroughexternalsignals[12–14](Figure1).
+3.3. ImpactonKeyMolecularPathways
+Atthemolecularlevel,microgravitydisruptscriticalsignalingpathways,including
+RAS,ERK,andNF-κB.TheRASpathway,whichgovernscellproliferationandsurvival,
+shows reduced activity under microgravity, leading to impaired cell growth. Similarly,
+ERK,whichisessentialforcelldifferentiationandresponsestoexternalstimuli,undergoes
+alterationsthathindertheactivationandspecializationofmacrophagesandlymphocytes.
+NF-κB, a key regulator of inflammatory responses, exhibits inconsistent activation in
+microgravity,resultingininadequateimmuneresponses[1,4].
+Researchonmicrogravityhasalsorevealedsignificanteffectsoncancerbiology,includ-
+ingtheformationofmulticellularspheroids(MCS),thereorganizationofthecytoskeleton,
+andtheregulationofkeyproteinssuchasp53(atumorsuppressor),NF-κB(aregulator
+ofimmuneresponsesandinflammation),andBAX(apro-apoptoticproteininvolvedin
+programmedcelldeath). Theseprocessespromoteapoptosisinvariouscancercelltypes.
+Incelllinesfrombreast(MCF-7),thyroid(FTC-133),andlung(A549)cancers,microgravity-
+inducedchangesincludedecreasedcelladhesionandalteredgeneexpression,particularly
+inmoleculeslikeE-cadherin(importantforcelladhesionandtumorinvasionsuppression),
+vascularendothelialgrowthfactor(VEGF,whichpromotesangiogenesis),andvimentin
+(aproteinassociatedwithepithelial–mesenchymaltransitionandcellmigration),thereby
+affectingtumorproliferationanddissemination[15,16].
+4. ImpactonCancerBiology
+4.1. CancerStemCells
+Thestudyofcancerstemcells(CSCs)undersimulatedmicrogravityconditionspro-
+videscriticalinsightsintotheirbehaviorinextremeenvironments,withprofoundimplica-
+tionsforoncologyandregenerativemedicine. CSCs,characterizedbytheirself-renewal
+anddifferentiationcapabilities,contributetotumorheterogeneity,treatmentresistance,
+andmetastasis[5,6].
+
+Int.J.Mol.Sci.2025,26,3058 5of23
+Incancerssuchasbreast,lung,andgastrointestinalcancer,CSCsareidentifiedusing
+specificmarkers,enablingtheirisolationanddetailedanalysis.Undersimulatedmicrograv-
+ity,thesecellsexhibitsignificantchangesinmorphologyandgrowthpatterns,including
+theformationofmulticellularspheroids. Thesethree-dimensionalstructurescloselymimic
+invivotumororganization,offeringarobustmodelforstudyingtheeffectsofmicrogravity
+ontumorbiology[5,7,8].
+Exposuretomicrogravityinducesnotablecellularchanges,includingincreasedapop-
+tosisanddecreasedexpressionofpluripotency-relatedmarkers,suggestingashifttoward
+differentiation. ThisdifferentiationreducesCSCresistance, potentiallyenhancingtheir
+susceptibilitytotreatments. Ingastrointestinalcancerslikecolonandpancreaticcancer,
+simulatedmicrogravityhasbeenlinked toincreased expressionof specificmarkers, re-
+flectingalterationsintheregulatorymechanismsofcellgrowthanddifferentiation. These
+Int. J. Mol. Sci. 2025, 26, x FOR PEER REVIEW 6 of 26
+changes can significantly influence tumor progression and the efficacy of oncological
+treatments[6–8](Figure2).
+Figure 2. Microgravity-induced changes in cancer. This figure illustrates the diverse effects of
+Figure 2. Microgravity-induced changes in cancer. This figure illustrates the diverse effects of mi-
+microgravityoncancercells,withaparticularfocusoncancerstemcells(CSCs)andthyroidcancer.
+crogravity on cancer cells, with a particular focus on cancer stem cells (CSCs) and thyroid cancer.
+Exposuretomicrogravityhasbeenshowntoincreaseapoptosis,orprogrammedcelldeath,incancer
+Exposure to microgravity has been shown to increase apoptosis, or programmed cell death, in can-
+cells. ItalsoaltersCSCproperties,leadingtoadecreaseinpluripotencymarkersandanincrease
+cer cells. It also alters CSC properties, leading to a decrease in pluripotency markers and an increase
+indifferentiation. Additionally,microgravityinducesstructuralchangesinthecytoskeletonand
+in differentiation. Additionally, microgravity induces structural changes in the cytoskeleton and
+extracellularmatrix,whichmayinfluencetumorprogression.Inthyroidcancer,microgravityreduces
+extracellular matrix, which may influence tumor progression. In thyroid cancer, microgravity re-
+proliferation and overall growth, while also diminishing the malignant phenotype in follicular
+duces proliferation and overall growth, while also diminishing the malignant phenotype in follicu-
+thyroidcancercells.Interestingly,despitetheseinhibitoryeffects,microgravityappearstoincrease
+lar thyroid cancer cells. Interestingly, despite these inhibitory effects, microgravity appears to in-
+thesusceptibilityofcancercells,potentiallyenhancingtheirresponsetotreatments,assuggestedby
+crease the susceptibility of cancer cells, potentially enhancing their response to treatments, as sug-
+thesyringegraphic.Thesefindingshighlightthecomplexandsometimescounterintuitiveinfluence
+gested by the syringe graphic. These findings highlight the complex and sometimes counterintuitive
+ofmicrogravityoncancerbiology.
+influence of microgravity on cancer biology.
+Microgravity modulates apoptosis, a key defense against abnormal cell proliferation.
+Many cancer cells under microgravity show increased apoptosis due to altered mechani-
+cal forces, while some acquire stem-like properties, enhancing resistance, plasticity, and
+therapy resistance [17,18]. Microgravity also induces the formation of multicellular sphe-
+roids (MCS), which mimic solid tumors and exhibit increased resistance to chemotherapy
+and radiation, suggesting more aggressive cancer states. Additionally, reduced gravity
+downregulates adhesion proteins (e.g., E-cadherin, vinculin, paxillin), weakening cell–cell
+interactions and potentially enhancing metastatic potential. The combination of micro-
+gravity and ionizing radiation exacerbates DNA damage, genomic instability, and muta-
+tions in tumor cells, highlighting the need for protective measures during space missions
+and offering insights into cancer treatment [19–22].
+
+Int.J.Mol.Sci.2025,26,3058 6of23
+Microgravitymodulatesapoptosis,akeydefenseagainstabnormalcellproliferation.
+Manycancercellsundermicrogravityshowincreasedapoptosisduetoalteredmechanical
+forces,whilesomeacquirestem-likeproperties,enhancingresistance,plasticity,andtherapy
+resistance[17,18].Microgravityalsoinducestheformationofmulticellularspheroids(MCS),
+whichmimicsolidtumorsandexhibitincreasedresistancetochemotherapyandradiation,
+suggestingmoreaggressivecancerstates. Additionally,reducedgravitydownregulates
+adhesionproteins(e.g.,E-cadherin,vinculin,paxillin),weakeningcell–cellinteractionsand
+potentiallyenhancingmetastaticpotential. Thecombinationofmicrogravityandionizing
+radiation exacerbates DNA damage, genomic instability, and mutations in tumor cells,
+highlightingtheneedforprotectivemeasuresduringspacemissionsandofferinginsights
+intocancertreatment[19–22].
+Simulatedmicrogravity,usingdevicesliketherotatingwallbioreactor(RWV)and
+randompositioningmachine(RPM),replicatescertaineffectsofrealmicrogravity(r-µg)but
+withsomedifferences. High-energyradiationwithhighlinearenergytransfer(highLET)
+increasesgenomicinstabilityandmutationrisks,promotingapoptosisandchromosomal
+aberrations[23,24].
+Ingliomas(U251model),microgravityreducestheactivityoffocaladhesionkinase
+(FAK),RhoA,andNek2kinase, inhibitingtumorcellmigration. Immunecells, suchas
+Tlymphocytesandmacrophages,showdecreasedfunctionality,compromisingimmuno-
+surveillanceandhinderingcancerdetection[25–27].
+Recentfindingssuggestthatmicrogravitycouldoffertherapeuticbenefitsbyinhibiting
+NF-κB, reducing cancer spread, and decreasing VEGF activity to limit tumor growth
+throughreducedangiogenesis. ChangesintheWnt/β-cateninpathwaymayslowtumor
+growthandmetastasis. CSCs, typicallyresistanttotherapies, becomemorevulnerable
+under microgravity, which also alters extracellular vesicle (EV) protein and microRNA
+content,openingopportunitiesfornewbiomarkersandtargetedtherapies[28].
+ThemechanosensitivechannelELKIN1playsacrucialroleincellularresponsestomi-
+crogravity. Microgravityreducestumorcelladhesionandinvasion,offeringpotentialthera-
+peuticbenefits,buttheseeffectsareELKIN1-dependent. Itsabsencepreservescellstructure
+andadhesionstabilityinmicrogravity,protectinghealthycellsduringprolongedexposure,
+butmayenhancethepersistenceofcancercells,limitingtherapyeffectiveness[29].
+Atthemolecularlevel,microgravityreducesthenuclearlocalizationofthetranscrip-
+tionalregulatorYAP1,limitingexcessivecellproliferationandinvasiveness. Thiseffect
+dependsonELKIN1expression;itsabsencecouldleadtoresistanceordiminishedrespon-
+sivenesstomechanicalstimuli. ELKIN1-mediatedreductioninfocaladhesionproteinsmay
+limittumoraggressivenessbutcouldposeastructuraldisadvantageforhealthytissues
+duringextendedspacemissions[29].
+4.2. ThyroidCancer
+Microgravity,whetherexperiencedinspaceorsimulatedonEarth,providesaunique
+experimentalenvironmentthathasgreatlyadvancedourunderstandingofcancerbiology,
+particularlythyroidcancer[30–33]. Fornearlytwodecades,studiesonthyroidcancercells
+undermicrogravityhaveyieldedvaluableinsightsintotumorbehaviorthataredifficultto
+achieveunderconventionallaboratoryconditions.
+In microgravity, adherent thyroid cancer cells lose their adhesion properties and
+organizeintomulticellularspheroids. Thesestructurescloselyresemblethephysiological
+characteristicsoftumorsinvivo,makingthemidealmodelsforstudyingmetastasisand
+evaluatingnoveltargetedtherapies[30,31].
+Microgravity also affects fundamental cellular processes, including apoptosis, cy-
+toskeletalorganization,andextracellularmatrixdynamics,whicharecriticalforcellgrowth
+
+Int.J.Mol.Sci.2025,26,3058 7of23
+andproliferation. Notably,follicularthyroidcancercellsexposedtomicrogravityhave
+demonstratedatendencytoadoptalessmalignantphenotype. Thissuggeststhatmicro-
+gravityconditionsmayinducefavorablechanges,potentiallyaidinginthetreatmentof
+thyroidcancer[30,31].
+Thefindingsfromthesestudieshavethepotentialtorevolutionizetraditionaloncology
+researchapproaches. Theyfacilitatetheidentificationofkeycellularalterationsincancer
+pathogenesisandsupportthedevelopmentofinnovativetherapiesaimedatimproving
+patientoutcomes. Furthermore,theseinvestigationspavethewayfornovelpreventive
+strategiesandmoreeffectivetreatmentsbasedontheuniquecellularpropertiesobserved
+undermicrogravity[30,32].
+5. ImpactsonTissuesandOrganSystems
+5.1. MicrovascularEndothelialCells
+Simulated microgravity profoundly affects microvascular endothelial cells, which
+playapivotalroleinvascularhomeostasisbyregulatinginflammation,angiogenesis,and
+vascularpermeability[9,10].
+Undernormalgravity,endothelialcellsrespondtomechanicalandchemicalstimulito
+preservevascularfunction. However,undersimulatedmicrogravity,significantalterations
+areobserved. Oneprominenteffectistheinhibitionofcellproliferation,whichdelaysthe
+repairofdamagedbloodvessels. Reducedproductionofinterleukin-6(IL-6),acytokine
+crucial for the inflammatory response, further compromises immune functionality and
+vascularrepaircapacity[9,23].
+Interestingly,microgravitystimulatesthesynthesisofnitricoxide,acriticalmediator
+for blood vessel dilation and angiogenesis. This effect is linked to the activation of en-
+dothelialnitricoxidesynthase(eNOS).Whilenitricoxidepromotesvascularadaptation,its
+dysregulationcanleadtopathologicalstates,dependingonthephysiologicalcontext[9,23].
+Researchonsimulatedmicrogravityhasalsorevealedsignificanteffectsonendothelial
+cellintegrityandfunction. Inonestudy,humanumbilicalveinendothelialcells,essential
+regulatorsofcardiovascularhomeostasis,wereexposedtosimulatedmicrogravityforupto
+72husinganRPM,whichcontinuouslyrotatestonullifyEarth’sgravitationalvector[24].
+After24h,notablechangesincellularbiomechanicalpropertieswereobserved,in-
+cludingamarkedreductionincellstiffness(Young’smodulus)andviscosity. Specifically,
+cellularelasticitydecreasedbyapproximately30%,reachingcriticallevelswitha75%re-
+ductionafter72h. Thislossofrigiditymakesendothelialcellsmorevulnerabletoexternal
+hemodynamicstress,potentiallyimpairingvascularintegrityandincreasingtheriskof
+endothelialdysfunction[23,24].
+Additionally, endothelial cells exhibited morphological changes under simulated
+microgravityconditions.Normallyelongatedandspindle-shaped,cellsadoptedadistinctly
+roundedphenotypeafter24h. Theincreaseincircularity—morethanthreetimesgreater
+thanthatofcontrolcells—indicatessignificantcytoskeletalreorganization,whichcould
+affect vascular permeability and the cells’ ability to respond to mechanical stress over
+time[23,34].
+At the molecular level, these morphological alterations were associated with sub-
+stantial reductions in key cytoskeletal components. Western blot analysis revealed a
+65%reduction in actin filament levels and a 26% reduction in β-tubulin, a protein crit-
+ical for microtubule integrity. Immunofluorescence confirmed these findings, showing
+discontinuities in cortical actin filaments and abnormal redistribution of microtubules,
+particularlyaroundthenucleus. Theseresultshighlightimpairedstructuralintegrityand
+suggestthatendothelialcellsmayhaveacompromisedabilitytorespondtobiomechanical
+stimuli[23,34](Figure3).
+
+Int.J.Mol.Sci.2025,26,3058 8of23
+Int. J. Mol. Sci. 2025, 26, x FOR PEER REVIEW 9 of 26
+Figure3.StructuralanFdigufruen 3.c Sttirounctaurlaal adnadp futnacttiioonnasl aodafpttiastisounse osf atinssdueso arngda onrgsany ssytsetmemss iinn mmicriocgrroavgitrya evnivtiy- environ-
+ronments. This figure illustrates the broad impact of microgravity on various tissues and organ sys-
+ments.Thisfigureillustratesthebroadimpactofmicrogravityonvarioustissuesandorgansystems,
+tems, highlighting key structural and functional adaptations. Microvascular endothelial cells exhibit
+highlightingkeystructuralandfunctionaladaptations.Microvascularendothelialcellsexhibitinhib-
+itedproliferation,decreasedIL-6production,andincreasednitricoxide(NO)production.Intheliver,
+microgravityaltershepaticmetabolism,leadingtoincreasedlipotoxicity,elevatedangiopoietinlevels,
+upregulationoflipidmetabolismgenes,anddysregulationofimmuneresponsegenes. Intestinal
+homeostasisisalsoaffected,withobserveddysbiosis,endotoxemia,alteredbileacidcontent,and
+increasedlevelsofintestinalstresshormones. Intermsofbonehealthandmechanotransduction,
+microgravity induces significant bone mass loss, accompanied by a reduction in actin filaments
+anddecreasedcellstiffnessinosteoblasts. Kidneycellsexperiencemetabolicalterations, includ-
+ingreducedoxidativephosphorylationandfattyacidoxidation, alongsideincreasedexpression
+offibronectin(FN1), MMP7, andTGFBI.Reproductivecellsarealsoimpacted, withevidenceof
+reducedeggquality,thelossofpolarizationingranulosacells,andadecreaseinmicrovilliineggs.
+Additionally,cardiomyocytesexhibitincreasedmaturationandfunctionality,enhancedmitochondrial
+biogenesis,improvedcalciumstorageinthesarcoplasmicreticulum,andtheformationofsarcomeres
+andZ-disks.Thesefindingscollectivelyunderscorethewidespreadandsystem-specificalterations
+inducedbymicrogravity,significantlyinfluencingcellularfunctionandoveralltissuehomeostasis.
+
+Int.J.Mol.Sci.2025,26,3058 9of23
+Endothelial cells exposed to microgravity also form three-dimensional spheroids,
+whichcloselymimicinvivobloodvesselstructures. These3Dmodelsareinvaluablefor
+studyingmicrogravity-inducedchangesinendothelialfunction,enablingmorephysiologi-
+callyrelevantinvestigationscomparedtotraditional2Dcultures[9,10,23].
+Collectively,thesefindingsrevealthatmicrogravitydisruptsendothelialphysiology,
+influencing cell proliferation, inflammatory responses, and vascular regulation. These
+insightshaveimplicationsfordiseasessuchascancer,atherosclerosis,andothercirculatory
+disorders. Theyunderscoretheneedforfurtherresearchtomitigatevascularrisksduring
+spacemissionsandexplorepotentialtherapeuticapplicationsonEarth[9].
+5.2. HepaticMetabolismandIntestinalHomeostasis
+Microgravity,adefiningfeatureofspaceflightandterrestrialsimulations,profoundly
+impactsthemetabolismandfunctionalityofvariousorgans,particularlytheliver. Experi-
+mentalmodelsusingrhesusmacaqueshaveshownthatprolongedexposuretomicrogravity
+inducessignificantmetabolicalterationssimilartothoseobservedinrodents. Thesein-
+cludelipidaccumulationandinfiltrationofinflammatorycellsintheliver,reflectingthe
+disruptionofhepaticmetabolichomeostasis. Suchfindingsunderscoretheimportanceof
+exploringtheeffectsofmicrogravityonmetabolicregulationinanimalmodelsandfuture
+humanstudies[34–36](Figure3).
+In a 42-day head-down bed rest model simulating microgravity, rhesus macaques
+developed mild liver lesions, fat vacuole accumulation, and inflammatory cell infiltra-
+tion. Thesehepaticchangeswereaccompaniedbyamarkedincreaseinplasmalevelsof
+angiopoietin-like3(ANGPTL3),akeybiomarkerassociatedwithmetabolicdisordersand
+lipiddysregulation.Theseresultssuggestthatmicrogravitymayinducehepaticlipotoxicity,
+aphenomenonpreviouslydocumentedinrodentsbutrequiringfurtherinvestigationin
+primatesandhumanstobetterunderstanditsclinicalrelevance[34–36].
+Atthemolecularlevel,transcriptomicanalysesofliversamplesfrommacaquesex-
+posedtomicrogravityrevealedoverexpressionofgenesassociatedwithlipidmetabolism
+and downregulation of genes linked to the innate immune response. These molecular
+changescouldimpairtheliver’sabilitytomanagemetabolicstress,acriticalfunctionfor
+maintaininglong-termhealth.Additionally,disruptionsinfattyacidmetabolismwereiden-
+tified,potentiallycontributingtolipiddysregulationassociatedwithmetabolicdiseases
+suchasdiabetesandobesity[34,35].
+Anothernoteworthyfindingwastheimpactofmicrogravityonthegutmicrobiota,a
+keyregulatorofhepaticmetabolismthroughthegut–liveraxis. Macaquessubjectedtothe
+head-downbedrestmodelexhibitedintestinaldysbiosis,endotoxemia,andalteredbileacid
+composition.Thesegutalterationswereaccompaniedbyelevatedlevelsofstresshormones,
+suggestingsystemicmetabolicimbalancetriggeredbymicrogravityexposure[34,36].
+Theeffectsofmicrogravityonliverfunctionandmetabolichomeostasiscarrysignifi-
+cantimplicationsforspacemedicine. Thesefindingshighlighttheneedtocloselymonitor
+liverfunctionandthegut–liveraxisduringprolongedspacemissionstomitigatepotential
+healthrisks. Moreover,themetabolicchangesobservedinanimalmodelsprovidevaluable
+insightsintoterrestrialdiseasessuchasdiabetesandnonalcoholicfattyliverdisease. This
+knowledgecouldcontributetothedevelopmentofmoreeffectivetreatmentsandinnova-
+tivetherapeuticstrategiesinregenerativemedicine,ultimatelybenefitingbothastronauts
+andthegeneralpopulation[34–36].
+5.3. BoneHealthandMechanotransduction
+Microgravity profoundly impacts the mechanotransduction of human osteoblasts.
+Astronautswhospendprolongedperiodsinspaceexperienceacceleratedbonemassloss,
+
+Int.J.Mol.Sci.2025,26,3058 10of23
+makingtheInternationalSpaceStation(ISS)anidealplatformforstudyingthemechanisms
+underlyingosteoporosisinzero-gravityconditions[37–39].
+Inthiscontext,innovativeexperimentalapproacheshavebeendeveloped,including
+theuse ofmicrofluidicmicrochips andcollagen-encapsulated cellspheroids. Thesead-
+vancedmodelsenableresearcherstoinvestigatehowtheabsenceofmechanicalloading
+affectsbonecellmaturationandmineralization. Studieshaveshownthatmicrogravity
+decreasescellstiffnessandreducesthelevelsoffilamentousactin,acytoskeletalcomponent
+criticalformaintainingcelltensionandfacilitatingmechanotransduction. Forexample,
+experimentsconductedontheISSusingautomatedmicrofluidicdeviceshaveprovided
+valuableinsightsintothemechanicalpropertiesofhumanosteoblastsundermicrogravity
+conditions[37–39](Figure3).
+Resultsfromtheseexperimentsrevealthatosteoblastsexposedtomicrogravityde-
+velopelongatedprotrusionscomparedtoterrestrialsamples,indicatingaphenomenon
+referredtoas“cellularsoftening”. Thisstructuralchangecorrelateswithareductionin
+actinfiberdensity,consistentwithfindingsfrompriorstudiesconductedundersimulated
+microgravity[40–42].
+Thesestructuralandcytoskeletalalterationshighlightdisruptionsinmechanotrans-
+duction,theprocessthroughwhichcellssenseandrespondtomechanicalstimuli. Without
+theconstantgravitationalforcespresentonEarth,osteoblastslosetheabilitytomaintain
+theirtensionalstructureandperformoptimally,contributingtothebonedemineralization
+observedinastronauts[38,39].
+Furtherresearchhasutilizedthree-dimensionalspheroidmodels,whichbetterrepli-
+cate physiological conditions than traditional two-dimensional cell cultures. Collagen-
+encapsulatedosteoblastspheroidssubjectedtocontrolledpressuresundermicrogravity
+exhibited a reduction in the expression of key mechanosensitive proteins, such as Yes-
+associatedprotein(YAP).Thissuggeststhatmicrogravitydisruptsmechanicalsignaling
+pathwayscriticalforcellularregulationandbonehomeostasis[37–49].
+Mechanotransductionisacrucialprocessbywhichcellssenseandrespondtome-
+chanical stimuli through interactions with the extracellular matrix. On Earth, proteins
+likeYAP/TAZtranslatemechanicalforcesintogeneexpressionchanges,modulatingcell
+growth, differentiation, and survival. Under microgravity, the diminished activity of
+YAP/TAZleadstovaryingoutcomesindifferentcancers, suchasreducedcellprolifer-
+ationorincreasedinvasivenessduetoalteredmechanosignaling. Understandingthese
+differentialresponsescouldinformnoveltherapeuticstrategiestargetingthesevulnerabili-
+ties[19–22].
+Importantly,theapplicationofcompressivepressurepartiallyrestoredYAPexpression
+andincreasedpSMAD1/5/9levels,demonstratingthatbiomechanicalsignalscanreacti-
+vateessentialmolecularpathways,evenundermicrogravityconditions. Thesefindings
+underscore the potential of mechanical interventions to mitigate the adverse effects of
+microgravityonbonetissue[39–41,43].
+The implications of these studies are significant. They not only advance our un-
+derstanding of how microgravity influences cellular biology but also pave the way for
+developing therapeutic strategies to combat bone loss in both space environments and
+terrestrialpatientswithosteoporosis. Additionally,thecreationofdevicesthatsimulate
+mechanicalloadscouldbenefitastronautsandindividualsonEarth,emphasizingthecriti-
+calroleofbiomechanicsinmaintainingbonehealthandcellularfunctionalityinextreme
+conditions[39–41,43].
+
+Int.J.Mol.Sci.2025,26,3058 11of23
+5.4. KidneyCells
+Arecentstudyutilizingamicrophysiologicalmodelofhumanrenalproximaltubules
+investigatedtheeffectsofmicrogravityonthecellularabilitytometabolizevitaminDand
+respondtohumanserum[44,45].
+Thefindingsrevealedthatshort-termexposuretomicrogravitydoesnotsignificantly
+alteressentialbiochemicalpathwaysinrenalcells,indicatingthatfundamentalprocesses
+remainintact. Inthisexperiment,renalproximaltubuleepithelialcellswereculturedina
+microphysiologicalsystemandexposedto2%humanserumandvitaminD[25(OH)D3].
+Biomarkerssuchaskidneyinjurymolecule1(KIM-1)andinterleukin6(IL-6)weremea-
+suredtoassesscellularresponses[44–46].
+Transcriptomic analyses, conducted via RNA sequencing, monitored vitamin D
+metabolites and key genes involved in its metabolism, including CYP27B1, CYP24A1,
+andCYP3A5[44]. Surprisingly,nosignificantdifferencesinvitaminDmetabolismwere
+observed between microgravity and terrestrial conditions. However, exposure to hu-
+manserumelicitedsimilarmetabolicresponsesinbothenvironments,characterizedby
+metabolic reprogramming, alterations in bioenergetic processes, and the presence of a
+pro-inflammatoryextracellularenvironment[44–46].
+One of the most striking observations was the differential regulation of over 2000
+genes after exposure to human serum, regardless of gravitational conditions. Affected
+pathwaysincludedthecellcycle,cytokine–cytokinereceptorinteractions,andchemokine
+signaling [45]. Notably, a marked reduction in the expression of genes associated with
+oxidativephosphorylationandfattyacidmetabolismindicateddiminishedmitochondrial
+respiration,suggestingametabolicshiftinkidneycells[45].
+These findings imply that kidney cells, when exposed to human serum, redirect
+theirmetabolismtowardaproliferation-focusedstrategy,reducingrelianceontraditional
+energy pathways. Concurrently, significant changes in the extracellular environment
+wereobserved,indicativeoftissueremodeling. Thisphenomenonwassupportedbythe
+overexpression of genes related to the extracellular matrix, including fibronectin (FN1)
+andtransforminggrowthfactor-beta-inducedprotein(TGFBI),aswellasenzymessuch
+asmetalloproteinase7(MMP7),whichareinvolvedinremodelingandreorganizingthe
+cellular environment. These adaptations may represent a cellular response to protein
+challengesinhumanserumorcouldsignalunderlyingpathologicalprocesses[44].
+In addition to bioenergetic and extracellular matrix alterations, broader metabolic
+reorganizationsignalsweredetected. Elevatedcytosoliccholesterollevels,inferredfrom
+the repression of genes regulated by the SREBF2 factor, reflected shifts in intracellular
+metabolicbalance. Whiletheseeffectswereconsistentacrossmicrogravityandterrestrial
+conditions, their significance lies in demonstrating how human serum, as an external
+stimulus,candriveprofoundcellularchangesindependentlyofgravity.
+Theseresultsreinforcethenotionthatcertainfundamentalprocessesinrenalcells
+remainrelativelystableundermicrogravityconditionsduringshort-termexposures. How-
+ever, they also highlight the need for further research into prolonged microgravity en-
+vironments,wherecellularadaptationsmaybecomemorepronouncedorclinicallyrele-
+vant[44,45].
+Theimplicationsofthesediscoveriesaresignificantforbothspaceexplorationand
+terrestrial medicine. In the context of spaceflight, the findings provide critical insights
+intohowkidneysmightadapttomicrogravity,ensuringthatessentialfunctionssuchas
+filtrationandbloodcompoundregulationaremaintainedduringextendedmissions. On
+Earth,thesestudiesoffervaluableperspectivesonhowkidneycellsrespondtometabolic
+andproteinstress,potentiallyinformingthedevelopmentofadvancedtherapiesforkidney
+diseases[44](Figure3).
+
+Int.J.Mol.Sci.2025,26,3058 12of23
+5.5. ReproductiveSystemOvarianFolliclesandEggQuality
+Simulatedmicrogravityhasprovidedvaluableinsightsintohowthisuniqueenvi-
+ronmentimpactseggqualityandovarianfollicledevelopment. Ovarianfollicles,which
+arecriticalforeggformation,relyonintricateinteractionsbetweengranulosacellsand
+the egg to ensure proper maturation. However, the specific effects of microgravity on
+these interactions and the overall evolution of follicles have only recently begun to be
+understood[47].
+Inanexperimentreplicatingmicrogravityconditions,ovarianfollicleswerecultured
+inasimulatedsystem. Theresultsindicatedthatwhilefolliclegrowthandsurvivalrates
+werenotsignificantlyaffectedandremainedcomparabletothoseobservedundernormal
+gravityconditions,thequalityoftheeggsreleasedwasmarkedlyreduced[47–49].
+Electron microscopy revealed alterations in the cellular structures responsible for
+communicationbetweengranulosacellsandtheegg. Thesestructuralchangesresultedina
+lossoforganizationwithinthegranulosacells,disruptingthesecretionofessentialfactors
+requiredforeggmaturation. However,supplementinggrowthfactorsandantioxidants
+significantly improved egg quality, suggesting that the adverse effects of microgravity
+couldbemitigatedthroughtargetedinterventions[47–49].
+Furtheranalysisoftheeggshighlighteddeficienciesinthedistributionanddensity
+of cortical granules, structures vital for maturation. Additionally, there was a notable
+reductioninthenumberofeggscapableofreleasingthefirstpolarbody—acriticalprocess
+ineggdevelopment. Thesedeficiencieswerelinkedtoincreasedoxidativestresslevels,
+whichfurthercontributedtothedeclineineggquality[47–49].
+Anotherkeyfindingwasthelossofpolarityingranulosacells,whichinhibitedthe
+formation of cellular projections essential for interacting with the egg. This disruption
+impairedcommunicationbetweengranulosacellsandtheegg, negativelyaffectingthe
+maturationprocess. Moreover,microgravityalteredtheformationofmicrovilliintheegg,
+structurescrucialforinteractionwithsurroundingcells. Eggsculturedundermicrogravity
+conditionsexhibitedasignificantreductioninboththenumberandsizeofmicrovilli,po-
+tentiallylimitingtheirabilitytoreleasefactorsessentialfordevelopment[47–49](Figure3).
+5.6. CardiomyocyteMaturationandFunctionality
+Simulatedmicrogravityhasbeenshowntosignificantlyenhancethematurationand
+functionalityofcardiomyocytesderivedfromhumanpluripotentstemcells. Oneofthe
+mostnotableimprovementsobservedundertheseconditionsismitochondrialbiogenesis,
+a critical process for cellular maturation [9,10,23,50]. Mitochondrial biogenesis enables
+cellstoproduceenergymoreefficiently,akeyfactorfortheproperfunctioningofmature
+cardiomyocytes. Experimental data have demonstrated an increase in mitochondrial
+content,evidencedbytheexpressionofspecificmitochondrialproteinsandanelevated
+ratioofmitochondrialDNAtonuclearDNA.Thesefindingssuggestthatmicrogravity
+stimulates mitochondrial formation, improving the cells’ capacity to generate ATP, the
+primaryenergysourceforcardiacfunction[6,50].
+Inadditiontoincreasedmitochondrialcontent,simulatedmicrogravityenhancesmito-
+chondrialrespiration. Thisimprovement,evidencedbyelevatedmaximalrespirationlevels
+andATPproduction,ensurestheenergysupplynecessaryforcardiomyocytecontraction
+and relaxation. These observations highlight the potential of microgravity to promote
+metabolicmaturationincardiomyocytes,renderingthemmorefunctionalandsuitablefor
+therapeuticapplications[6,50].
+Anothercriticalaspectinfluencedbymicrogravityiscalciumhandling,avitalprocess
+forcardiomyocytecontractionandrelaxation. Cellsculturedundermicrogravityexhibited
+greateramplitudeincalciumtransients,reflectingenhancedcalciumstoragecapacityin
+
+Int.J.Mol.Sci.2025,26,3058 13of23
+thesarcoplasmicreticulum,astructurecrucialforregulatingintracellularcalciumconcen-
+trations. Efficientcalciumhandlingisessentialforeffectivecardiacfunction,asitenables
+stronger and more coordinated muscle fiber contractions. These findings indicate that
+cardiomyocytesculturedinmicrogravityarenotonlymoremetabolicallyadvancedbut
+alsodisplayimprovedfunctionalityconsistentwithmaturecardiomyocytes[6,50].
+Simulatedmicrogravityalsopositivelyaffectsthestructuralpropertiesofcardiomy-
+ocytes. Observationsincludeincreasedsarcomerelength,thefunctionalunitresponsible
+for muscle contraction, and longer Z-disks, key structures for transmitting contraction
+forces. Additionally,nucleareccentricityanddiameterwereincreased,furtherindicatinga
+higherdegreeofcellularmaturation. Thesestructuralenhancementsbringcardiomyocytes
+culturedinmicrogravityclosertothecharacteristicsoffullyfunctionalhumancardiaccells,
+reinforcingtheirabilitytoperformphysiologicalfunctionseffectively[6,50].
+Thedurationofexposuretomicrogravityplaysapivotalroleinmaximizingthese
+benefits. Recentstudiessuggestthata7-dayexposureperiodisoptimalforpromoting
+significantimprovementsincardiomyocytematuration. Prolongedexposuresof14days,
+however, did not yield additional benefits, indicating a specific time window for max-
+imizing the positive effects of microgravity. Optimizing culture conditions within this
+timeframeisessentialtoachievethebestoutcomes[50,51].
+Advancesinutilizingsimulatedmicrogravitytoenhancecardiomyocytematuration
+and functionality opennew avenues inregenerative medicine, particularly fortreating
+cardiacdiseasessuchasmyocardialinfarctions. Theabilitytoproducehigh-quality,mature
+cardiomyocytes is critical for developing effective cellular grafts capable of integrating
+intodamagedtissuesandrestoringcardiacfunctionality. Thesebreakthroughsrepresenta
+significantstepforwardinbiotechnology,withfar-reachingimplicationsforthetreatment
+ofcardiacpathologies[6,50,51](Figure3).
+6. ImpactsonStemCellsandCellRegeneration
+Microgravityhasprovidedsignificantinsightsintohowthisenvironmentinfluences
+fundamentalbiologicalprocessessuchastissueregenerationandcellrepair[52,53]. Re-
+searchconductedinrealspaceflightsandterrestrialsimulationshasdemonstratedthat
+microgravityimpactsproteinexpressionandtheregulationofcellularpathwayscriticalfor
+thegrowthandregenerationofvariousstemcelltypes. Oneofthemostnotablepathways
+affectedistheHippopathway,whichplaysacentralroleincellproliferationandtissue
+damageresponse. Undermicrogravityconditions,thispathwayistemporarilydeactivated,
+creatingafavorablestateforcellproliferationandtissuerepair. Theseeffectshaveshown
+particularpromiseinregeneratingorganssuchastheheart,withpotentialapplications
+extendingtoothertissues[53,54].
+Thereplicationofmicrogravityeffectsinterrestrialsimulationsopensnewpossibilities
+forexploringtherapeutictreatmentsbasedonthisphenomenon[17,52–54]. Findingssug-
+gestthatmicrogravitycouldserveasavaluabletoolforenhancingtheregenerativecapacity
+ofstemcellswithoutrequiringinvasiveorcomplextechnologies. Additionally,combining
+microgravity exposure with the use of certain drugs or microRNA manipulation—key
+regulatorsofgeneexpression—canamplifytheactivityoftheHippopathwayandYAP1
+protein,furtherpromotingtissueregeneration. Thesediscoveriesholdpromisefortreating
+heartdiseasesandrepairingotherdamagedtissuesandsystems[53](Figure4).
+
+Int. J. Mol. Sci. 2025, 26, x FOR PEER REVIEW 16 of 26
+Int.J.Mol.Sci.2025,26,3058 14of23
+Figure4. Microgravityeffectsonstemcelldifferentiationandregenerativepotential. Thisfigure
+Figure 4. Microgravity effects on stem cell differentiation and regenerative potential. This figure
+illustrateskeyfindingsrelatedtotheeffectsofmicrogravityonstemcellbehavior.Microgravityhas
+illustrates key findings related to the effects of microgravity on stem cell behavior. Microgravity has
+beenassociatedwithenhancedcellproliferation,potentiallycontributingtotissuerepairprocesses.
+been assAodcidaitteiodn awlliyt,hi telnehadasnctoedth ceetlel mprpoolriaferyradtieoanct,i vpaotitoenntoiafltlhye cHoniptpriobupatitnhwg atoy, tiinsvsuolev irnegpauiprs ptrreoacmesses.
+regulators such as MST1/2, SAV1, WWC1-3, LATS1/2, and MOB1, which in turn promotes the
+Additionally, it leads to the temporary deactivation of the Hippo pathway, involving upstream reg-
+nucleartranslocationofYAP/TAZ.Furthermore,microgravityinfluenceshematopoieticstemcell
+ulators such as MST1/2, SAV1, WWC1-3, LATS1/2, and MOB1, which in turn promotes the nuclear
+differentiationbyactivatingspecificgenesandpathways,includingRUNX1,whichisinvolvedin
+transloca
+st
+t
+e
+i
+m
+on
+c e
+o
+l
+f
+l e
+Y
+st
+A
+ab
+P
+li
+/
+s
+T
+h
+A
+m
+Z
+en
+.
+t
+F ,SuOrtXh1e7r
+,
+m
+w
+o
+h
+r
+ic
+e
+h
+,
+p
+m
+la
+i
+y
+c
+s
+ro
+a
+g
+r
+r
+o
+a
+le
+v
+i
+i
+n
+ty
+m
+i
+a
+n
+in
+fl
+t
+u
+ai
+e
+n
+n
+in
+c
+g
+es
+p l
+h
+u
+e
+ri
+m
+po
+a
+t
+t
+e
+o
+n
+p
+cy
+o
+,
+i
+a
+e
+n
+t
+d
+icG sAteTmA3
+,
+c
+w
+el
+h
+l
+ic
+d
+h
+iff
+is
+eren-
+tiation bcyr uaccitailvfaortimngeg sapkeacryifioccy gteenaneds aernydth proactyhtwemayatsu, riantciolun.dTinheg PRI3UKN-AXk1t,a wndhmicThO isR ipnavthowlvaeyds ainre satlesmo cell
+implicatedinthisprocess,withSTRIPAKactingasamodulatoryfactor.
+establishment, SOX17, which plays a role in maintaining pluripotency, and GATA3, which is crucial
+for megakaryocyte and erythrocyte maturation. The PI3K-Akt and mTOR pathways are also impli-
+Cells cultured under simulated microgravity using an RPM have shown significant
+cated in atlhteisr aptirooncse,sesn, hwainthci nSgTRouIPrAuKnd aecrtsitnagn daisn ga mofocdelululalatorrryes fpaocntoser.s togravityloss.Forexample,
+thyroid carcinoma cells (FTC-133) formed three-dimensional spheroids, contrasting with
+6.1. Hemthaetiorptoyipeitciacl Dmioffneorleanyteiratgiroonw th,anddisplayedchangesinadhesionpropertiesandinternal
+organization consistent with spaceflight observations [23,24]. These morphological trans-
+Simulated microgravity significantly enhances the differentiation of human pluripo-
+tent stem cells into hematopoietic lineages, offering a promising avenue for regenerative
+medicine and cell therapies [55–57]. Under microgravity conditions, hematopoietic stem
+cells demonstrate more efficient induction of endothelial hemogenic progenitors, leading
+to improved formation of functional three-dimensional structures. This results in a nota-
+ble increase in active hematopoietic cells, optimizing both cell expansion and differentia-
+tion processes [55–57].
+
+Int.J.Mol.Sci.2025,26,3058 15of23
+formationsinvolvedcytoskeletalreorganization,particularlyaffectingactinfilamentsand
+microtubules,whicharecrucialformaintainingcellularintegrity.Geneexpressionanalysis
+revealedchangesingenesrelatedtocellularadhesionandproliferation,includingvascularen-
+dothelialgrowthfactor(VEGF),E-cadherin,andvimentin.Moreover,Tlymphocytesexposed
+toRPM-simulatedmicrogravityexhibiteddecreasedactivation,mirroringtheeffectsobserved
+inspaceflightexperiments. ThesefindingsvalidatetheutilityofRPMsforground-based
+researchonphysiologicalchangesrelevanttolong-durationspaceflight[24].
+6.1. HematopoieticDifferentiation
+Simulatedmicrogravitysignificantlyenhancesthedifferentiationofhumanpluripo-
+tentstemcellsintohematopoieticlineages,offeringapromisingavenueforregenerative
+medicineandcelltherapies[55–57]. Undermicrogravityconditions,hematopoieticstem
+cellsdemonstratemoreefficientinductionofendothelialhemogenicprogenitors,leading
+toimprovedformationoffunctionalthree-dimensionalstructures. Thisresultsinanotable
+increaseinactivehematopoieticcells,optimizingbothcellexpansionanddifferentiation
+processes[55–57].
+Transcriptomic analyses have identified the differential activation of thousands of
+genes involved in hematopoiesis, including RUNX1, SOX17, and GATA1. RUNX1 is
+essentialforestablishinghematopoieticstemcells,SOX17formaintainingpluripotencyand
+differentiationintohematopoieticlineages,andGATA1forthematurationoferythrocytes
+andmegakaryocytes. Thesegeneexpressionpatternssuggestthatmicrogravitycreatesa
+favorableenvironmentforoptimizinghematopoiesis[55].
+Atthecellularlevel,microgravityinfluencesDNAreplicationbypromotingtheex-
+pressionofreplicationmachinerygenessuchashelicasesandpolymerases. Thisenhances
+efficientcelldivision,acriticalfactorforhematopoieticstemcellproliferationanddifferen-
+tiation. Furthermore,microgravitymodulatesthecellcycle,facilitatingtransitionsthrough
+keyphasessuchasG1/SandG2/M,whichareessentialforcellproliferation[55–57].
+A key discovery is the activation of the PI3K-Akt pathway, which regulates cell
+growth,survival,andmetabolism. ThispathwaymodulatesproteinssuchasmTOR,which
+governs cell growth and metabolism, and Bad, which inhibits apoptosis, ensuring the
+survivalofhematopoieticprogenitorcells. Bypromotingcellproliferationandpreventing
+programmedcelldeath,thePI3K-Aktpathwayplaysapivotalroleinthedevelopmentof
+functionalhematopoieticcells[56,57].
+Microgravityalsoenhancesthree-dimensionalcellularorganization,improvinginter-
+actionsbetweencellsandtheirmicroenvironment. Theseinteractionsarevitalforforming
+hematopoietic niches that replicate physiological conditions more accurately. Cultures
+inmicrogravityfavorthecreationofthree-dimensionalspheroids,whichsupportbetter
+differentiationandfunctionalityofhematopoieticstemcells,optimizingthehematopoiesis
+process.Thiscapabilityisparticularlyvaluablefordevelopingpreciseexperimentalmodels
+andinnovativecelltherapies[14,55,56].
+Microgravitymodulateshematopoiesisbyinfluencingthedifferentiation,prolifera-
+tion,andstructuralorganizationofhematopoieticstemcells(HSCs). Pluripotentstemcells
+exhibitenhanceddifferentiationpotential,increasedproliferation,andimprovedstructural
+organization,asmicrogravityoptimizesconditionsforhematopoieticprogenitorexpan-
+sion[17,58–62]. Thisoccursthroughsurvivalsignaling,primarilyviaPI3K-Aktpathway
+activation,whereincreasedAktphosphorylationinhibitsproapoptoticproteinssuchas
+BADandenhancescellsurvivalviaantiapoptoticmechanismslinkedtomTOR.Wnt/β-
+cateninsignalingisalsodynamicallyregulatedinmicrogravity,promotingβ-cateninaccu-
+mulationinthecytoplasmanditsnucleartranslocation,activatinggenesessentialforstem
+cellself-renewalanddifferentiation. Additionally,microgravitymodulatesNotchpath-
+
+Int.J.Mol.Sci.2025,26,3058 16of23
+wayinteractionsandtranscriptionfactorslikeRUNX1,crucialforhematopoieticlineage
+commitment. Structuralrearrangementsinhematopoieticnichesundermicrogravityalter
+cell-to-cellinteractionsandadhesionmoleculeexpression,facilitatingthethree-dimensional
+organizationofhematopoieticclusters. Onaphysiologicallevel,microgravity-induced
+metabolicadjustmentsenhanceresponsivenesstohypoxicstimuli,promotinghematopoi-
+eticmaturation. Thesefindingsunderscorethepotentialofmicrogravity-basedsystems
+torefinecellculturetechniquesandprovideinsightsintospaceflight’seffectsonhuman
+hematopoieticfunction[17,18].
+6.2. CellProliferationandRegenerativeTherapies
+Microgravitysignificantlyinfluencescellproliferationandfunctionality,representing
+atransformativeadvancementforbiomedicalresearchandregenerativemedicine[63,64].
+In studies with pancreatic islets and neural crest stem cells, exposure to microgravity
+notablyenhancedcellproliferation,particularlyinthree-dimensional(3D)cultures. For
+instance,pancreaticbetacellsexhibiteda45%increaseinproliferationaftertwoweeksof
+microgravityexposurecomparedtocontrolsundernormalgravityconditions[63,65].
+Microgravitynotonlyboostscellgrowthbutalsomodulatesspecificfunctions. For
+example,pancreaticbetacellsculturedundermicrogravityshowedasignificantincreasein
+insulinsecretion,suggestingpotentialapplicationsindevelopingtherapiesformetabolic
+diseasessuchasdiabetes[66]. Furthermore,co-culturingstemcellswithpancreaticislets
+under microgravity improved cell viability by 20%, highlighting its ability to create a
+favorableenvironmentforcelldevelopment[63,67].
+Theformationofthree-dimensionalstructuresundermicrogravityisacriticalaspect
+oftheseimprovements. Unliketwo-dimensionalcultures,3Dmodelsmoreaccuratelyrepli-
+catehumanphysiologicalconditions,allowingforcomplexcell–cellandcell–environment
+interactionsessentialfordifferentiation,proliferation,andfunctionality. Betacellsin3D
+modelsnotonlyproliferatedmorerapidlybutalsomaintainedenhancedfunctionality,as
+demonstratedbyincreasedinsulinsecretion[63,66].
+Atthemolecularlevel,microgravityappearstomodulatekeysignalingpathways,
+suchasPI3K-AktandmTOR,whichregulatecellsurvival,proliferation,andmetabolism.
+While further studies are needed to confirm their specific roles in beta cells and neural
+creststemcells,thesefindingsunderscoremicrogravity’sabilitytoinfluencefundamental
+processesandoptimizecellcultureconditions[63,65].
+Microgravityoffersauniqueenvironmentthatenhancescellproliferation,viability,
+andfunctionalityin3Dmodels,withdirectapplicationsinregenerativemedicine. This
+environmentnotonlypromotescellgrowthbutalsoimprovesthefunctionalqualityofcells,
+whichcansignificantlyadvancethedevelopmentofcelltherapies. Forinstance,pancreatic
+isletsculturedundermicrogravityconditionscouldexhibitsuperiorefficacyintransplants
+fordiabetespatients,demonstratingincreasedproliferationandfunctionalcapacity,which
+couldgreatlyenhancetherapeuticoutcomes[63,67].
+7. ImpactonPathogenVirulence
+Microgravity,whetherexperiencedduringspaceflightorsimulatedinterrestrialmod-
+els, induces significant changes in the genetic expression and physiology of pathogens
+affectingbothhumansandplants. Thesechangeshaveprofoundimplicationsforastronaut
+health, space exploration, and the prevention of foodborne illnesses in space environ-
+ments[15,68,69].
+
+Int.J.Mol.Sci.2025,26,3058 17of23
+7.1. IncreasedPathogenVirulenceandResistance
+Undermicrogravityconditions,bacterialpathogenssuchasSalmonellaentericaand
+Escherichiacoliexhibitincreasedvirulence,antibioticresistance,stresstolerance,andbiofilm
+formation. Thisisoftenaccompaniedbyareducedmedianlethaldose(LD50)inanimal
+models. For instance, Salmonella Typhimurium cultured under simulated microgravity
+demonstratedfivefoldhigherlethalityinmicecomparedtoculturesgrownundernormal
+gravity. Additionally,thesepathogenshavebeenobservedtoevadeandsuppressplant
+innateimmunity,enablingcolonizationofintracellularspaces. Whiletheseprocessesare
+alsoobservedonEarth,itremainsunclearwhethermicrogravityenhancesthesecapabilities
+ormerelyfacilitatestheirstudy[15,16].
+7.2. MolecularMechanismsDrivingVirulence
+Microgravityaltersextracellularnutrienttransportandactivatesmolecularpathways
+thatenhancebacterialvirulence. Akeyfactorislowfluidshear,aphysicalstimulusthat
+mimicsmicrogravityenvironmentsandisalsopresentinhumanmicroenvironmentssuch
+as the gastrointestinal tract. Low fluid shear conditions favor the expression of stress
+tolerance and virulence-related genes, including those linked to the type III secretion
+system(TS3)andironmetabolismregulation. Forexample, SalmonellaTyphimuriumex-
+posedtomicrogravityshowsincreasedtolerancetoacidicconditionsandupregulation
+ofgenescontrolledbyFur,acriticalregulatorofironacquisitionandvirulenceinenteric
+pathogens[15,68,69].
+7.3. EffectsonBiofilmFormationandStressResponse
+Microgravity also influences the transport of oxygen and phosphates due to the
+absenceofconvection,replicatingconditionssimilartothoseinhumaninfections. These
+environmentalchangesimpactgeneexpressionrelatedtostresstoleranceandvirulence.For
+instance,Escherichiacolidemonstratesenhancedbiofilmformationandincreasedexpression
+ofgenesresponsibleforhostcelladherenceandlesionformation,therebyamplifyingits
+pathogenicpotential. However,theseeffectsarenotuniversal;variationsinresultssuggest
+that the impact of microgravity depends on the pathogen type, culture medium, and
+specificexperimentalconditions[15,16].
+ArecurringobservationacrossmultiplestudiesisthedecreasedexpressionofHfq,
+akeyregulatoryproteininvolvedinstressresponseandvirulence. Hfqplaysacritical
+roleintheadaptationofbothGram-negativeandGram-positivepathogensunderstress
+conditions,includingmicrogravity. Understandingtheregulatorymechanismsinvolving
+Hfqcouldprovideinsightsintomitigatingtherisksofpathogenvirulenceduringprolonged
+spacemissions[15,16].
+Microgravitysignificantlyaffectsinteractionsbetweenhumanpathogensandplants,
+increasingbacterialvirulenceandcompromisingplantdefensemechanisms. Forexample,
+pathogensundermicrogravityconditionsdemonstrateanenhancedabilitytosuppress
+plant immune responses, facilitating colonization and intracellular persistence [53–57].
+Theseeffectsunderscoretheimportanceofinvestigatingpathogenbehaviorinextreme
+conditionstodevelopstrategiesthatmitigatehealthrisksinspaceenvironments[15,16].
+8. Discussion
+Recentresearchdemonstratesthatmicrogravitysignificantlyinfluencesawidearray
+ofbiologicalprocesses,includingimmuneresponses,cellproliferation,andtissueregenera-
+tion. Thisuniqueenvironmentdisruptskeymechanismssuchasmitochondrialbiogenesis,
+liver metabolism, intestinal homeostasis, and stem cell differentiation, with profound
+implicationsforhumanhealth,particularlyduringprolongedspacetravel(Table1).
+
+Int.J.Mol.Sci.2025,26,3058 18of23
+Table1.Summaryoftheeffectsofmicrogravityondifferentcellsandtissues,includingmolecular
+pathwaysandpathogenbehavior.
+Cell/TissueType KeyEffectsofMicrogravity Source Reference
+Macrophages • ImbalancebetweenM1andM2polarization • Human [1,2,58]
+• Human
+DendriticCells • ↓Antigenpresentation [1,58]
+• Mouse
+Neutrophils • ↑Numbersbutwith↓functionality • Human [2,3,61]
+• Human
+BLymphocytes • ↓Proliferationandincreasedapoptosis [1,59,61]
+• Mouse
+NKCells • ↓Cytotoxicactivity • Human [1,59,70]
+• Human
+TCells • ↓Activationandproliferation [1,59,62]
+• Mouse
+KeyMolecularPathways • DysfunctioninRAS,ERK,andNF-κBpathways • Human [1,4,59]
+Cellcultureofthefollowing:
+CancerStemCells
+• ↑Apoptosis • Breastcancer
+[5,6,8]
+• LungCancer
+• GastrointestinalCancer
+• Human
+ThyroidCancerCells • Lowproliferationandgrowth [29,54]
+• Mouse
+MicrovascularEndothelialCells • Inhibitionofproliferation • Human [9,10,23]
+• RhesusMacaques
+HepaticCells • ↑Lipidaccumulation(lipotoxicity) [34]
+• Rodents
+IntestinalCells • Dysbiosis • Human [34,36]
+BoneCells • Increasedbonemassloss • Human [41]
+• ↓Oxidativephosphorylationandfattyacid
+KidneyCells metabolismgenes(↓mitochondrialrespiration, • Human [46]
+metabolicshift)
+• Mouse
+ReproductiveCells • ↓Eggquality [39,47,49]
+• InVitroHumanOocytes
+Cardiomyocytes • ↑Maturationandfunctionality • Human [50–52]
+• TemporarydeactivationoftheHippopathway
+• Mouse
+StemCells (increasedproliferationand [53–55]
+• Human
+tissuerepairresponse)
+• Human
+HematopoieticCells • ↑Differentiation [55,56]
+• Mouse
+Cellcultureofthefollowing:
+CellProliferationand
+• ↑Cellproliferation • Pancreaticislets [63,66]
+RegenerativeTherapy
+• Neuralcreststemcells
+• Salmonellaenterica
+• SalmonellaTyphimurium
+Pathogens • ↑Virulence [15,16,68,69]
+(inmice)
+• Escherichiacoli
+↑:increase;↓:decrease.
+Advances in understanding the effects of microgravity on stem cells, T cells, and
+immunefunctionhavecreatednewopportunitiesfortherapeuticinnovations. Alterations
+in cellular biology under microgravity conditions have been shown to affect diseases
+such as cancer, osteoporosis, kidney dysfunction, and infertility. Additionally, changes
+observedinendothelialcellbehaviorandmulti-organhomeostasishighlightmicrogravity’s
+potentialtorevolutionizeregenerativemedicineanddeepenourunderstandingofhuman
+physiologyinextremeenvironments.
+Microgravityalsoholdssignificantpromiseforpersonalizedmedicinebyfacilitating
+progressinregenerativetherapies,immune-basedtreatments,andapproachestomanaging
+chronic diseases. These findings emphasize microgravity’s transformative potential to
+reshapecellularbiologyanditsapplicationtocontemporarymedicalchallenges,bothin
+spaceandonEarth.
+
+Int.J.Mol.Sci.2025,26,3058 19of23
+Asadefiningcharacteristicofspaceenvironments,microgravityimposesprofound
+andmultidimensionaleffectsonbiologicalandphysiologicalsystems, challengingcon-
+ventional notions of human adaptation. The near-total absence of gravitational forces
+disruptsnumerousbodilyprocesses,posingriskstohealthduringandafterspacemissions.
+Keyeffectsincludefluidredistribution,increasedintracranialpressure,muscleatrophy,
+andcalcium-relatedbonedensityloss. Atthemolecularlevel,microgravityaltersgene
+expression,cellsignaling,andmitochondrialfunction,withsignificantconsequencesfor
+energyproductionandcellularhealth[37–39].
+Intheimmunesystem,microgravityreducesTcellactivityandsuppressesimmune
+responses,increasingsusceptibilitytoinfections. Theseeffectshighlightthenecessityof
+mitigatingimmunedysfunctionduringspacetravel. Similarly,studieshavedocumented
+changesinthehumanmicrobiome,withpotentialimplicationsforastronauthealthand
+nutritionalstrategiesduringprolongedmissions.
+Microgravityresearchhasalsoledtotechnologicalandmedicalbreakthroughswith
+applications beyond space exploration. For instance, the study of proteins and drug
+crystalsundermicrogravityhasproducedpurerandmorestablestructures,offeringnew
+therapeuticpossibilitiesforchronicdiseases. Additionally,materialsresearchinspacehas
+contributedtothedevelopmentofinnovativecompoundswithapplicationsinbothspace
+andterrestrialindustries. Theseadvancementsenhancethesafetyandefficiencyofspace
+missionswhiledeliveringbroadscientificandtechnologicalbenefits[39,40].
+Despitetheseadvances,thecomplexeffectsofprolongedexposuretomicrogravity
+underlinetheneedforfurtherresearch,particularlyinanticipationofmissionstoMars
+andotherdistantdestinations. Experimentalmodels,suchasspaceplatformsandterres-
+trialsimulators,remainindispensabletoolsforunderstandingthelong-termimpactsof
+microgravityanddevelopingeffectivecountermeasures[37,49].
+Thestudyofmicrogravitynotonlyexpandsourunderstandingofhowthehuman
+bodyadaptstoextremeenvironmentsbutalsodrivesinnovationswithprofoundimplica-
+tionsforscience,medicine,andtechnology. Bypushingtheboundariesofwhatisknown,
+thisresearchestablishesitselfasacornerstoneforadvancementsthatextendbeyondspace
+exploration,reshapingourperspectivesonbiologyandhumanhealth[37,40].
+9. Conclusions
+Microgravitypresentsauniqueandmultifacetedchallengeforhumanbiology,pro-
+foundlyinfluencingcellularsystemsandphysiologicalprocesses. Thisenvironment,dis-
+tinctfromterrestrialconditions,disruptskeybiologicalfunctionssuchasimmuneactivity,
+celldifferentiation,tissueregeneration,andmitochondrialbiogenesis,therebydestabilizing
+homeostasiscriticalforhumanhealth.
+Emergingresearchhashighlightedthediverseeffectsofmicrogravity,includingits
+impactontheimmunesystem,whereTcellfunctiondiminishes,increasingsusceptibilityto
+infections.Additionally,cancercellsexhibitalteredbehaviorundermicrogravity,providing
+newinsightsintotumorprogressionandpotentialtherapeuticapproaches. Thesefindings
+underscoretheneedforfurtherinvestigationintohowmicrogravityinfluencesdisease
+mechanismsandtreatmentresponses.
+Microgravity also affects the physiology of vital organs, such as the liver, kidneys,
+andbones,withimplicationsforunderstandingtissueregeneration. Notably,stemcells
+exposedtomicrogravitydemonstrateenhancedpotentialtoproducemature,functional
+cellssuchascardiomyocytes,offeringtransformativepossibilitiesinregenerativemedicine
+forrepairingdamagedcardiactissueandotherapplications.
+Thecontinuedexplorationofmicrogravity’seffectsisessentialnotonlyforsafeguard-
+ingastronauthealthduringprolongedspacemissionsbutalsoforadvancingtherapeutic
+
+Int.J.Mol.Sci.2025,26,3058 20of23
+strategiesonEarth. Theabilityofmicrogravitytoinduceuniquebiologicalchangesoffers
+unparalleledopportunitiestoinnovateinregenerativemedicine,cancertreatment,andthe
+managementofimmunedysfunctions.
+Byleveragingmicrogravityasaresearchplatform,medicineandbiotechnologystand
+togaintransformativeinsightsandnovelapplications,extendingtheboundariesofourun-
+derstandingofhumanbiologyanddrivingthedevelopmentoftherapiesthatcanimprove
+healthoutcomesbothinspaceandonEarth.
+AuthorContributions:Conceptualization,N.A.L.G.,M.V.P.-F.andJ.S.S.T.;methodology,N.A.L.G.,
+M.V.P.-F., J.S.S.T., M.A.-I. and J.S.I.-C.; software, N.A.L.G., M.V.P.-F., J.S.S.T., M.A.-I. and C.S.-S.;
+validation,M.A.-I.andJ.S.I.-C.;formalanalysis,N.A.L.G.,M.V.P.-F.,J.S.S.T.andC.S.-S.;investigation,
+N.A.L.G.,M.V.P.-F.,J.S.S.T.,H.A.N.-C.,M.A.-I.,C.S.-S.andJ.S.I.-C.;resources,N.A.L.G.,M.V.P.-F.,
+J.S.S.T.,H.A.N.-C.,M.A.-I.andC.S.-S.;datacuration,J.S.S.T.,M.A.-I.andJ.S.I.-C.;writing—original
+draftpreparation,N.A.L.G.,M.V.P.-F.,J.S.S.T.,H.A.N.-C.andC.S.-S.;writing—reviewandediting,
+M.A.-I. and J.S.I.-C.; visualization, N.A.L.G., J.S.S.T., M.A.-I. and J.S.I.-C.; supervision, J.S.I.-C.;
+projectadministration,J.S.I.-C.;fundingacquisition,J.S.I.-C.Allauthorshavereadandagreedtothe
+publishedversionofthemanuscript.
+Funding:Thisresearchreceivednoexternalfunding.
+InstitutionalReviewBoardStatement:Notapplicable.
+InformedConsentStatement:Notapplicable.
+DataAvailabilityStatement:Notapplicable.
+ConflictsofInterest:Theauthorsdeclarenoconflictsofinterest.
+References
+1. Lv,H.;Yang,H.;Jiang,C.;Shi,J.;Chen,R.-A.;Huang,Q.;Shao,D.MicrogravityandImmuneCells. J.R.Soc. Interface2023,
+20,20220869.[CrossRef][PubMed]
+2. Wang,P.;Tian,H.;Zhang,J.;Qian,J.;Li,L.;Shi,L.;Zhao,Y.Spaceflight/MicrogravityInhibitstheProliferationofHematopoietic
+StemCellsbyDecreasingKit-Ras/cAMP-CREBPathwayNetworksasEvidencedbyRNA-SeqAssays.FASEBJ.Off.Publ.Fed.
+Am.Soc.Exp.Biol.2019,33,5903–5913.[CrossRef]
+3. Nickerson, C.A.; McLean, R.J.C.; Barrila, J.; Yang, J.; Thornhill, S.G.; Banken, L.L.; Porterfield, D.M.; Poste, G.; Pellis, N.R.;
+Ott, C.M.MicrobiologyofHumanSpaceflight: MicrobialResponsestoMechanicalForcesThatImpactHealthandHabitat
+Sustainability.Microbiol.Mol.Biol.Rev.MMBR2024,88,e0014423.[CrossRef]
+4. Minoretti,P.;Fortuna,G.;Lavdas,K.;D’Acquino,D.PotentialBiomarkersofResiliencetoMicrogravityHazardsinAstronauts.
+Cureus2024,16,e57173.[CrossRef][PubMed]
+5. Grimm,D.;Wehland,M.;Corydon,T.J.;Richter,P.;Prasad,B.;Bauer,J.;Egli,M.;Kopp,S.;Lebert,M.;Krüger,M.TheEffectsof
+MicrogravityonDifferentiationandCellGrowthinStemCellsandCancerStemCells.StemCellsTransl.Med.2020,9,882–894.
+[CrossRef]
+6. Anil-Inevi,M.;Sarigil,O.;Kizilkaya,M.;Mese,G.;Tekin,H.C.;Ozcivici,E.StemCellCultureUnderSimulatedMicrogravity.Adv.
+Exp.Med.Biol.2020,1298,105–132.[CrossRef]
+7. Aleshcheva,G.;Bauer,J.;Hemmersbach,R.;Slumstrup,L.;Wehland,M.;Infanger,M.;Grimm,D.Scaffold-FreeTissueFormation
+UnderRealandSimulatedMicrogravityConditions.BasicClin.Pharmacol.Toxicol.2016,119(Suppl.3),26–33.[CrossRef]
+8. Chen, Z.; Luo, Q.; Yuan, L.; Song, G. Microgravity Directs Stem Cell Differentiation. Histol. Histopathol. 2017, 32, 99–106.
+[CrossRef]
+9. Cotrupi,S.;Ranzani,D.;Maier,J.A.M.ImpactofModeledMicrogravityonMicrovascularEndothelialCells.Biochim.Biophys.
+Acta2005,1746,163–168.[CrossRef]
+10. Siamwala, J.H.; Majumder, S.; Tamilarasan, K.P.; Muley, A.; Reddy, S.H.; Kolluru, G.K.; Sinha, S.; Chatterjee, S. Simulated
+MicrogravityPromotesNitricOxide-SupportedAngiogenesisviatheiNOS-cGMP-PKGPathwayinMacrovascularEndothelial
+Cells.FEBSLett.2010,584,3415–3423.[CrossRef]
+11. Luo,H.;Wang,C.;Feng,M.;Zhao,Y.MicrogravityInhibitsRestingTCellImmunityinanExposureTime-DependentManner.
+Int.J.Med.Sci.2014,11,87–96.[CrossRef][PubMed]
+
+Int.J.Mol.Sci.2025,26,3058 21of23
+12. Mermel,L.A.InfectionPreventionandControlduringProlongedHumanSpaceTravel.Clin.Infect.Dis.Off.Publ.Infect.Dis.Soc.
+Am.2013,56,123–130.[CrossRef]
+13. Crucian,B.;Sams,C.ImmuneSystemDysregulationduringSpaceflight:ClinicalRiskforExploration-ClassMissions.J.Leukoc.
+Biol.2009,86,1017–1018.[CrossRef][PubMed]
+14. Taylor,G.R.OverviewofSpaceflightImmunologyStudies.J.Leukoc.Biol.1993,54,179–188.[CrossRef]
+15. Totsline,N.;Kniel,K.E.;Bais,H.P.MicrogravityandEvasionofPlantInnateImmunitybyHumanBacterialPathogens. NPJ
+Microgravity2023,9,71.[CrossRef]
+16. Wilson,J.W.;Ott,C.M.;HönerzuBentrup,K.;Ramamurthy,R.;Quick,L.;Porwollik,S.;Cheng,P.;McClelland,M.;Tsaprailis,G.;
+Radabaugh,T.;etal.SpaceFlightAltersBacterialGeneExpressionandVirulenceandRevealsaRoleforGlobalRegulatorHfq.
+Proc.Natl.Acad.Sci.USA2007,104,16299–16304.[CrossRef]
+17. Ma,C.;Xiong,Y.;Han,P.;Zhang,X.;Cao,Y.;Wang,B.;Zhao,H.;Duan,E.;Zhang,J.V.;Lei,X.SimulatedMicrogravityPotentiates
+HematopoieticDifferentiationofHumanPluripotentStemCellsandSupportsFormationof3DHematopoieticCluster.Front.Cell
+Dev.Biol.2021,9,797060.[CrossRef]
+18. Timilsina,S.;Kirsch-Mangu,T.;Werth,S.;Shepard,B.;Ma,T.;Villa-Diaz,L.G.EnhancedSelf-RenewalofHumanPluripotent
+StemCellsbySimulatedMicrogravity.NPJMicrogravity2022,8,22.[CrossRef]
+19. Cortés-Sánchez,J.L.;Callant,J.;Krüger,M.;Sahana,J.;Kraus,A.;Baselet,B.;Infanger,M.;Baatout,S.;Grimm,D.CancerStudies
+underSpaceConditions:FindingAnswersAbroad.Biomedicines2021,10,25.[CrossRef]
+20. Yang,J.-Q.;Jiang,N.;Li,Z.-P.;Guo,S.;Chen,Z.-Y.;Li,B.-B.;Chai,S.-B.;Lu,S.-Y.;Yan,H.-F.;Sun,P.-M.;etal. TheEffectsof
+MicrogravityontheDigestiveSystemandtheNewInsightsItBringstotheLifeSciences. LifeSci. SpaceRes. 2020,27,74–82.
+[CrossRef]
+21. Akiyama,T.;Horie,K.;Hinoi,E.;Hiraiwa,M.;Kato,A.;Maekawa,Y.;Takahashi,A.;Furukawa,S.HowDoesSpaceflightAffect
+theAcquiredImmuneSystem?npjMicrogravity2020,6,14.[CrossRef][PubMed]
+22. Pani,G.;Verslegers,M.;Quintens,R.;Samari,N.;deSaint-Georges,L.;vanOostveldt,P.;Baatout,S.;Benotmane,M.A.Combined
+Exposure to Simulated Microgravity and Acute or Chronic Radiation Reduces Neuronal Network Integrity and Survival.
+PLoSONE2016,11,e0155260.[CrossRef]
+23. Maier,J.A.M.;Cialdai,F.;Monici,M.;Morbidelli,L.TheImpactofMicrogravityandHypergravityonEndothelialCells.BioMed
+Res.Int.2015,2015,434803.[CrossRef][PubMed]
+24. Wuest,S.L.;Richard,S.;Kopp,S.;Grimm,D.;Egli,M.SimulatedMicrogravity:CriticalReviewontheUseofRandomPositioning
+MachinesforMammalianCellCulture.BioMedRes.Int.2015,2015,971474.[CrossRef]
+25. Pletser,V.ShortDurationMicrogravityExperimentsinPhysicalandLifeSciencesduringParabolicFlights: TheFirst30ESA
+Campaigns.ActaAstronaut.2004,55,829–854.[CrossRef]
+26. Wang,H.;Dong,J.;Li,G.;Tan,Y.;Zhao,H.;Zhang,L.;Wang,Y.;Hu,Z.;Cao,X.;Shi,F.;etal.TheSmallProteinMafGPlaysa
+CriticalRoleinMC3T3-E1CellApoptosisInducedbySimulatedMicrogravityandRadiation.Biochem.Biophys.Res.Commun.
+2021,555,175–181.[CrossRef]
+27. Topal,U.;Zamur,C.Microgravity,StemCells,andCancer:ANewHopeforCancerTreatment.StemCellsInt.2021,2021,1–9.
+[CrossRef]
+28. Grimm, D.; Schulz, H.; Krüger, M.; Cortés-Sánchez, J.L.; Egli, M.; Kraus, A.; Sahana, J.; Corydon, T.J.; Hemmersbach, R.;
+Wise,P.M.;etal.TheFightagainstCancerbyMicrogravity:TheMulticellularSpheroidasaMetastasisModel.Int.J.Mol.Sci.
+2022,23,3073.[CrossRef]
+29. Wang,D.;Silvani,G.;Schroeter,L.;Brynn,R.;Chou,J.;Poole,K.TheMechanosensitiveChannelELKIN1RegulatesCellular
+AdaptationstoSimulatedMicrogravity.NPJMicrogravity2025,11,10.[CrossRef]
+30. Kopp,S.;Warnke,E.;Wehland,M.;Aleshcheva,G.;Magnusson,N.E.;Hemmersbach,R.;Corydon,T.J.;Bauer,J.;Infanger,M.;
+Grimm,D.MechanismsofThree-DimensionalGrowthofThyroidCellsduringLong-TermSimulatedMicrogravity. Sci. Rep.
+2015,5,16691.[CrossRef]
+31. Kossmehl,P.;Shakibaei,M.;Cogoli,A.;Pickenhahn,H.;Paul,M.;Grimm,D.SimulatedMicrogravityInducesProgrammedCell
+DeathinHumanThyroidCarcinomaCells.J.GravitationalPhysiol.J.Int.Soc.GravitationalPhysiol.2002,9,P295–P296.
+32. Infanger,M.;Kossmehl,P.;Shakibaei,M.;Schulze-Tanzil,G.;Cogoli,A.;Faramarzi,S.;Bauer,J.;Curcio,F.;Paul,M.;Grimm,D.
+LongtermConditionsofMimickedWeightlessnessInfluencestheCytoskeletoninThyroidCells.J.GravitationalPhysiol.J.Int.Soc.
+GravitationalPhysiol.2004,11,P169–P172.
+33. Janmaleki, M.; Pachenari, M.; Seyedpour, S.M.; Shahghadami, R.; Sanati-Nezhad, A.ImpactofSimulatedMicrogravityon
+CytoskeletonandViscoelasticPropertiesofEndothelialCell.Sci.Rep.2016,6,32418.[CrossRef]
+34. Zong,B.;Wang,Y.;Wang,J.;Zhang,P.;Kan,G.;Li,M.;Feng,J.;Wang,Y.;Chen,X.;Jin,R.;etal.EffectsofLong-TermSimulated
+MicrogravityonLiverMetabolisminRhesusMacaques.FASEBJ.Off.Publ.Fed.Am.Soc.Exp.Biol.2022,36,e22536.[CrossRef]
+
+Int.J.Mol.Sci.2025,26,3058 22of23
+35. Zhang,X.;Chu,X.;Chen,L.;Fu,J.;Wang,S.;Song,J.;Kan,G.;Jiang,W.;He,G.;Chen,X.;etal. SimulatedWeightlessness
+Procedure,Head-downBedRestImpairsAdultNeurogenesisintheHippocampusofRhesusMacaque.Mol.Brain2019,12,46.
+[CrossRef]
+36. McGregor, H.R.; Lee, J.K.; Mulder, E.R.; De Dios, Y.E.; Beltran, N.E.; Kofman, I.S.; Bloomberg, J.J.; Mulavara, A.P.; Seidler,
+R.D.BrainConnectivityandBehavioralChangesinaSpaceflightAnalogEnvironmentwithElevatedCO . NeuroImage2021,
+2
+225,117450.[CrossRef]
+37. AsuwinPrabu,R.G.;Manohar,A.;Narendran,S.;Kabir,A.;Sudhakar,S.EffectofSimulatedMicrogravityonArtificialSingleCell
+MembraneMechanics.MicrogravitySci.Technol.2024,36,47.[CrossRef]
+38. Wuest,S.L.;Cerretti,G.;Polzer,J.;Gerig,S.;Zumbühl,C.;Jost,C.;Rüfenacht,L.;Eberli,R.;Krucker-Bösch,B.;Traversari,J.;etal.
+RecordingsonPIEZO1-OverexpressingOocytesinMicrogravity.MicrogravitySci.Technol.2025,37,3.[CrossRef]
+39. Chen,H.;Li,X.;Zhang,H.;Yang,P.;Liu,Y.;Ye,W.;Yan,C.;Wang,X.ControlStrategyOptimizationofThermodynamicVenting
+SysteminLiquidHydrogenStorageTankUnderMicrogravity.MicrogravitySci.Technol.2024,37,1.[CrossRef]
+40. vandenNieuwenhof,D.W.A.;Moroni,L.;Chou,J.;Hinkelbein,J.CellularResponseinThree-DimensionalSpheroidsandTissues
+ExposedtoRealandSimulatedMicrogravity:ANarrativeReview.NPJMicrogravity2024,10,102.[CrossRef]
+41. Wubshet, N.H.; Cai, G.; Chen, S.J.; Sullivan, M.; Reeves, M.; Mays, D.; Harrison, M.; Varnado, P.; Yang, B.;
+Arreguin-Martinez,E.;etal.CellularMechanotransductionofHumanOsteoblastsinMicrogravity.NPJMicrogravity2024,10,35.
+[CrossRef][PubMed]
+42. Hochmuth,R.M.MicropipetteAspirationofLivingCells.J.Biomech.2000,33,15–22.[CrossRef][PubMed]
+43. Lee,L.M.;Liu,A.P.TheApplicationofMicropipetteAspirationinMolecularMechanicsofSingleCells.J.Nanotechnol.Eng.Med.
+2014,5,0408011–0408016.[CrossRef][PubMed]
+44. Nolfi-Donegan, D.; Braganza, A.; Shiva, S. Mitochondrial Electron Transport Chain: Oxidative Phosphorylation, Oxidant
+Production,andMethodsofMeasurement.RedoxBiol.2020,37,101674.[CrossRef]
+45. Taanman,J.W.TheMitochondrialGenome:Structure,Transcription,TranslationandReplication.Biochim.Biophys.Acta1999,
+1410,103–123.[CrossRef]
+46. Leach,C.S.;Alfrey,C.P.;Suki,W.N.;Leonard,J.I.;Rambaut,P.C.;Inners,L.D.;Smith,S.M.;Lane,H.W.;Krauhs,J.M.Regulationof
+BodyFluidCompartmentsduringShort-TermSpaceflight.J.Appl.Physiol.1996,81,105–116.[CrossRef]
+47. Cheng,K.;Feng,X.;Yang,C.;Ma,C.;Niu,S.;Jia,L.;Yang,X.;Liang,J.;Bo,Y.;Geng,K.;etal.SimulatedMicrogravityReduces
+QualityofOvarianFolliclesandOocytesbyDisruptingCommunicationsofFollicleCells.npjMicrogravity2023,9,7.Available
+online:https://www.nature.com/articles/s41526-023-00248-5(accessedon17January2025).[CrossRef]
+48. Zhang,S.;Zheng,D.;Wu,Y.;Lin,W.;Chen,Z.;Meng,L.;Liu,J.;Zhou,Y.SimulatedMicrogravityUsingaRotaryCultureSystem
+CompromisestheInVitroDevelopmentofMousePreantralFollicles.PLoSONE2016,11,e0151062.[CrossRef]
+49. Miglietta,S.;Cristiano,L.;Espinola,M.S.B.;Masiello,M.G.;Micara,G.;Battaglione,E.;Linari,A.;Palmerini,M.G.;Familiari,G.;
+Aragona,C.;etal.EffectsofSimulatedMicrogravityInVitroonHumanMetaphaseIIOocytes:AnElectronMicroscopy-Based
+Study.Cells2023,12,1346.[CrossRef]
+50. Forghani, P.; Rashid, A.; Armand, L.C.; Wolfson, D.; Liu, R.; Cho, H.C.; Maxwell, J.T.; Jo, H.; Salaita, K.; Xu, C.Simulated
+MicrogravityImprovesMaturationofCardiomyocytesDerivedfromHumanInducedPluripotentStemCells. Sci. Rep. 2024,
+14,2243.[CrossRef]
+51. Ronaldson,K.;Vunjak-Novakovic,G.MicrogravityandMicrogravityAnalogueStudiesofCartilageandCardiacTissueEngineer-
+ing.InEffectofSpaceflightandSpaceflightAnalogueCultureonHumanandMicrobialCells:NovelInsightsintoDiseaseMechanisms;
+Nickerson,C.A.,Pellis,N.R.,Ott,C.M.,Eds.;Springer:NewYork,NY,USA,2016;pp.175–195,ISBN978-1-4939-3277-1.
+52. Camberos,V.;Baio,J.;Bailey,L.;Hasaniya,N.;Lopez,L.V.;Kearns-Jonker,M.EffectsofSpaceflightandSimulatedMicrogravity
+on YAP1 Expression in Cardiovascular Progenitors: Implications for Cell-Based Repair. Int. J. Mol. Sci. 2019, 20, 2742.
+Availableonline:https://pubmed.ncbi.nlm.nih.gov/31167392/(accessedon16January2025).[CrossRef][PubMed]
+53. Blaber,E.A.;Finkelstein,H.;Dvorochkin,N.;Sato,K.Y.;Yousuf,R.;Burns,B.P.;Globus,R.K.;Almeida,E.A.MicrogravityReduces
+theDifferentiationandRegenerativePotentialofEmbryonicStemCells.StemCellsDev.2015,24,2605–2621.Availableonline:
+https://pubmed.ncbi.nlm.nih.gov/26414276/(accessedon16January2025).
+54. Krüger,M.;Melnik,D.;Kopp,S.;Buken,C.;Sahana,J.;Bauer,J.;Wehland,M.;Hemmersbach,R.;Corydon,T.J.;Infanger,M.;etal.
+FightingThyroidCancerwithMicrogravityResearch.Int.J.Mol.Sci.2019,20,2553.[CrossRef][PubMed]
+55. Baio, J.; Martinez, A.F.; Silva, I.; Hoehn, C.V.; Countryman, S.; Bailey, L.; Hasaniya, N.; Pecaut, M.J.; Kearns-Jonker, M.
+CardiovascularProgenitorCellsCulturedAboardtheInternationalSpaceStationExhibitAlteredDevelopmentalandFunctional
+Properties.NPJMicrogravity2018,4,13.[CrossRef]
+56. Zheng,H.;Chen,Y.;Luo,Q.;Zhang,J.;Huang,M.;Xu,Y.;Huo,D.;Shan,W.;Tie,R.;Zhang,M.;etal.GeneratingHematopoietic
+CellsfromHumanPluripotentStemCells:Approaches,ProgressandChallenges.CellRegen.2023,12,31.[CrossRef]
+57. Cao,X.;Yakala,G.K.;vandenHil,F.E.;Cochrane,A.;Mummery,C.L.;Orlova,V.V.DifferentiationandFunctionalComparisonof
+MonocytesandMacrophagesfromhiPSCswithPeripheralBloodDerivatives.StemCellRep.2019,12,1282–1297.[CrossRef]
+
+Int.J.Mol.Sci.2025,26,3058 23of23
+58. Shi,L.;Tian,H.;Wang,P.;Li,L.;Zhang,Z.;Zhang,J.;Zhao,Y.SpaceflightandSimulatedMicrogravitySuppressesMacrophage
+DevelopmentviaAlteredRAS/ERK/NFκBandMetabolicPathways.Cell.Mol.Immunol.2021,18,1489–1502.[CrossRef]
+59. Savary,C.A.;Grazziutti,M.L.;Przepiorka,D.;Tomasovic,S.P.;McIntyre,B.W.;Woodside,D.G.;Pellis,N.R.;Pierson,D.L.;Rex,
+J.H.CharacteristicsofHumanDendriticCellsGeneratedinaMicrogravityAnalogCultureSystem.VitroCell.Dev.Biol.—Anim.
+2001,37,216–222.[CrossRef]
+60. Kaur,I.;Simons,E.R.;Castro,V.A.;MarkOtt,C.;Pierson,D.L.ChangesinNeutrophilFunctionsinAstronauts. Brain. Behav.
+Immun.2004,18,443–450.[CrossRef]
+61. Tascher,G.;Gerbaix,M.;Maes,P.;Chazarin,B.;Ghislin,S.;Antropova,E.;Vassilieva,G.;Ouzren-Zarhloul,N.;Gauquelin-Koch,
+G.;Vico,L.;etal.AnalysisofFemursfromMiceEmbarkedonBoardBION-M1BiosatelliteRevealsaDecreaseinImmuneCell
+Development,IncludingBCells,after1WkofRecoveryonEarth.FASEBJ.2019,33,3772–3783.[CrossRef]
+62. Felix,K.;Wise,K.;Manna,S.;Yamauchi,K.;Wilson,B.L.;Thomas,R.L.;Kulkarni,A.;Pellis,N.R.;Ramesh,G.T.AlteredCytokine
+ExpressioninTissuesofMiceSubjectedtoSimulatedMicrogravity.Mol.Cell.Biochem.2004,266,79–85.[CrossRef][PubMed]
+63. Zeger,L.;Barasa,P.;Han,Y.;Hellgren,J.;Redwan,I.N.;Reiche,M.E.;Florin,G.;Christoffersson,G.;Kozlova,E.N.Microgravity
+EffectonPancreaticIslets.Cells2024,13,1588.[CrossRef][PubMed]
+64. Eizirik, D.L.; Mandrup-Poulsen, T. A Choice of Death--the Signal-Transduction of Immune-Mediated Beta-Cell Apoptosis.
+Diabetologia2001,44,2115–2133.[CrossRef][PubMed]
+65. Uno,S.;Imagawa,A.;Okita,K.;Sayama,K.;Moriwaki,M.;Iwahashi,H.;Yamagata,K.;Tamura,S.;Matsuzawa,Y.;Hanafusa,T.;
+etal.MacrophagesandDendriticCellsInfiltratingIsletswithorwithoutBetaCellsProduceTumourNecrosisFactor-Alphain
+PatientswithRecent-OnsetType1Diabetes.Diabetologia2007,50,596–601.[CrossRef]
+66. Song,Y.;Wei,Z.;Song,C.;Xie,S.;Feng,J.;Fan,J.;Zhang,Z.;Shi,Y.SimulatedMicrogravityCombinedwithPolyglycolicAcid
+ScaffoldCultureConditionsImprovestheFunctionofPancreaticIslets.BioMedRes.Int.2013,2013,150739.[CrossRef]
+67. Demontis,G.C.;Germani,M.M.;Caiani,E.G.;Barravecchia,I.;Passino,C.;Angeloni,D.HumanPathophysiologicalAdaptations
+totheSpaceEnvironment.Front.Physiol.2017,8,547.[CrossRef]
+68. Zea,L.; Prasad,N.; Levy,S.E.; Stodieck,L.; Jones,A.; Shrestha,S.; Klaus,D.AMolecularGeneticBasisExplainingAltered
+BacterialBehaviorinSpace.PLoSONE2016,11,e0164359.[CrossRef]
+69. Castro,S.L.;Nelman-Gonzalez,M.;Nickerson,C.A.;Ott,C.M.InductionofAttachment-IndependentBiofilmFormationand
+RepressionofHfqExpressionbyLow-Fluid-ShearCultureofStaphylococcusAureus.Appl.Environ.Microbiol.2011,77,6368–6378.
+[CrossRef]
+70. Li,Q.;Mei,Q.;Huyan,T.;Xie,L.;Che,S.;Yang,H.;Zhang,M.;Huang,Q.EffectsofSimulatedMicrogravityonPrimaryHuman
+NKCells.Astrobiology2013,13,703–714.[CrossRef]
+Disclaimer/Publisher’sNote: Thestatements, opinionsanddatacontainedinallpublicationsaresolelythoseoftheindividual
+author(s)andcontributor(s)andnotofMDPIand/ortheeditor(s).MDPIand/ortheeditor(s)disclaimresponsibilityforanyinjuryto
+peopleorpropertyresultingfromanyideas,methods,instructionsorproductsreferredtointhecontent.

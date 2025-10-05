@@ -1,0 +1,1060 @@
+fi
+Pectin Methylesteri cation Impacts the
+Relationship between Photosynthesis and
+1[OPEN]
+Plant Growth
+Sarathi M. Weraduwage, Sang-Jin Kim, Luciana Renna, Fransisca C. Anozie, Thomas D. Sharkey*, and
+Federica Brandizzi*
+Department of Biochemistry and Molecular Biology (S.M.W., F.C.A., T.D.S.); Department of Energy Plant
+Research Laboratory (S.-J.K., L.R., F.B.); Department of Energy Great Lakes Bioenergy Research Center (S.-J.K.,
+F.B.); and Department of Plant Biology (F.B.), Michigan State University, East Lansing, Michigan 48824
+ORCID IDs:0000-0002-0591-4210(S.M.W.);0000-0002-4423-3223 (T.D.S.).
+Photosynthesisoccursinmesophyllcellsofspecializedorganssuchasleaves.Therigidcellwallencapsulatingphotosynthetic
+cellscontrolstheexpansionanddistributionofcellswithinphotosynthetictissues.Therelationshipbetweenphotosynthesisand
+plant growth is affected by leaf area. However, the underlying genetic mechanisms affecting carbon partitioning to different
+aspects of leaf growth are not known. To fill this gap, we analyzed Arabidopsis plants with altered levels of pectin
+methylesterification,whichisknowntomodulatecellwallplasticityandplantgrowth.Pectinmethylesterificationlevelswere
+varied through manipulation of cotton Golgi-related (CGR) 2 or 3 genes encoding two functionally redundant pectin
+methyltransferases. Increased levels of methylesterification in a line over-expressing CGR2 (CGR2OX) resulted in highly
+expanded leaves with enhanced intercellular air spaces; reduced methylesterification in a mutant lacking both CGR-genes 2
+and 3 (cgr2/3) resulted in thin but dense leaf mesophyll that limited CO diffusion to chloroplasts. Leaf, root, and plant dry
+2
+weightwereenhancedinCGR2OXbutdecreasedincgr2/3.DifferencesingrowthbetweenwildtypeandtheCGR-mutantscan
+beexplainedbycarbonpartitioningbutnotbyvariationsinarea-basedphotosynthesis.Therefore,photosynthesisdrivesgrowth
+through alterations in carbon partitioning to new leaf area growth and leaf mass per unit leaf area; however, CGR-mediated
+pectinmethylesterificationactsasaprimaryfactorinthisrelationshipthroughmodulationoftheexpansionandpositioningof
+thecellsinleaves,whichinturndrivecarbonpartitioningbygeneratingdynamiccarbondemandsinleafareagrowthandleaf
+massper unitleafarea.
+Photosynthesis is the major source of carbon (C) for growthparameters.Astrongpositivecorrelationexists
+plant growth. However, there is no clear correlation betweenrelativegrowthrateandleafgrowthparame-
+between area-based photosynthesis and plant growth, ters such as leaf area per unit leaf mass (specific leaf
+and studies have shown that the relationship between area,SLA),leafareaperunitplantmass(leafarearatio),
+photosynthesisandplantgrowthisaffectedbyleafarea and investment of C in leaf growth (leaf mass ratio;
+Shipley,2002;Lambersetal.,2008;Poorteretal.,2009).
+Infact,modeledpartitioningcoefficientsobtainedfrom
+1Funding for this research was provided by the Chemical Sci-
+ences,GeosciencesandBiosciencesDivision,OfficeofBasicEnergy the Arabidopsis leaf area growth model showed that
+Sciences, Office of Science, U.S. Department of Energy (award no. plant growth is more sensitive to changes in C parti-
+DE-FG02-91ER20021)andinpartbytheDepartmentofEnergyGreat tioning toleafthickeningandleafareagrowththan to
+Lakes Bioenergy Research Center (Department of Energy Office of changes to area-based photosynthesis (Weraduwage
+Science no. BER DE-FC02-07ER64494). Partial salary support for etal.,2015).Theterm“thickening”wasusedtoindicate
+T.D.S.andF.B.camefromMichiganAgBioResearch. increased mass per unit leaf area (LMA), whether that
+*Addresscorrespondencetotsharkey@msu.eduorfb@msu.edu.
+resultsfromincreasedthicknessinthenormalsenseof
+Theauthorsresponsiblefordistributionofmaterialsintegraltothe
+findingspresented in this article in accordancewith the policy de- more depth to the leaf between adaxial and abaxial
+surfaces or from increased cell density. LMA is the re-
+scribedintheInstructionsforAuthors(www.plantphysiol.org)are:
+ThomasD.Sharkey(tsharkey@msu.edu)andFedericaBrandizzi(fb@ ciprocal of SLA. While LMA has been shown to posi-
+msu.edu). tively and linearly correlate with investment to leaves
+S.M.W.carriedoutmuchoftheresearch,analyzedthedata,and in the form of anatomical and chemical composition
+wrotethemanuscript;S.-J.K.andL.R.characterizedthemutantsand changes, SLA shows a hyperbolic relationship with
+performedcellwallcomponentanalysisandpartofanatomicalstud-
+such changes (Poorter et al., 2009). Therefore, we
+ies;F.C.A.providedtechnicalhelp;S.M.W.andT.D.SandF.B.con-
+will mainly focus on LMA throughout this work.
+ceivedtheexperiments;andT.D.S.andF.B.supervisedtheresearch
+Weraduwageet al.(2015) concludedthat even though
+andeditedthemanuscript.
+[OPEN]Articlescanbeviewedwithoutasubscription. photosynthetic C is requiredfor growth, the degree of
+www.plantphysiol.org/cgi/doi/10.1104/pp.16.00173 growthisdeterminedbytheamountofCpartitionedto
+Plant Physiology(cid:1), June 2016, Vol. 171,pp. 833–848,www.plantphysiol.org (cid:3) 2016 American Society of PlantBiologists. AllRightsReserved. 833
+
+Weraduwage et al.
+leaf area growth and LMA (Weraduwage et al., 2015). knockout of CGR2 and CGR3 genes, named cgr2/3,
+However,howandtowhatdegreethisvariationinleaf showed reduced cell expansion and overall plant
+expansion and LMA is affected by cell wall properties growth;bothphenotypescorrelatedwithreducedlevels
+of leaf mesophyll cells is not known. In addition, the of pectin methylesterification compared to wild type
+underlying mechanisms that drive C partitioning to (Kimetal.,2015).Toourknowledge,theeffectofpectin
+favor either leaf area growth or LMA, and the genes methylationonleafgrowthparameters,photosynthesis,
+thatcaninfluencechangesinCdemandstowardthese
+and respiration through its effect on leaf architecture
+twoprocesses,areyettobefound. hasnotbeenstudied.
+Leavesarethemajorphotosyntheticorgansinplants The goal of this study was to use the Arabidopsis
+andregulationofcellexpansionandgrowthiscrucialfor modelsystemdevelopedbyKimetal.(2015)withaltered
+the development of leaf architecture. Leaf growth can levelsofpectinmethyltransferases,CGR2orCGR3(single
+occur in the form of leaf area or LMA (Lambers et al., gene modifiers found to positively or negatively affect
+2008; Weraduwage et al., 2015). The size and shape of cell expansion as a function of their cellular availability)
+cellsintheleafmesophyllcanhaveasignificantimpact
+to investigate how changes in cell-wall plasticity affect
+on: (1) projected or effective leaf surface area, which is Cassimilation,leafrespiration,andoverallplantgrowth
+the leaf area capable of intercepting light; (2) leaf mass through effects on leaf area growth and mesophyll
+perunitleafareaorLMA;(3)CO 2 conductancefromthe structure. We examined whether the changes in overall
+external environment through intercellular air spaces plant growth in Arabidopsis with altered CGR2 and
+intochloroplastsinmesophyllcells;and(4)surfacearea CGR3couldresultfromchangesinleafareagrowthand
+ofmesophyllcellsandchloroplastsexposedtointercel- LMAorchangesinarea-basedphotosynthesistoexplore
+lular airspaces (Honda and Fisher, 1978; Evans et al., the relationship between photosynthesis and growth.
+1994; Galmés et al., 2013). The plant cell wall controls Based on the differences in rosette size reported previ-
+expansion and positioning of cells of photosynthetic
+ously(Kimetal.,2015),wehypothesizedthatarea-based
+tissuesandtherefore,changesincellwallpropertieswill
+photosynthesis rates would be lower in a CGR2 over-
+haveadirectimpactontheaboveproperties.Although
+expressor (CGR2OX) but larger in the mutant lacking
+there is evidence for changes in leaf architecture as a
+bothCGR2and3genes(cgr2/3).AsCGR2andCGR3affect
+resultofalterationsingenesthataffectthesynthesisand
+pectinmethylationandcellexpansioninleaves,wealso
+properties ofthe cellwall(Burton etal.,2000; Kim and
+hypothesizedthatplantgrowthwouldbeenhancedinthe
+Delaney,2002;Pillingetal.,2004;Wolfetal.,2009;Kim
+CGR2OXlineandreducedinthecgr2/3mutantmainlyas
+et al., 2015), an in-depth analysis of effects on leaf gas
+aresultofalteredLMA.Indeed,throughanalysisofleaf
+exchangeandoverallplantgrowthundersuchcircum-
+and plant growth, gas exchange, and growth modeling,
+stanceshasnotyetbeenconducted. wefoundthatCGR2andCGR3havesignificantimpacts
+The plant cell wall is composed mainly of polysac-
+on photosynthesis and respiration through alteration
+charides, and among these, pectin is considered a crit-
+of mesophyll structure and LMA. Plant growth was en-
+ical element that controls cell wall elasticity and
+hanced in the CGR2OX line but reduced in the cgr2/3
+expansion. Pectin is synthesized in the Golgi appara-
+tus and secreted in a highly methylesterified form. mutant.Thisvariationinplantgrowthwasasaresultof
+Methylesterification of galacturonicacid(GalUA) is differencesinCpartitioningandnotasaresultofchanges
+in photosynthetic rate per unit leaf area. These observa-
+catalyzed by pectin methyltransferases (Wolf et al.,
+tions support a novel (to our knowledge) model that
+2009; Kim et al., 2015). The level of pectin methyl-
+esterification in the cell wall is controlled by methyl- changes in cell wall plasticity due to changes in pectin
+composition influence C partitioning between leaf area
+esterasesandinhibitorsofmethylesterases,whichmodify
+growth and LMA, thereby regulating the relationship
+thelevelsofmethylationanddemethylationofGalUA
+betweenphotosynthesisandplantgrowth.
+in the pectin backbone (Wolf et al., 2009; Kim et al.,
+2015). Removal of methyl groups by methylesterases
+allows carboxyl groups of GalUA to form Ca2+- and
+Mg2+-mediated intermolecular linkages that lead to RESULTS
+hardening of pectin (Burton et al., 2000; Heldt and
+CGR2OX andcgr2/3MutantLinesRetainedAltered
+Piechulla,2010;Kimetal.,2015).Indeed,over-expression
+Cell WallComposition
+of pectin methylesterase inhibitors results in longer root
+cells (Lionetti et al., 2007). Therefore, the degree of Cell wall composition of Col-0 (wild type), cgr2/3
+methylation and demethylation of pectin determines complemented with CGR2 (cgr2com), CGR2OX, and
+thedelicatebalancebetweencellwallextensibilityand cgr2/3 was analyzed to determine whether the previ-
+rigiditywithconsequenteffectsongrowthandshapeof ously observed changes in methylesterification and
+cells (Burton et al., 2000; Pilling et al., 2004; Lionetti modificationofcellwall polysaccharidesby Kimetal.
+etal.,2007;Wolfetal.,2009;XiaoandAnderson,2013; (2015)wereretainedinthemutantlines.Similartowhat
+Kim et al., 2015). Consistent with this notion, over- was seen by Kim et al. (2015), crystalline cellulose
+expression of pectin methyltransferases, CGR2 or content was lower in cgr2/3 mutant line and it was
+CGR3,ledtoenhancedrosettesizeandfreshweightin greater in CGR2OX than that in Col-0 (Supplemental
+Arabidopsis (Kim et al., 2015). However, a double Fig. S1A). In addition, the content of neutral sugars
+834 Plant Physiol. Vol. 171, 2016
+
+CGR2 and CGR3 Alter Photosynthesis and Plant Growth
+suchasfucose,arabinose,andglucosewassignificantly
+higherincgr2/3thanCol-0,aswasshownbyKimetal.
+(2015;SupplementalFig.S1B).Theuronic-acidcontent
+and the amount of methylesters per uronic acid were
+greaterinCGR2OXcomparedtowildtype;theuronic-
+acid content was lower in cgr2/3 (Supplemental Fig.
+S1C).Thesedatasupportthatthecellwallcomposition,
+includingpectinandthedegreeofmethylesterification,
+is altered in the CGR2OX and cgr2/3 mutant lines in
+response to altered CGR2 and CGR3 gene expression,
+aspreviouslyreportedinKimetal.(2015).
+EnhancedPectinMethylesterification IncreasedLeafArea
+whileaDecreaseinPectinMethylesterification Reduced
+LeafArea
+Hypocotyllengthandcotyledonandleafareaswere
+measuredtodeterminehowalteredexpressionofCGR2
+andCGR3affectsearlyseedlinggrowthandexpansion
+oftheleafblade.
+Similar to earlier results (Kim et al., 2015), hypo-
+cotylsofCGR2OXweresignificantlylongerthanwild
+type,whilethoseofcgr2/3wereshorter(Supplemental
+Figs. S2A and S3A). Cotyledon area was also smaller
+in cgr2/3 than Col-0 (Supplemental Fig. S3B). The
+CGR2OX mutant produced rosettes with greater pro-
+Figure1. ProjectedandtotalleafareaovertimeinArabidopsiswith
+jectedandtotalleafareacomparedtoCol-0throughout
+alteredCGR2andCGR3expression.A,ProjectedleafareaandB,
+thelifecycle(Fig.1,SupplementalFig.S2,BandC).In
+totalleafareaatfourdifferentharvests(H)ispresentedforCol-0,
+contrast, a significant reduction in projected and total cgr2com,CGR2OX,andcgr2/3.H1,H2,H3,andH4correspondto
+leaf area was observed in cgr2/3. The degree of leaf 29, 49, 63, and 82 DAS, respectively. For clarity, data for H1 is
+overlap measured by the ratio between projected and presentedasinsetsin(A)and(B).Valuesrepresentthemean6 SE
+totalleafareawasnotdifferentbetweenthetransgenic and n = 5 plants per line. Statistical differences at a = 0.05 are
+linesandCol-0(Fig.1).Thus,functionalavailabilityof markedwithlower-caseletters.
+CGR2 and CGR3 has a significant impact on leaf area
+growth.
+smaller and more numerous than in Col-0 (Fig. 2A),
+which led to a marked reduction in intercellular air-
+GeneticDepletionofCGR2andCGR3ResultsinThin spacesintheleafmesophyll(Fig.2C).Consequently,a
+LeaveswithSmall,Densely PackedMesophyllCells significant negative correlation was observed between
+the number of cells and intercellular air spaces in the
+Leaf area and thickness are generally negatively leafmesophyll(Fig.2C).Enhancedcelldensityandthe
+correlated (Lambers et al., 2008; Weraduwage et al., reductioninintercellularairspacesincgr2/3compared
+2015). To determine whether changes in leaf area in to the other Arabidopsis lines also led to a significant
+CGR2OXandcgr2/3wereaccompaniedbychangesin reduction in mesophyll cell surface area (S ) and
+mes
+leaf thickness, we measured leaf thickness. Interest- chloroplastsurfacearea(S)exposedtointercellularair
+c
+ingly,leavesofcgr2/3were boththin andof smallleaf spacesperunitleafarea(Fig.2,DandE).
+area (Fig. 2, A and B); this trend was observed Interestingly also, the number of chloroplasts per
+throughoutthelifecycle(datanotshown).Duringearly unitareaofaleafcrosssectionwaslowerinCGR2OX
+vegetativegrowth[34dafterseeding(DAS)],CGR2OX and greater in cgr2/3 compared to Col-0 (Fig. 3A).
+producedthinnerleaveswithatendencytowardmore However,theaveragesizeofchloroplastswassmaller
+areathanCol-0.Nonetheless,theCGR2OXleaveswere inalltransgeniclinescomparedtoCol-0(Fig.3B).The
+thickerthanthoseofcgr2/3. dataindicatethatthereductioninS incgr2/3wasnot
+c
+Next, we determined whether CGR2- and CGR- a result of a reduction in chloroplast area per unit
+mediatedpectinmethylesterificationwascorrelated leaf area, but instead was linked to the significant
+with changesin mesophyll architecture. CGR2OX had reduction in intercellular air spaces in the leaf meso-
+larger palisade cells and 3 to 4 mesophyll cell layers phyll.Therefore,ourresultsshowthatvariationsinthe
+compared to Col-0, which produced 4 to 5 layers of levels of methylesterification of the cell wall signifi-
+comparatively smaller palisade cells (Fig. 2A). How- cantly impact leaf thickness, cell density, and meso-
+ever, the mesophyll cells of cgr2/3 were significantly phyllarchitecture.
+Plant Physiol. Vol. 171, 2016 835
+
+Weraduwage et al.
+Figure 2. Leaf thickness and anatomy in Arabi-
+dopsiswithalteredCGR2andCGR3expression.A,
+Representativemicrographsofleafcrosssections;
+B,leafthickness;C,therelationshipbetweenthe
+number of mesophyll cells and size of the inter-
+cellular air spaces in the leaf mesophyll; D, the
+surface area of mesophyll cells exposed tointer-
+cellularairspacesperunitleafarea(S );andE,
+mes
+thesurfaceareaofchloroplastsexposedtointer-
+cellularairspacesperunitleafarea(S)arepre-
+c
+sentedforCol-0,cgr2com,CGR2OX,andcgr2/3.
+In(A),leafthicknessisdenotedbyreddoublear-
+rows.Datawereobtainedfrom34-doldleaves.In
+(B),(D),and(E),valuesrepresentthemean6 SEand
+n=4plantsperline.In(C),n=4plantsperline
+wereusedtoobtainthemeanvaluesfortheareaof
+airspacesasa%ofareaofleafcrosssectionand
+thenumberofmesophyllcellspermm2ofleafcross
+section. Statistical differences at a = 0.05 are
+markedwithlower-caseletters.
+ChangesinMesophyllArchitecture duetoAlterations in We also established that area-based respiration in
+CGR-ExpressionAffectedArea-Based Photosynthesis cgr2/3 was 2 to 5 times greater than Col-0 (Fig. 4B).
+andRespiration Thus, photosynthesis/respiration ratio remained sig-
+nificantlysmallerincgr2/3throughoutthelifecycle(Fig.
+Wenextaimedtoestablishwhetherchangesinmeso- 5A). Although not statistically significant at the 0.05
+phyllarchitectureaswellasprojectedandtotalleafareas significance level, CGR2OX showed a trend toward
+affect net Cassimilationin mutantlineswith altered
+lowerarea-basedrespiration(Fig.4B)andtherefore,
+CGR-expression.Todothis,wemeasuredarea-and
+its photosynthesis/respiration ratio appeared to be
+plant-basedphotosynthesisandrespiration.Duringearly
+greater in young rosette leaves at 29 DAS (Fig. 5A).
+vegetativegrowth,ataround29DAS,area-basedphoto- Increased area-based respiration in cgr2/3 and lower
+synthesisincgr2/3wassignificantlyhigherthantheother
+area-basedrespirationinCGR2OXcorrelatedwellwith
+lines (Fig. 4A). Afterward, cgr2/3 showed lower area- thedifferencesinthenumberofmesophyllcellsinthese
+based photosynthesis rates compared to Col-0 through- lines (Fig. 2C). In general, plant-based photosynthesis
+out the vegetative growth phase (Fig. 4A). Area-based inCGR2OXwassimilartoCol-0withanupwardtrend,
+photosynthesis in CGR2OX was lower than Col-0 even though area-based photosynthesis was smaller
+around49DAS,butremainedhighercomparedtocgr2/3. (Fig. 4, A and C); this was mainly due to the larger
+836 Plant Physiol. Vol. 171, 2016
+
+CGR2 and CGR3 Alter Photosynthesis and Plant Growth
+three Arabidopsis lines (Fig. 3, A and B). Therefore, to
+investigate whether lower area-based photosynthesis
+ratesin cgr2/3 atharvests 2,3, and4 werea resultofa
+reduction in CO availability owing to altered meso-
+2
+phyllarchitecture,thedegreeof13Cdiscriminationwas
+analyzedinleaftissueofthefourArabidopsislines.The
+13C content of cgr2/3 was greater, consistent with less
+discrimination against 13CO during photosynthesis
+2
+compared to the other lines (Fig. 6, A–C). The average
+CO partial pressure at Rubisco calculated using the
+2
+d13C (Vienna-Pee-Dee Belemnite, VPDB) values
+VPDB
+showed CO availability to be significantly lower in
+2
+cgr2/3(Fig.6,D–F).Thesedataareinagreementwiththe
+hypothesisthat thereisa greater resistance toCO dif-
+2
+fusionintochloroplastsofcgr2/3,owingtolowersurface
+areas of mesophyll cells and chloroplasts facing inter-
+cellular air spaces per unit leaf area as a result of
+enhanced cell density and reduced intercellular air
+spaces(Fig. 2, C–E).Therefore, reduction in CGR2and
+CGR3 availability appears to have a strong negative
+impact on area-based photosynthesis owing to reduc-
+tioninCO availabilitytochloroplasts,mostlikelyasa
+2
+resultofalteredmesophyllarchitecture.
+Figure3. AbundanceandsizeofchloroplastsinArabidopsiswithaltered ADecreaseinPectinMethylesterification IncreasedLMA,
+CGR2andCGR3expression.A,Numberofchloroplastsperunitareaofleaf andReducedPlantGrowth andRelativeGrowth Rates
+crosssection;B,Sizeofchloroplastsin34-d-oldleavesisshownforCol-0,
+cgr2com,CGR2OX,andcgr2/3.Valuesrepresentthemean6 SEandn=12. Wenextanalyzedtheeffectsofalteredexpressionof
+Statisticaldifferencesata=0.05aremarkedwithlower-caseletters.
+CGR2 and CGR3 on plant growth by measuring leaf
+growthparameters,plantbiomass,andrelativegrowth
+rates.WefoundthatLMAwashigherincgr2/3during
+projected leaf area in CGR2OX (Fig. 1A). However,
+theearlytolatevegetativephases,around29to63DAS
+owing to its smaller projected leaf area, plant-based
+(Fig.7A).Inaddition,LMAinCGR2OXremainedsig-
+photosynthesis in cgr2/3 was much lower than Col-0 nificantlylowerthanincgr2/3.Leafareaperunitplant
+(Fig. 4C). Plant-based respiration was greater in
+mass (leaf area ratio) and leaf mass ratio (mass of leaf
+CGR2OX,andsmallerincgr2/3thaninCol-0(Fig.4D), perunitplantmass)weresignificantlysmallerincgr2/3
+which could be explained by differences in total leaf
+thanotherlines(Fig.7,BandC).Incontrast,rootmass
+area(Fig.1B).
+ratio (mass of root per unit plant mass) was larger in
+Daily C gain in rosettes was greater in CGR2OX
+cgr2/3thanotherlines(Fig.7D).
+compared to Col-0 when measured at 29 and 49 DAS,
+whileitwassignificantlysmallerincgr2/3(Fig.5B).The Interestingly, CGR2OX maintained the greatest leaf,
+root,andplantbiomassthroughoutthelifecycle(Fig.8,
+upwardtrendindailyCgainobservedinCGR2OXwas
+A–D). In contrast, cgr2/3 plants exhibited a significant
+a result of its higher plant-based photosynthetic rates
+reductioninleaf,root,andplantdryweightthroughout
+duetogreaterprojectedleafarea(Figs.1Aand4C).The
+thelifecycle.Collectively,thesedatarevealthataltera-
+decrease in C gain in cgr2/3 resulted from reduced
+tions inCGR2andCGR3expressioncanhave asignif-
+plant-based photosynthesis due to the smaller pro-
+icanteffectnotonlyonleafgrowth,butalsoonoverall
+jectedleafareaandsmallerphotosynthesis/respiration
+plant growth. Therefore, while an increase in pectin
+ratio compared to CGR2OX (Figs. 1A, 4C, and 5A).
+methylesterificationenhancesplantbiomass,adecrease
+Together these results support the hypothesis that by
+in pectin methylesterification reduces it. Modeled rel-
+controllingleafareaandmesophyllarchitecture,pectin
+methylesterification is a critical factor for regulation ative growth rates revealed that both area-based (Fig.
+9A)andmass-based(Fig.9B)relativegrowthrateswere
+ofwhole-plantratesofphotosynthesisandrespiration.
+higher in CGR2OX and smaller in cgr2/3 than Col-0
+during most part of the lifecycle. In summary, altera-
+SuppressionofPectinMethylesterification Ledtoa tions in CGR2 and CGR3 have a significant impact on
+important leaf growth parameters such as LMA, and
+ReductioninCO Availability forPhotosynthesis
+2 biomass partitioning to leaf growth, and also affect
+Thedifferencesinchloroplastnumberandsizecould plant growth in terms of biomass accumulation and
+not account for the large differences observed in area- relative growth rates. LMA showed a negative corre-
+based photosynthesis between cgr2/3 and the other lationwithplantgrowthandrelativegrowthrates.
+Plant Physiol. Vol. 171, 2016 837
+
+Weraduwage et al.
+Figure4. Photosynthesisand respiration over timein ArabidopsiswithalteredCGR2 andCGR3 expression. A,Area-based
+photosynthesis,B,area-basednighttimerespiration,C,photosynthesisonawholeplantbasis,andD,night-timerespirationona
+wholeplantbasisatfourdifferentharvests(H)isshownforCol-0,cgr2com,CGR2OX,andcgr2/3.Photosynthesis(Cgain)is
+shownasapositivenumber(A,C)whilerespiration(Closs)isshownasanegativenumber(B,D).H1,H2,H3,andH4correspond
+to29,49,63,and82DAS,respectively.Forclarity,thescaleoftheY-axisforH1in(C)and(D)ispresentedontheleft-hand-side.
+Valuesrepresentthemean6 SEandn=5plantsperline.Statisticaldifferencesata=0.05aremarkedwithlower-caseletters.
+EnhancedPectinMethylesterificationandCPartitioningto ThepatternsofCpartitioningintransgeniclinesseenin
+LeafAreaGrowth Table I were further investigated by determining the
+amounts of C being partitioned to specific growth pro-
+The Arabidopsis leaf area growth model parameter-
+cessesaswellasrespiratoryprocessesasaproportionof
+izedwithmeasurementsobtainedfromthefourArabi-
+the total available C in the plant (Fig. 10). CGR2OX still
+dopsis lines was used to estimate how much C was
+partitionedagreaterproportionoftotalavailableCtoleaf
+partitioned to new leaf area growth and LMA, as a
+areagrowthandalesserproportiontoLMAcomparedto
+proportion of net assimilated C that is available for
+the other lines; cgr2/3 showed an opposite trend to that
+growth.Thesevalues,referredtoaspartitioningcoeffi-
+seen in CGR2OX (Fig. 10). The maintenance respiratory
+cients(TableI),wouldallowdeterminationofwhether
+cost increased as the plant aged. Toward the end of its
+changes in CGR2 and CGR3 availability could affect C
+lifecycle (82 DAS), close to 75% of assimilated C was
+partitioning to growth or respiratory processes. The
+consumedinmaintenancerespiration(Fig.10).Whilethe
+proportions of C partitioned to leaf growth in total (C
+maintenance costs in CGR2OX were somewhat larger
+partitionedtoarea+LMA),andtorootgrowthfoundby than Col-0 toward the end of the lifecycle, a significant
+14CO feedingexperimentsat29DAS,wereusedasan
+2 enhancementintheproportionofCspentinmaintenance
+initialestimatewhensettingthepartitioningcoefficients
+respirationcouldbeseenincgr2/3throughoutthelifecycle
+to leaf growth for the early vegetative growth phase
+(Fig. 10). Collectively, these data provide evidence to
+(SupplementalFig.S4;TableI).Partitioningcoefficients
+supportthatalterationinCGR2andCGR3expressionhas
+obtainedfromgrowthmodelingforCGR2OXrevealed asignificantimpactondeterminingtheproportionsofC
+that, compared to the other lines, the CGR2 over-ex-
+partitionedtonewleafareagrowthversusLMA,andto
+pressionlinepartitionedmoreoftheCavailableforleaf
+maintenancerespirationinplants.
+growthtowardleafareagrowthandlesstowardLMA,
+especiallyduringtheearlyvegetativephase(TableI).In
+contrast,wefoundthatincgr2/3asignificantlygreater
+Growth inCGR2OXandcgr2/3wasAffectedMoreby
+proportionofCwasallocatedtoLMAratherthantoleaf
+Alterations inCPartitioningthan byChangesin
+areagrowth(TableI).ThedifferencesinCpartitioning
+Area-Based Photosynthesis
+to leaf area growth and LMA between Col-0 and
+CGR2OXandcgr2/3weremostprominentduringearly To determine whether the alterations in growth ob-
+vegetativephasesofgrowth. servedinCGR2OXandcgr2/3werearesultofalterations
+838 Plant Physiol. Vol. 171, 2016
+
+CGR2 and CGR3 Alter Photosynthesis and Plant Growth
+datasupportthehypothesisthatthemagnitudeofplant
+growthisdeterminedbyhowphotosynthetic Cispar-
+titionedtonewleafareagrowthandLMA.
+DISCUSSION
+In this study, we investigated how modification of
+cell wall plasticity via the genetic manipulation of
+pectin methyltransferases, CGR2 and CGR3, affects C
+assimilation,leafrespiration,andoverallplantgrowth
+through effects on leaf area growth and mesophyll
+structure. We also wanted to further understand the
+relationshipbetweenphotosynthesisandplantgrowth
+by determining whether the changes in overall plant
+growthinArabidopsiswithalteredcellularavailability
+ofCGR2andCGR3werearesultofchangesingrowth
+intermsofleafareaandLMAorduetochangesinarea-
+based photosynthesis. We found that over-expression
+of CGR2 had a significant positive effect on leaf area
+and plant growth. On the other hand, suppression of
+CGR2and CGR3 expression caused amarkedincrease
+inLMAandareductioninleafareaandplantgrowth.
+Altered expression of CGR2 and CGR3 also had a sig-
+nificant impact on photosynthesis and respiration
+throughalteredmesophyllarchitecture.Thedifferences
+Figure5. DailyCgaininArabidopsiswithalteredCGR2andCGR3 inplantgrowthinArabidopsiswithalteredCGR2and
+expression.A,Photosynthesis/respirationratioatfourdifferentharvests CGR3levelswerelinkedtochangesinCpartitioningto
+(H);B,ThedailyCgainattwodifferentharvestsforCol-0,cgr2com, leaf area growth and LMA rather than altered area-
+CGR2OX,andcgr2/3isgiven.H1,H2,H3,andH4correspondto29, based photosynthesis rates. These findings establish
+49,63,and82DAS,respectively.Valuesrepresentthemean6 SEand
+that CGR2- and CGR3-mediated pectin methylester-
+n=5plantsperline.Statisticaldifferencesata=0.05aremarkedwith
+ification affects mesophyll architecture, C accumula-
+lower-caseletters.
+tion, C partitioning, leaf and plant growth, and the
+relationshipbetweenphotosynthesisandplantgrowth.
+in area-based photosynthesis (Fig. 4A) or partitioning
+coefficientstoleafareagrowthandLMAgrowth(Table
+CGR2andCGR3DirectlyAffectLeafMassperUnitArea
+I),thevaluesfortheseparametersinthegrowthmodel byAlteringBothLeafThicknessandtheMassofLeafper
+forCol-0weresubstitutedseparatelybycorresponding UnitVolumeofLeafTissue
+values from the two transgenic lines. Interestingly, by
+keepingthepartitioningcoefficientsthesame,substitu- Often,thickerleavesareassociatedwithlargerLMA
+tion of area-based photosynthesis rates for 1 to 90 d due to an increase in the number of cell layers, which
+with those of CGR2OXresultedinasmall reductionin canincreaseleafmassperunitleafarea(Lambersetal.,
+modeledgrowthinCol-0whereascgr2/3causedalarge 2008;Poorteretal.,2009;Villaretal.,2013;Weraduwage
+increaseingrowth(graylinesinFig.11). etal.,2015).However,anegativecorrelationexistsbe-
+However,bykeepingarea-basedphotosynthesisthe tweenleafmassdensityorLMD(massofleafperunit
+same,substitutingthepartitioningcoefficientsofCol-0 volume of leaf tissue) and leaf thickness, and both pa-
+with that of CGR2OX had a strikingly large positive rameterscanaffectLMAasfollows:LMD(kgm
+23)=leaf
+effect on modeled growth; cgr2/3 partitioning coeffi- mass/(leaf area3leaf thickness) andLMA(kgm 22) =
+cientshadasignificantlylargenegativeeffectongrowth LMD 3 leaf thickness (Witkowski and Lamont, 1991;
+thatmirroredtheobserveddifferencesingrowthinthe Lambers et al., 2008; Poorter et al., 2009; Villar et al.,
+CGR2 over-expression line and the CGR2 and CGR3 2013).Therefore,leafthickeningoranincreaseinLMA
+double mutant line (orange lines in Fig. 11). These ob- can occur due to an increase in leaf thickness or LMD.
+served changes in growth could be achieved by Whilethickerleaveshavebeenshowntobeassociated
+substituting the partitioning coefficients of only the withlargermesophyllcells(elongated,especiallyinthe
+early vegetative growth phase (data not shown). The depth direction) and larger air spaces, LMD has been
+data show that the observed changes plant growth in associated with smaller proportions of intercellular air
+CGR2OXandcgr2/3werenotaresultofdifferencesin spacesandsmallercells(Tsugeetal.,1996;Poorteretal.,
+photosynthetic rates, but a result of differences in C 2009; Villar et al., 2013). In addition to being affected
+partitioning to growth in terms of leaf area and LMA, by anatomical changes, LMA and LMD can also be
+especially during early vegetative growth. Thus, our determined by variations in cellular and chemical
+Plant Physiol. Vol. 171, 2016 839
+
+Weraduwage et al.
+Figure 6. Degree of resistance to CO diffusion
+2
+through the leaf mesophyll over time in Arabi-
+dopsiswithalteredCGR2andCGR3expression.
+A,B,C,Thed13C valuecalculatedastheratio
+VPDB
+of 13C to 12C isotopes in leaf tissue relative to a
+VPDB value; D, E, F, CO partial pressure at
+2
+Rubiscoatthreedifferentharvests(H)isshownfor
+Col-0, cgr2com,CGR2OX, and cgr2/3. H2, H3,
+and H4 correspond to 49, 63, and 82 DAS, re-
+spectively.Valuesrepresentthemean6 SEandn=
+5plantsperline.Statisticaldifferencesata=0.05
+aremarkedwithlower-caseletters.
+composition (Cunningham et al., 1999; Lambers et al., beattributedtoincreasedLMDasaresultofenhanced
+2008).Forexample,plantswithslowgrowthratespos- cell density and reductionof intercellular air spaces in
+sess a larger number of smaller cells with thicker cell the leaf mesophyll. Smaller cells can lead to concen-
+walls,anda greater proportion of ligninandother cell tration of cellular metabolites, which can also lead to
+wallpolysaccharidesperunitleafareathatcanincrease increased LMD. In addition, cgr2/3 also possessed a
+LMD and LMA (Cunningham et al., 1999; Lambers larger number of chloroplasts per unit leaf area. The
+etal.,2008).Akeyaspectofcellularmassisrepresented proportions of cell wall components per unit leaf area
+byorganelles,andplantswithhighergrowthratesmay are also likely greater in cgr2/3 compared to the other
+possesslargecellswithalowernumberofchloroplasts, backgrounds. Therefore, collectively the data clearly
+whichresultsinlowerLMA(Lambersetal.,2008). showthatalthoughcgr2/3hadthinnerleaves,enhanced
+Interestingly, while both CGR2OX and cgr2/3 had LMD led to greater leaf mass per unit area (or lower
+thinner leaves compared to Col-0, cgr2/3 showed a SLA)incgr2/3.Conversely,LMAinCGR2OXwassig-
+significantincreaseinLMA.Suchincreaseincgr2/3can nificantlysmallerthancgr2/3.LeavesofCGR2OXwere
+Figure 7. Variations in leaf growth parameters
+overtimeinArabidopsiswithalteredCGR2and
+CGR3expression.A,LMA, B, leafarearatio,C,
+leafmassratio,andD,rootmassratioatfourdif-
+ferentharvests(H)forCol-0,cgr2com,CGR2OX,
+and cgr2/3 is presented. H1, H2, H3, and H4
+correspond to 29, 49, 63, and 82 DAS, respec-
+tively.Valuesrepresentthemeanandn=5plants
+per line. Statistical differences at a = 0.05 are
+markedwithlower-caseletters.
+840 Plant Physiol. Vol. 171, 2016
+
+CGR2 and CGR3 Alter Photosynthesis and Plant Growth
+Figure 8. Variations in dry weight
+over time in Arabidopsis with al-
+teredCGR2andCGR3expression.
+A, Leaf, B, root, C, inflorescence,
+and D, whole plant dry weight at
+fourdifferentharvests(H)forCol-0,
+cgr2com, CGR2OX, and cgr2/3 is
+given.H1,H2,H3,andH4corre-
+spondto29,49,63,and82DAS,
+respectively.Forclarity,thescaleof
+theY-axisforH1in(A),(B)and(C)
+is presented on the left-hand-side.
+Valuesrepresentthemean6 SEand
+n=5plantsperline.Statisticaldif-
+ferences at a = 0.05 are marked
+withlower-caseletters.
+also thicker than cgr2/3 and contained larger intercel- largeairspacesinthefruitpericarpcausedbydramatic
+lularairspaces,andlargercellswithalowernumberof reductionsinthemiddle-lamellae-mediatedcell-to-cell
+chloroplasts. Therefore, our resultssupport that varia- adhesion (Caffall and Mohnen, 2009). The observed
+tion in LMA between CGR2OX and cgr2/3 resulted decrease in air spaces in cgr2/3 and the dense distri-
+from the combination of increased leaf thickness and butionofthecells(hencethinnerleaves)arelikelydue
+reducedleafmassdensity. to enhanced cell-to-celladhesion becauseof the lower
+The significant alterations in mesophyll architecture degreeofmethylesterifiedpectinincgr2/3comparedto
+observedduringthisstudyarelinkedtochangesinCGR2 Col-0. In contrast, enhanced methylation of pectin
+and CGR3 expression. Based on the model that reduced promotescellexpansion(Kimetal.,2015);thisresulted
+methylationofpectinmayenhanceCa2+-mediatedcross intheobservedpresenceofwiderpalisadecellsanda
+linking of GalUA in cell walls, thereby preventing lower number of cell layers (hence thinner leaves) in
+normalcellexpansionincgr2/3(Burtonetal.,2000;Wolf CGR2OX than Col-0. The number of cells and area of
+etal.,2009;Kimetal.,2015),weproposethatthelarger airspaces in CGR2OX differed only marginally from
+number of smaller mesophyll cells observed in cgr2/3 Col-0.However,CGR2OXdidhaveasmallernumber
+duringthisstudyislikelylinkedtothehardeningofthe ofsmallerchloroplastscomparedtoCol-0,whichmay
+cellwallandconsequent restriction ofcellwallexpan- beanindicationoflowerLMA.Whetherover-expression
+sion.Thisinturnislikelytocauseanincreaseofthecell of CGR2hasadosageeffect,andover-expressionof
+numberperunitleafareaincgr2/3comparedtoCol-0. both CGR2 and CGR3 would result in larger and
+In addition, cross linking between GalUA and Ca2+ in thicker leaves with lower cell density remains to be
+cellwallpectinisrequiredforcellularadhesion(Caffall investigated.
+and Mohnen, 2009). Also a reduction in GalUA-Ca2+ Thinner leaves usually correlate with larger SLA or
+complexformationinSolanum lycopersicumresultedin smallerLMA(Lambersetal.,2008;Weraduwageetal.,
+Figure 9. Modeled relative growth rates over
+timeinArabidopsiswithalteredCGR2andCGR3
+expression. A, Area-based relative growth rates
+and B, mass-based relative growth rates simu-
+latedfromdays5to84usingtheArabidopsisleaf
+area growth model fitted with data obtained
+fromCol-0,cgr2com,CGR2OX,andcgr2/3are
+presented.
+Plant Physiol. Vol. 171, 2016 841
+
+Weraduwage et al.
+TableI. ComparisonofmodeledpartitioningcoefficientsduringdifferentgrowthphasesforArabidopsislineswithalteredpectinmethyltransferase
+expression
+Partitioningcoefficients
+Arabidopsisline Organ/processtowhichCispartitioned Earlyvegetative Latevegetative Reproductive
+growthphase growthphase growthphase
+Col-0 Inflorescencegrowth 0.00 0.02 0.30
+Rootgrowth 0.06 0.13 0.12
+LMA 0.17 0.10 0.10
+Leafareagrowth 0.77 0.75 0.48
+cgr2com Inflorescencegrowth 0.00 0.03 0.40
+Rootgrowth 0.03 0.12 0.12
+LMA 0.19 0.10 0.10
+Leafareagrowth 0.78 0.75 0.38
+CGR2OX Inflorescencegrowth 0.00 0.03 0.30
+Rootgrowth 0.04 0.15 0.15
+LMA 0.16 0.11 0.10
+Leafareagrowth 0.80 0.71 0.45
+cgr2/3 Inflorescencegrowth 0.00 0.00 0.10
+Rootgrowth 0.10 0.25 0.25
+LMA 0.24 0.18 0.10
+Leafareagrowth 0.66 0.57 0.55
+PartitioningcoefficientsforpartitioningofnetassimilatedCtoinflorescenceandrootgrowth,LMA,andleafareagrowthduringtheearlyandlate
+vegetativephasesandthereproductivephaseforCol-0,cgr2com,CGR2OX,andcgr2/3wereobtainedfromtheArabidopsisleafareagrowthmodel.
+Thedurationsoftheearlyandlatevegetativephasesandthereproductivephaseforeachlineisasfollows:forCol-0,5–51DAS,52–74DAS,and
+75–90DAS;forcgr2com,5–48DAS,49–70DAS,and71–90DAS;forCGR2OX,5–49DAS,50–72DAS,and73–90DAS;andforcgr2/3,assuming
+flowerinitiationstartedat82DAS,5–55DAS,56–81DAS,and82–90DAS.
+2015). However, based on the negative correlation et al., 2008). Although cgr2/3 produced thinner leaves,
+between LMD and leaf thickness, it is likely that the marked enhancement in area-based respiration
+LMD would start to increase should leaf thickness positively correlated with enhanced leaf cell density
+decreasebelowacertainoptimum,therebyresulting and higher LMA. Higher area-based respiratory rates
+in an increase in LMA. This was demonstrated led to smaller photosynthesis/respiration ratio, and
+in cgr2/3, where suppression of CGR2 and CGR3 whencoupledwithsmallerprojectedleafarea,theyhad
+resulted in leaves that were too thin, leading to a significant negative impact on daily carbon gain.
+higher cell density and LMA. This can have signifi- Thus, pectin methylesterification affects area-based
+cantnegativeeffectsonleafgasexchangeproperties respiration rates through alterations in leaf cell den-
+and daily C gain, as discussed below. The above sity, LMD, and LMA and consequently affect photo-
+phenotype was rescued by complementing with syntheticefficiencyinplants.
+CGR2, as seen in cgr2com or by over-expressing
+CGR2 as in CGR2OX. Thus, the degree of CGR2-
+andCGR3-mediatedpectinmethylesterificationcan
+CGR2andCGR3DirectlyAffectArea-Based
+directly affect LMA by altering both leaf thickness Photosynthesis byAlteringMesophyllArchitecture
+and leaf mass density.
+Diffusion of CO into chloroplasts occurs along the
+2
+paththatposestheleastresistancethroughthecellwall,
+plasma membrane, chloroplast envelope, and into the
+CGR2andCGR3AffectArea-BasedRespirationandDaily
+chloroplast stroma (Terashima et al., 2006). Therefore,
+CGainbyAlteringLMDandLMA
+S represents the active area through which CO dif-
+c 2
+Ingeneral,leavesgrowingunderhighlightdevelop fuses in to the chloroplast stroma (Terashima et al.,
+thickerleaveswithmultiplecelllayersandhigherLMA 2006). A decrease in S leads to a reduction in CO
+c 2
+(lower SLA), and incurs higher area-based respiration concentrationatRubiscoandthereforetoareductionin
+rates corresponding to their greater mass per unit leaf the carboxylation/oxygenation ratio (Terashima et al.,
+area (Mitchell et al., 1999; Lambers et al., 2008). In 2006). Parameters that affect CO diffusion into the
+2
+contrast, plants grown under low light have lower chloroplast stroma are thickness of the mesophyll cell
+LMA(higherSLA),which optimizeslight captureand wall, internal conductance to CO diffusion, and sto-
+2
+lowers area-based respiration rates (Lambers et al., matalconductance(Terashimaetal.,2006).S hasbeen
+c
+2008). This assists in maximizing daily C gain and shown to be positively correlated with internal con-
+compensatesforlowerarea-basedphotosynthesisrates ductance,whilethelatterisnegativelycorrelatedwith
+when growing under low light conditions (Lambers cellwallthickness(Terashimaetal.,2006).
+842 Plant Physiol. Vol. 171, 2016
+
+CGR2 and CGR3 Alter Photosynthesis and Plant Growth
+Figure10. ModeledCpartitioningtogrowthandrespirationinArabidopsiswithalteredCGR2andCGR3expression.Carbon
+partitionedtosupportgrowthintermsofleafareaandLMA,andinflorescencegrowth,rootgrowth,andmaintenanceandgrowth
+respirationispresentedaspercentagesofthedailyavailableCat29,49,63,and82DAS.DatawerederivedfromtheArabidopsis
+leafareagrowthmodelfittedwithdataobtainedfromCol-0,cgr2com,CGR2OX,andcgr2/3.
+In contrast to our original hypothesis, area-based lowerarea-basedphotosynthesisinCGR2OXmayhave
+photosynthesis rates were significantly lower in cgr2/3 resulted from thinner but larger leaves, which may
+formostofthelifecycle,even thoughthismutant pos- havethenresultedinlessphotosyntheticmachineryper
+sessed smaller projected leaf area and denser leaves. unit leaf area. Correspondingly, chloroplast number
+This study revealed that this reduction in area-based andsizewerelowerinCGR2OX.Thesedataemphasize
+photosynthesis in cgr2/3 was not a result of differ- the importance of pectin methylesterification in fine-
+ences in chloroplast number and size, but, mainly a tuning cell expansion and size and cell-to-cell adhe-
+resultofareductioninCO partialpressureatRubisco sionqualitiesinbuildingaleafmesophylloptimizedfor
+2
+due to restrictions imposed on CO diffusion by in- CO exchange. While thin leaves are associated with
+2 2
+creased cell density and reduced airspaces in the leaf lower LMA (or enhanced SLA), it is important to
+mesophyll that lowered S . Preliminary investigations maintain an optimum thickness to maintain sufficient
+c
+revealed that stomatal conductance is not negatively intercellular air spaces, which would maintain high
+impacted in the mutant lines examined during this internalconductance,S mes ,andS c ,andthereforehigher
+carboxylationrates.
+study (data not shown). Therefore, the observed re-
+duction in area-based photosynthetic rates is most
+probablyduetoacumulativeeffectoflowerS,higher
+c PectinMethylesterification MediatestheRelationship
+internal resistance and greater cell wall thickness per
+betweenPhotosynthesisandPlantGrowththrough
+unit area. The greater area-based photosynthesis rates
+AlterationsinCPartitioning toLeafAreaGrowth
+in cgr2/3 observed during early stages of vegetative
+andThickening
+developmentmayhavebeenaresultofleavesandcell
+walls being comparatively thinner in young plants. S As hypothesized, suppression of CGR2- and CGR3-
+c
+values and CO partial pressure at Rubisco in cgr2/3 mediatedpectinmethylesterificationhadaprofound
+2
+wererestoredtothelevelsofCol-0incgr2comowingto negativeeffectonleafareagrowthwhileover-expression
+alterationsbroughtaboutbyCGR2expressioninitsleaf ofCGR2significantlyenhancedleafareagrowth.Sup-
+anatomy:thickerleaveswithlessdensemesophylland pression of CGR2 and CGR3 also led to a reduction in
+more intercellular air spaces. S and CO partial pres- plant dry weight. Over-expression of CGR2 enhanced
+c 2
+sure in CGR2OX were similar to that of Col-0. The plant dry weight. Growth modeling revealed that the
+Plant Physiol. Vol. 171, 2016 843
+
+Weraduwage et al.
+Figure11. Comparisonoftheeffectsofalteredarea-basedphotosynthesisandCpartitioningcoefficientsonplantgrowthin
+ArabidopsiswithalteredCGR2andCGR3expression.Modeledeffectsonleafareaandleaf,root,andplantdryweightswhen
+eitherphotosyntheticratesorpartitioningcoefficientsspanningtheentiregrowthcycleforCol-0arereplacedbythoseof(A)
+CGR2OXand(B)cgr2/3arepresented.In(A)and(B),bluelinesrepresentmodeledgrowthforCol-0,andredsquaresrepresent
+measureddatapoints(mean6 SD)forCol-0at29,49,63,and82DAS.GraylinesrepresentmodeleddataforCol-0whenitsarea-
+basedphotosynthesisratesarereplacedbythatofeitherCGR2OX(A)orcgr2/3(B).OrangelinesrepresentmodeleddataforCol-0
+whenitspartitioningcoefficients(TableI)arereplacedbythatofeitherCGR2OX(A)orcgr2/3(B)withoutmakinganychangesto
+area-basedphotosynthesisratesofCol-0.In(A),asterisksrepresentmeasureddataforCGR2OXat63and82DAS.In(B),the
+dottedlineindicatestheupperlimitofmeasureddataforcgr2/3.
+observed variations in growth were not caused by posing a greater demand for C for LMA growth com-
+changes in area-based photosynthesis. In fact, high pared to area growth (Fig. 12A). Hence less C will be
+rates of area-based photosynthesis measured in cgr2/3 utilizedinareagrowthofnewleavesandmoreCwill
+during early growth were found to be sufficient to be utilized in increasing LMA, leading to a smaller
+drive growth higher than that seen in Col-0. Thus, projected leaf area (Fig. 12A). Smaller projected leaf
+growth had the opposite trend (CGROX . Col-0 . area yields lower whole plant C assimilation. In con-
+cgr2/3) compared with area-based photosynthetic trast, an increase in pectin methylesterification via en-
+rate (cgr2/3 . Col-0 . CGROX). To account for en- hancedexpressionofCGR2andCGR3seemstoreduce
+hanced overall plant growth, the amount of net cell wall hardening and cell-to-cell adhesion, and
+assimilated C available for growth has to increase, thereby favors cell expansion and area growth against
+which will depend on the total amount of C assimi- increases in LMA; it poses a greater demand for C for
+lated and the amount of C respired to support main- leaf area growth compared to that for LMA growth
+tenance processes (Weraduwage et al., 2015). Our (Fig.12B).Hence,moreCwillbeutilizedinareagrowth
+study showed that CGR2 and CGR3, through pectin ofnewleaves,andalowerproportionCwillbeutilized
+methylesterification, are capable of affecting total C in LMA growth, leading to larger projected leaf area
+assimilationbydirectlyalteringleafareagrowthandby and enhanced whole-plant C assimilation (Fig. 12B).
+altering maintenance respiratory costs through direct Suppression of CGR2 and CGR3 increases respira-
+effects on LMA. We also showed that although CGR2 tory costs through higher LMA, resulting in lower
+and CGR3 affect area-based photosynthetic rates, photosynthesis/respirationratio,lowerdailyCgain,
+the latter is not a major factor affecting overall plant reduced net assimilated C available for growth, and
+growth. ultimately reduced plant growth (Fig. 12A); over-
+Areductioninpectinmethylesterificationbyreduced expression of CGR2 yields opposite physiological
+expression of CGR2 and CGR3 seems to enhance cell- effects(Fig. 12B).
+wall hardening and cell-to-cell adhesion through There may be other genes that also impact parti-
+increased cross linking between GalUA and Ca2+, fa- tioningofcarbontowardleafareagrowthorLMA.One
+voring an increase in LMA against cell expansion and exampleisthexyloglucanendotransglucosylase/hydrolase
+844 Plant Physiol. Vol. 171, 2016
+
+CGR2 and CGR3 Alter Photosynthesis and Plant Growth
+Figure12. CGR2-andCGR3-mediatedpectinmethylesterificationregulatestherelationshipbetweenphotosynthesisandplant
+growth.Aschematicdiagramoutlininghow(A)suppressionor(B)over-expressionofCGR2andCGR3geneexpressionaffectsthe
+relationshipbetweenphotosynthesisandplantgrowthinArabidopsisispresented.SuppressionofCGR2andCGR3reducesthe
+degreeofpectinmethylation,whichleadstoanincreaseincell-to-celladhesion,cation-mediatedcrosslinkingofGalUA,and
+consequenthardeningofcellwalls.CGR2over-expressionincreasesthedegreeofpectinmethylation,whichallowscellex-
+pansionthroughreducedcell-to-celladhesionandcation-mediatedcrosslinking.Weproposethatpectinmethyltransferase
+enzyme,throughitsabilitytodirectlyaltercellexpansion,determinestheamountofCpartitionedtoleafareagrowthversus
+growthintermsofLMA.Forexample,whilemoreCispartitionedtogrowthintermsofLMAintheCGR2andCGR3double
+knockoutmutant,intheCGR2over-expressionlinemoreCispartitionedtoleafareagrowth.AnincreaseinLMAleadstoen-
+hancedarea-basedrespirationandareductioninleafareacontributetoareductioninwholeplantphotosynthesis.Collectively,
+thisresultsinareductioninCavailableforgrowthandconsequentlyadecreaseinoverallplantgrowth;anoppositetrendisseen
+inCGR2OX.Thus,CGR2andCGR3,throughtheirabilitytoalterthedegreeofmethylatedpectininthecellwallofthemesophyll
+cells,determinehowphotosynthateisutilizedtogrowtheplant.Inotherwords,CGR2-andCGR3-mediatedpectinmethyl-
+esterificationaffectstherelationshipbetweenphotosynthesisandplantgrowthbyregulatingtheproportionsofCthatisparti-
+tionedtoleafareagrowthandLMA.FinaloverallgrowthmainlydependsontheexpressionpatternsofCGR2andCGR3andhow
+muchCispartitionedtoareagrowthandLMAandnotonarea-basedphotosynthesis.PME:pectinmethylesterase;PMEI:PME
+inhibitor;PMT:pectinmethyltransferase.CHOHismethanol.
+3
+(XTH) gene family. Reduced expression of XTH8 and phenotypesinxth8,xth21,andxth31mutant lines(Liu
+XTH31 gene expression led to reduced leaf width, etal.,2007;MiuraandHasegawa,2010).Thus,through
+length,andleafarea(MiuraandHasegawa,2010).The its effects on cell wall properties, XTH genes may be
+leafmesophyllofthesemutantlinesconsistedofalarge able to alter C partitioning to leaf area and LMA and
+number of small mesophyll cells per unit area (Miura thereby affect overall plant growth similar to the role
+and Hasegawa, 2010). Suppression of XTH21 led to a playedbyCGRgenes.
+reduction in cellulose, and xyloglucan content with In summary, the results from this study are in
+subsequent reductions in both leaf and plant size (Liu agreement with findings from Weraduwage et al.
+etal.,2007).OneofthemajorrolesofXTHenzymesis (2015) that optimization of leaf area growth and plant
+cleavage of cross linkages between cellulose and hemi- growthcanbeachievedbyincreasedpartitioningofC
+cellulose microfibrils that promotes wall loosening to leaf area growth with concomitant reduction in
+and cell expansion. This may explain the above leaf partitioning to growth in terms of LMA especially
+Plant Physiol. Vol. 171, 2016 845
+
+Weraduwage et al.
+duringtheearlyvegetativegrowthphase(Weraduwage MATERIALSAND METHODS
+et al., 2015), and that photosynthesis drives growth
+Growth Analysis
+through alterations in C partitioning to leaf area and
+LMA growth. In this study, we found that CGR2 and Wild-typeArabidopsis(Col-0),cgr2/3(lossoffunctiondoublemutantlineof
+CGR2andCGR3),CGR2OX(CGR2over-expressionline),andcgr2com(cgr2/3
+CGR3 directly affect this relationship by altering the
+complementedbyCGR2)(Kimetal.,2015)wereusedinthestudy.Geneac-
+degree of cell expansion and/or adhesion, thereby cessionnumbersforCGR2andCGR3areAt3g49720andAt5g65810,respec-
+drivingCpartitioningbygeneratingCdemandsforleaf tively.Plantsweregrownhydroponicallyin1/2-strengthHoagland’ssolution
+areagrowthandforgrowthintermsofLMA.
+underalightintensityof120mmolm22s21,using8-hphotoperiodswithre-
+spectiveday-andnight-timetemperaturesof22°Cand20°C,and60%relative
+humidity.Thehydroponicssystemwashousedinamodelno.GC-20Bigfoot
+SeriesGrowthChamber(BioChambers,Winnipeg,Manitoba,Canada).
+CONCLUSION Plantgrowthparametersincludingprojectedandtotalleafarea,leaf,root,
+andinflorescencedryweights,relativegrowthrates,specificleafarea(SLA),leaf
+Our study supports the model that qualitative and massperunitleafarea(LMA),leafarearatio,andleaf,root,andinflorescence
+quantitative changes in pectin in the cell wall have a massratiosweremeasuredasdescribedinWeraduwageetal.(2015).When
+significant impact on area-based photosynthesis and
+calculatingSLA,LMA,leafarearatio,andleaf,root,andinflorescencemass
+ratios,thetotalleafarea,andorganandplantmasscorrespondingtoeach
+respirationthroughalterationsinleafthickness,meso- harvestwasused:SLA(m2kg21)=totalleafarea/leafmass;LMA(kgm22)=
+phyll cell density, and area of the leaf blade. Such
+leafmass/totalleafarea;leafarearatio(m2kg21)=totalleafarea/totalplant
+mass;andleaf,rootorinflorescencemassratio(gg21)=leaf,root,orinflores-
+changesinmesophyllarchitecturedirectlyalteredLMA
+cencemass/totalplantmass.Growthmeasurementswereobtainedthroughout
+and consequently area-based respiration. CGR2 and thelifecycleoftheplantat2–3-weekintervalsat29,49,63,and82dafter
+CGR3 affected area-based photosynthesis by altering seeding(DAS).The100-seedweightpriortostratificationandsowing,cotyle-
+CO availability at Rubisco. These genes could affect donarea,andhypocotyllengthwasalsomeasured.
+2
+plant-basedphotosynthesisbyenablingenhancedlight
+DeterminationofLeafThickness,MesophyllCellDensity,
+capturethroughlargerleafarea.Thesedataemphasizes
+the importance of pectin methylesterification in fine- S mes ,S c ,andChloroplastSizeandAbundance
+tuning cell expansion and size, and adhesion qualities Leavesofsimilaragefrom34-and51-d-oldrosetteswereusedforanatomical
+when building an optimum leaf to maximize photo- measurements.Leaveswereharvestedandprocessedforleafcrosssectioningas
+describedinWeraduwageetal.(2015),attheCenterforAdvancedMicroscopy,
+synthesis under different environmental conditions.
+MichiganStateUniversity.Thin(500-nm)leafsections(PTXLUltramicrotome;
+WhilethinleavesareassociatedwithreducedLMA,itis RMCBoeckelerInstruments,Tucson,AZ)wereobservedunderaSpectralView
+important to maintain an optimum thickness to main- FV1000ConfocalLaserScanningMicroscope(Olympus,Melville,NY),andthe
+tain sufficient intercellular air spaces that would distancebetweentheadaxialandabaxialleafsurfaceswasmeasuredtode-
+termineleafthickness.
+maintainhighinternalconductanceasreflectedinS
+mes Micrographsofleafcrosssectionswereusedtodeterminethenumberof
+and S and therefore higher carboxylation rates. CGR2 palisadeandspongyparenchymacells,thetotalnumberofcells,andthenumber
+and C
+c
+GR3, which directly alter the size of the leaf
+ofmesophyllcelllayersina20,000mm2areaofaleafcrosssection.Thesedata
+blade and mesophyll architecture, may find applica-
+werelaterexpressedpermm2.ImageJ(http://imagej.nih.gov/ij/)software
+wasutilizedtomeasurethetotalareaofintercellularairspaces,totallengthof
+tionsinthefuturetoimprovelightinterceptionincrop mesophyll cells, total length of mesophyll cells exposed to intercellular air
+plantcanopies. spaces(L mes ),andthetotallengthofchloroplastsexposedtointercellularair
+Over-expression of CGR2 had a significant positive spaces(L c ).Thelatterthreemeasurementswereutilizedtodeterminethesur-
+faceareaofmesophyllcellsexposedtointercellularairspaces(S )andthe
+effect on leaf area and plant growth. Suppression of mes
+surfaceareaofchloroplastexposedtointercellularairspaces(S)perunitleaf
+c
+CGR2andCGR3causedamarkedincreaseinLMA,and areaasdescribedinEvansetal.(1994).
+a reduction in leaf area and plant growth. These dif- Aseriesofz-stackimagesofleavesof34-d-oldplantswasacquiredusingan
+invertedlaserscanningconfocalmicroscope(modelno.LSM510META,Carl
+ferences resulted through changes in C partitioning to
+Zeiss;http://www.zeiss.com).ChloroplastswereimagedusinganECPlan-
+leafareagrowthandgrowthintermsofLMAandnot Neofluar403/1.30oilM27objective(CarlZeiss)ata5123512pixelresolu-
+as a result of altered area-based photosynthesis rates. tionusinganexcitationwavelengthof514nmandanemissionwavelengthof
+673nm.Thedifferentplanesacquiredwerethenprojectedonthesameimage
+Therefore,photosynthesisdrivesplantgrowththrough
+andtransformedinbinaryusingImageJ.Theresultingnumberofchloroplasts
+alterations in C partitioning to new leaf area growth perunitareaandaveragechloroplastsizewasalsomeasuredusingImageJ.
+andLMAgrowth,andthisstudydiscoveredthatpectin
+methylesterificationaffectsthisrelationshipbydirectly GasExchangeMeasurements,14CO FeedingExperiments,
+2
+alteringthedegreeofcellexpansionandpositioningin andAnalysisofLeaf13CDiscrimination
+the leaves to create dynamic carbon demands in leaf
+Wholerosettephotosynthesisandnighttimedarkrespirationweremeasured
+area growth and leaf mass thereby driving C parti- at2–3weekintervalsat29,49,63,and82DAS.Acustom-builtrosette-gas-
+tioning for these processes. Collectively, these results exchangechamberconnectedtoamodelno.LI-6400portablegasexchange
+uncover an unexpected connection between cell wall system(LI-CORBiosciences,Lincoln,NE)wasusedtoobtainphotosynthesis
+and respiratory measurements. Conditions in the Arabidopsis rosette gas-
+composition and photosynthesis, and support the
+exchangechamberduringphotosynthesismeasurementswere:aleaftemper-
+novel(toourknowledge)modelthatthroughitsrolein atureof22°C;[CO]of400mmolmol21;and120mmolm22s21lightintensity.
+2
+modulation of organ development, the cell wall plas- Duringnight-timerespirationmeasurements,theleaftemperaturewasmain-
+ticity is a key factor influencing photosynthetic pro- t f a ro in m ed 49 a - t a 2 n 0° d C 6 . 3 F - l d o - w old ra p te la w nt a s s . s F e o t r a 2 t 9 5 - 0 a 0 n m d m 8 o 2 l -d s - 2 o 1 ld wh p e la n n m ts, ak fl i o n w gm ra e te as w u a re s m se e t n a ts t
+cessesinlandplants. 300and700mmols21,respectively,tobettercontrolhumidity.
+846 Plant Physiol. Vol. 171, 2016
+
+CGR2 and CGR3 Alter Photosynthesis and Plant Growth
+Aftertheinitialmeasurementsofphotosynthesis,29-d-oldArabidopsisro- thetotalCallocatedforgrowthofthatparticularorgan.Accordingly,themodel
+setteswerefedwith14CO for10min.Aftera2-hchaseperiod,leafandroot simulatestheincreaseinleafareaandmass,andthemassoftheinflorescence
+2
+tissuewereharvestedseparatelyintoscintillationvials.Radioactivitywasde- androots.ThemodelcalculatedSLA,LMA,andleaf,root,andinflorescence
+terminedasdisintegrationspermin(DPM)byliquidscintillationcounting.The massratiosovertimebasedontheequationsgivenabove.
+DPMvaluesrecordedfromrootsandrosettesandthetotalDPMwereusedto Tofitthemodeleddatatomeasureddata,16partitioningcoefficientpa-
+calculatetheproportionofCpresentintheseorgans. rameters(partitioningtotheinflorescence,roots,leafareaandLMA,foreachof
+Thecontentratioof13CO to12CO inArabidopsisfreeze-driedleafma- thefourgrowthphases:germinationphase,earlyandlatevegetativephases,
+2 2
+terialwasmeasuredattheStableIsotopeRatioFacilityforEnvironmental andreproductivephase)wereadjustedsothatthemodeledandmeasuredleaf
+Research,UniversityofUtah(SaltLakeCity,UT),bymassspectrometry. area,massofinflorescence,root,andleafmatched(Weraduwageetal.,2015).C
+Thesedatawereusedtocalculatethed13C value,whichisthe13Cto12C partitioning data obtained by feeding Arabidopsis rosettes at29 DAS with
+VPDB
+isotopicratioofleavesrelativetothe13Cto12CisotopicratiooftheVienna- 14CO wereusedasinitialestimatesthatwerefine-tunedtofitthedata.Sensi-
+2
+Pee-Dee Belemnite (VPDB) standard (Farquhar et al., 1982). The d13C tivityofthemodeltochangesintheinputswastestedinCol-0bysimulatingan
+VPDB
+valueswereusedtocalculatetheCO partialpressureatRubiscousingEq.12 increaseordecreaseof1%inCpartitionedtogrowthprocesses,andother
+2
+giveninFarquharetal.(1982).Valuesforthevariousfactorsareasfollows: modelinputs,andnotingtheresultingresponseinoutput.Themodelwas
+d-valueofCO intheairatpresent=28.4‰(http://www.esrl.noaa.gov); consideredsensitive,incaseswheremorethan1%variationoccurredinmodel
+2
+partialpressureofCO intheair=39Pa;13Cdiscriminationassociatedwith outputsbecauseofchangingaparticularinput.
+2
+thediffusionofCO throughair=4.4‰;and13Cdiscriminationinthecar-
+2
+boxylationreaction=27‰(Farquharetal.,1989).
+StatisticalAnalyses ofExperimentalData
+AnalysisofCellWallPolysaccharidesinLeaves Fourtofivebiologicalreplicatesperlinewereusedtocollectexperimental
+dataatagiventimepoint.StatisticalanalyseswerecarriedoutusingSPSS22
+Preparationofalcohol-insolubleresiduesanduronicacidandmethylester (IBM,Armonk,NY).TheeffectsofalteredCGR2andCGR3expressiononplant
+assayswereperformedbasedonthemethodologydescribedinKimetal.(2015). growthandgasexchangewerecomparedusingaunivariategenerallinear
+Thematrixpolysaccharide(hemicellulose)andcrystallinecellulosecomposi- modelandthedifferencesbetweenmeansweretestedbysubjectingdatatoone-
+tion,andsolublesugarcontentinleaves,weremeasuredattheGreatLakes wayANOVAata=0.05,followedbyaFisher’sLeastSignificantDifference
+BioenergyResearchCenterCellWallFacility,MichiganStateUniversity(East Test.Measureddatapresentedinfiguresrepresentthemean6standarderror
+Lansing,MI)asdescribedinKimetal.(2015). (SE).
+ParameterizationoftheArabidopsisLeafArea AccessionNumbers
+GrowthModel
+SequencedatafromthisarticlecanbefoundintheGenBank/EMBLdata
+Development,parameterization,andexecutionoftheArabidopsisleafarea librariesunderaccessionnumbersAt3g49720andAt5g65810.
+growthmodelweredescribedindetailinWeraduwageetal.(2015).Thismodel
+isatooltodeterminepartitioningcoefficientsofCthatcouldgiverisetothe
+SupplementalData
+growthpatternsobservedindifferentplants(Weraduwageetal.,2015).Inthe
+model,plantgrowthisdividedintofourgrowthstages:(1)heterotrophicphase Thefollowingsupplementalmaterialsareavailable.
+(1–4DAS);(2)earlyvegetativephase;(3)latevegetativephase;andthe(4)re-
+SupplementalFigureS1.Cell wallcomposition inArabidopsis withal-
+productivephase.Ninetydaysofplantgrowtharesimulatedinthemodel
+usingafixedtimestepof1handthephotoperiodissetat8h.Asdescribedin teredCGR2andCGR3expression.
+detailinWeraduwageetal.(2015),thefollowingwereusedasinputsofthe SupplementalFigureS2.HypocotylandrosettesizeinArabidopsiswith
+model:weightofstoragereserves,ratioofmobilizedstoragereservestostored alteredCGR2andCGR3expression.
+reserves,initialleafarea,initialleafmass,projectedtototalleafarearatio,net
+photosynthesisrateperunitleafarea,proportionofCstoredasstarchduring SupplementalFigureS3.EarlygrowthphenotypesinArabidopsiswith
+theday,leafmaintenanceandgrowthrespiratorycoefficients,photoperiod, alteredCGR2andCGR3expression.
+andlengthsofgrowthphases. SupplementalFigureS4.PartitioningofphotosyntheticCtoshootsand
+Valuesforarea-basedphotosynthesisobtainedduringthefourharvestswere rootsinArabidopsiswithalteredCGR2andCGR3expression.
+fittedwithapolynomialthird-orderequationtoextrapolatearea-basedpho-
+tosynthesisthroughtheentire90dofthelifecycle.Similarly,measuredprojected
+tototalleafarearatiosduringthefourharvestswerefittedwithapolynomial
+second-orderequationtoextrapolatethevaluesover90d.Theseextrapolated ACKNOWLEDGMENTS
+valueswereusedinthemodelasinputphotosynthesisvaluesandprojectedto
+WearegratefultoDrs.SeanE.Weise(DepartmentofBiochemistryand
+totalleafarearatiosoverthelifespan.Themodelalsotakesbothgrowthand
+MolecularBiology),CliffFoster(theCellWallFacility,GreatLakesBioenergy
+maintenancerespirationintoconsideration.Themodelconsidersmaintenance
+ResearchCenter),AliciaWithrowandMelindaFrame(CenterforAdvanced
+respirationofaplant/particularorgantobeproportionaltothecorresponding
+Microscopy)ofMichiganStateUniversity(EastLansing,MI),andDr.Suvankar
+drymassandgrowthrespirationtobeproportionaltothegrowthrate(Penning
+Chakraborty(StableIsotopeRatioFacilityforEnvironmentalResearch)ofthe
+deVriesetal.,1974;Amthor,1984;Thomasetal.,1993;Lambersetal.,2008).
+Themodelhassetvaluesformaintenancecoefficients(amountofCrespiredto University ofUtahfor their support. Wethank Jim Klug andCody Keilen
+maintaintheexistingmassoftheplantorspecificorgan,mmolCg21s21),and (GrowthChamberFacility)ofMichiganStateUniversityfortheirassistanceand
+forgrowthcoefficients(amountofCrespiredperunitincreaseinmass,gg21) allmembersoftheSharkeyandBrandizzilabsfortheirsupport.
+basedonvaluesprovidedintheliterature(Amthor,1984;Mariko,1988)and ReceivedFebruary1,2016;acceptedMarch29,2016;publishedApril4,2016.
+assumesthatgrowthrespirationcoefficientsofleafgrowthintermsofareaand
+LMAarethesamethroughoutthelifecycle.ThenetamountofCavailablefor
+growthandmaintenanceprocessesoftheplantisdeterminedastheproductof LITERATURE CITED
+area-basedphotosyntheticrateandtheprojectedleafarea.Next,Cconsumedin
+maintenancerespirationandexudationissubtractedtodeterminethenetas- Amthor JS (1984) The role of maintenance respiration in plant growth.
+similation rate, which providesthe amount of C available for growth. The PlantCellEnviron7:561–569
+modelthensimulatesthepartitioningofCavailableforgrowthtoleafarea Burton RA, Gibeaut DM, Bacic A, Findlay K, Roberts K, Hamilton A,
+growth,growthintermsofLMA,androotandinflorescencegrowthbasedon BaulcombeDC,FincherGB(2000)Virus-inducedsilencingofaplant
+thesetpartitioningcoefficientsthatareadjustabletofacilitatefittingofthedata. cellulosesynthasegene.PlantCell12:691–706
+Partitioningcoefficientsvarybasedonthegrowthphases.Theincreaseinmass CaffallKH,MohnenD(2009)Thestructure,function,andbiosynthesis
+during growth in terms of leaf area and LMA, and root and inflorescence ofplantcellwallpecticpolysaccharides.CarbohydrRes344:1879–
+growth,iscalculatedbysubtractingtheCconsumedingrowthrespirationfrom 1900
+Plant Physiol. Vol. 171, 2016 847
+
+Weraduwage et al.
+Cunningham SA, Summerhayes B, Westoby M (1999) Evolutionary di- MitchellKA,BolstadPV,VoseJM(1999)Interspecificandenvironmen-
+vergencesinleafstructureandchemistry,comparingrainfallandsoil tally induced variation in foliar dark respiration among eighteen
+nutrientgradients.EcolMonogr69:569–588 southeasterndeciduoustreespecies.TreePhysiol19:861–870
+Evans JR, von Caemmerer S, Setchell BA, Hudson GS (1994) The rela- MiuraK,HasegawaPM(2010)Sumoylationandotherubiquitin-likepost-
+tionshipbetweenCO transferconductanceandleafanatomyintrans-
+translationalmodificationsinplants.TrendsCellBiol20:223–232
+2
+genictobaccowithareducedcontentofrubisco.AustJPlantPhysiol21: Penning de Vries FW, Brunsting AHM, van Laar HH (1974) Products,
+475–495 requirementsandefficiencyofbiosynthesis:aquantitativeapproach.J
+FarquharG,EhleringerJ,HubickK(1989)Carbonisotopediscrimination
+TheorBiol45:339–377
+andphotosynthesis.AnnuRevPlantPhysiolPlantMolBiol40:503–537 PillingJ,WillmitzerL,BückingH,FisahnJ(2004)Inhibitionofaubiq-
+FarquharG,O’LearyM,BerryJ(1982)Ontherelationshipbetweencarbon uitouslyexpressedpectinmethylesteraseinSolanumtuberosumL.affects
+isotope discrimination and the intercellular carbon dioxide concentra-
+plantgrowth,leafgrowthpolarity,andionpartitioning.Planta219:32–
+tioninleaves.FunctPlantBiol9:121–137 40
+GalmésJ,OchogavíaJM,GagoJ,RoldánEJ,CifreJ,ConesaMÀ(2013) PoorterH,NiinemetsU,PoorterL,WrightIJ,VillarR(2009)Causesand
+consequencesofvariationinleafmassperarea(LMA):ameta-analysis.
+LeafresponsestodroughtstressinMediterraneanaccessionsofSolanum
+NewPhytol182:565–588
+lycopersicum: anatomical adaptations in relation to gas exchange pa-
+rameters.PlantCellEnviron36:920–935
+ShipleyB(2002)Trade-offsbetweennetassimilationrateandspecificleaf
+area in determining relative growth rate: relationship with daily irra-
+HeldtH-W,PiechullaB(2010)PlantBiochemistry,Ed4.AcademicPress,
+diance.FunctEcol16:682–689
+London,UK
+TerashimaI,HanbaYT,TazoeY,VyasP,YanoS(2006)Irradianceand
+Honda H, Fisher JB (1978) Tree branch angle: maximizing effective leaf
+area.Science199:888–890 p
+re
+h
+la
+en
+ti
+o
+o
+t
+n
+yp
+to
+e:
+p
+c
+h
+o
+o
+m
+to
+p
+s
+a
+y
+r
+n
+a
+t
+t
+h
+iv
+e
+e
+tic
+ec
+C
+o
+O
+-de
+d
+v
+i
+e
+ff
+l
+u
+op
+si
+m
+on
+e
+.
+n
+J
+t
+E
+o
+x
+f
+p
+su
+B
+n
+ot
+a
+5
+n
+7
+d
+:3
+s
+4
+h
+3
+a
+–
+d
+3
+e
+54
+leaves in
+Kim HS, Delaney TP (2002) Over-expression of TGA5, which encodes a 2
+Thomas RB, Reid CD, Ybema R, Strain BR (1993) Growth and mainte-
+bZIPtranscriptionfactorthatinteractswithNIM1/NPR1,confersSAR-
+nancecomponentsofleafrespirationofcottongrowninelevatedcarbon
+independent resistance in Arabidopsis thaliana to Peronospora parasitica. dioxidepartialpressure.PlantCellEnviron16:539–546
+PlantJ32:151–163
+TsugeT,TsukayaH,UchimiyaH(1996)Twoindependentandpolarized
+KimS-J,HeldMA,ZemelisS,WilkersonC,BrandizziF(2015)CGR2and
+processesofcellelongationregulateleafbladeexpansioninArabidopsis
+CGR3havecriticaloverlappingrolesinpectinmethylesterificationand thaliana(L.)Heynh.Development122:1589–1600
+plantgrowthinArabidopsisthaliana.PlantJ82:208–220
+VillarR,Ruiz-RobletoJ,UberaJL,PoorterH(2013)Exploringvariationin
+Lambers H, Chapin F, Pons T (2008) Plant Physiological Ecology, Ed 2. leafmassperarea(LMA)fromleaftocell:ananatomicalanalysisof26
+Springer,NewYork,NY woodyspecies.AmJBot100:1969–1980
+LionettiV,RaiolaA,CamardellaL,GiovaneA,ObelN,PaulyM,Favaron WeraduwageSM,ChenJ,AnozieFC,MoralesA,WeiseSE,SharkeyTD
+F,CervoneF,BellincampiD(2007)Overexpressionofpectinmethyl- (2015) The relationship between leaf area growth and biomass accu-
+esterase inhibitors in Arabidopsis restricts fungal infection by Botrytis mulationinArabidopsisthaliana.FrontPlantSci6:167
+cinerea.PlantPhysiol143:1871–1880 WitkowskiETF,LamontB(1991)Leafspecificmassconfoundsleafdensity
+LiuYB,LuSM,ZhangJF,LiuS,LuYT(2007)Axyloglucanendotransglucosylase/ andthickness.Oecologia88:486–493
+hydrolaseinvolvesingrowthofprimaryrootandaltersthedepositionof Wolf S, Mouille G, Pelloux J (2009) Homogalacturonan methyl-
+celluloseinArabidopsis.Planta226:1547–1560 esterificationandplantdevelopment.MolPlant2:851–860
+MarikoS(1988)Maintenanceandconstructiverespirationinvariousor- Xiao C, Anderson CT (2013) Roles of pectin in biomass yield and pro-
+gansofHelianthusannuusL.andZinniaelegansL.BotMag101:73 cessingforbiofuels.FrontPlantSci4:67
+848 Plant Physiol. Vol. 171, 2016

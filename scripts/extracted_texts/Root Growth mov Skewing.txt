@@ -1,0 +1,580 @@
+RoyandBasshamBMCPlantBiology (2017) 17:73
+DOI10.1186/s12870-017-1024-4
+RESEARCH ARTICLE Open Access
+TNO1, a TGN-localized SNARE-interacting
+protein, modulates root skewing in
+Arabidopsis thaliana
+Rahul Roy1,2,4 and Diane C. Bassham1,2,3*
+Abstract
+Background: The movement of plant roots within the soilis key to their ability to interactwith theenvironment
+and maximize anchorage and nutrient acquisition.Directional growth ofroots occurs by a combinationof sensing
+external cues, hormonalsignaling and cytoskeletal changes in theroot cells. Roots growingon slanted,
+impenetrable growthmediumdisplay a characteristic waving and skewing, and mutants withdeviationsin these
+phenotypes assist inidentifying genes required for root movement. Our study identifies a rolefor a trans-Golgi
+network-localizedprotein in root skewing.
+Results: We found that ArabidopsisthalianaTNO1 (TGN-localized SYP41-interacting protein), a putative tethering
+factor localized atthe trans-Golginetwork, affects root skewing. tno1 knockout mutants display enhanced root
+skewing and epidermal cell file rotation. Skewing of tno1roots increases upon microtubulestabilization, but is
+insensitive to microtubuledestabilization.Microtubule destabilization leads to severedefects incell morphology in
+tno1seedlings. Microtubule array orientation is unaffected inthe mutant roots, suggesting that theincrease incell
+file rotation is independentof the orientation of microtubule arrays.
+Conclusions: We conclude that TNO1 modulates root skewing ina mechanism that is dependent onmicrotubules
+butis notlinked to disruption of theorientation of microtubule arrays. Inaddition, TNO1 is required for
+maintenance of cell morphologyin mature regions of roots and the base of hypocotyls. The TGN-localized SNARE
+machinery might therefore be important for appropriate epidermal cell file rotation and cell expansion during root
+growth.
+Keywords: trans-Golginetwork, Root movement, Cell file rotation, Tetheringfactor, Microtubules
+Background These cues are integrated and then signal downstream
+Establishment of the root system of a plant is crucial for processes involving hormonal pathways and cell expan-
+efficient anchorage and nutrient acquisition. Root devel- sion[4].Thisleadstoacumulativephysiologicalresponse
+opment and architecture are well-studied [1] but our driving root movement and establishing the root
+understandingofhowrootsinteractwithsoilcomponents architecture.
+is still incomplete. This is due in part to the difficulty of Studying and simulating root movement and direc-
+visualizing roots as they move into the soil, although tional growth in the laboratory on synthetic growth
+recentdevelopmentssuchastheGLO-Rootsplatformaid media has revealed distinct movement types, and some
+in imaging this process [2, 3]. Root growth into the sub- of the genes and pathways that control them [4]. Roots
+stratum presents multiple cues to the root tip such as of Arabidopsis thaliana seedlings display various growth
+mechanical obstacles, moisture and nutrient gradients. behaviors depending on external conditions. When em-
+bedded in a homogeneous medium (penetrable agar),
+*Correspondence:bassham@iastate.edu roots grow downward in response to gravity and show
+1DepartmentofGenetics,DevelopmentandCellBiology,1035BRoyJCarver minimal deviation from the gravity vector. By contrast,
+Co-Lab,1111WOIRd,IowaStateUniversity,Ames,IA50011,USA
+when roots are subjected to multiple directional cues,
+2InterdepartmentalGeneticsProgram,IowaStateUniversity,Ames,IA,USA
+Fulllistofauthorinformationisavailableattheendofthearticle complicated growth patterns occur [5]. For example,
+©TheAuthor(s).2017OpenAccessThisarticleisdistributedunderthetermsoftheCreativeCommonsAttribution4.0
+InternationalLicense(http://creativecommons.org/licenses/by/4.0/),whichpermitsunrestricteduse,distribution,and
+reproductioninanymedium,providedyougiveappropriatecredittotheoriginalauthor(s)andthesource,providealinkto
+theCreativeCommonslicense,andindicateifchangesweremade.TheCreativeCommonsPublicDomainDedicationwaiver
+(http://creativecommons.org/publicdomain/zero/1.0/)appliestothedatamadeavailableinthisarticle,unlessotherwisestated.
+
+RoyandBasshamBMCPlantBiology (2017) 17:73 Page2of12
+Arabidopsis roots grown on a slanted impenetrable sensitive factor attachment protein receptors) maintain
+medium(1.5% agar) showacharacteristic deviation from vesicle trafficking fidelity and cargo sorting within cells
+the vertical (skewing) with a periodic wave-like pattern [31]. The TGN-localized SYP4 (41/42/43) SNARE family
+along their trajectory (waving).Thisarises due to a com- is required for multiple transport pathways that in turn
+bination of touch [6], gravitropism [7], circumnutation regulate auxin homeostasis and disease resistance [30].
+[5], and physical interaction between the root tip and SYP61,anotherTGN-localizedSNAREthatinteractswith
+thegrowth medium [8]. SYP41, functions in vacuolar trafficking and secretion of
+Skewing and waving roots display a characteristic cell wall enzymes such as cellulose synthase and pectin-
+twisting of epidermal cell files along the root, referred to polysaccharide-modifyingprotein.Thisindicatesarolefor
+as cell file rotation (CFR). When roots of Arabidopsis SYP61intraffickingofcellwallcomponentsandenzymes
+seedlings skew and wave, the succession of sinusoidal for their synthesis and modification [32–34]. TNO1
+waves alternate between left-handed and right-handed (TGN-localized SYP41-interacting protein) is a TGN-
+CFRs, which correlates with their rightward and leftward localized coiled-coil protein that interacts with the SYP41
+movement respectively [6, 7]. According to Rutherford SNARE machinery. Mutant plants lacking TNO1 (tno1)
+and Masson (1996), skewing is described as rightward or partially mis-sort vacuolar cargo, mis-localize SYP61 and
+leftward when viewed from the back of the plate [7] display altered TGN dynamics and slower gravitropic
+while handedness of the CFR is defined as left-handed responses[35,36].
+or right-handed when viewing the axis of the root point- Trafficking at theTGNplaysarole inauxin responses,
+ing shootwards. Roots of Arabidopsis grown on a trafficking of cell wall components, and cell expansion,
+slanted, hard medium exhibit a dominant left-handed all of which are important for root growth and move-
+rotationaround thegrowthaxisresultinginapredomin- ment. In addition, gravitropic bending is delayed in tno1
+antly counterclockwise/left-handed epidermal CFR. This roots, suggesting defects in directional growth of roots.
+usually corresponds to a rightward skewing when seen We therefore investigated a potential function for TNO1
+from the back of the plate [7, 9, 10]. CFR also typically in root movement. We report here that TNO1 acts as a
+correlates with an oblique microtubule (MT) array negative regulator of root skewing, since tno1 mutant
+orientation in the twisting cell files, although exceptions roots have enhanced skewing which also correlates with
+doexist [11]. anenhancedCFR.
+Multiple factors such as external cues (e.g. moisture,
+light or gravity),hormonal pathways, and cytoskeletaland Methods
+cell wall dynamics influence the direction of root growth Plantmaterialandgrowthconditions
+[4]. External cues signal changes in hormone signaling Arabidopsis thaliana Col-0 (wild-type, WT) and tno1
+pathways, including auxin [12–14], ethylene [8, 15], cyto- knockout mutant (SALK_112503) were obtained from
+kinin[16]andbrassinosteroidpathways[17].Downstream the Arabidopsis Biological Resource Center; the comple-
+of hormonal and environmental perception, changes in mented tno1 mutant was generated previously in our
+the cytoskeleton and in cell wall deposition patterns laboratory [35]. Arabidopsis seeds were surface-sterilized
+modulate cell division and cell expansion dynamics, thus in 33% bleach, 0.1% (v/v) Triton X-100 for 20 min,
+mediating root movements. Defects in tubulin structure rinsed 5 times with sterile water and kept in the dark at
+or activity or in MT-associated proteins result in altered 4°Cforatleast2daysbeforebeingsubjectedtotheroot
+MT dynamics and array orientation. This then leads to skewing and waving assays or drug sensitivity assays
+changes in cell expansion and affects CFR and skewing described below. Arabidopsis hypocotyls were analyzed
+[18,19].Cellwallpropertiesandthetraffickingofcellwall by plating sterilized seeds on 0.5X solid Murashige-
+components to the plasma membrane are key to root Skoog(MS)medium[(Murashige-Skoogvitaminandsalt
+elongation and movement as inferred from the altered mixture, Caisson, MSPA0910] with 1% sucrose, 2.4 mM
+root movements observed in mutants defective in cellu- MES (pH 5.7), and 0.8% (w/v) Phytoblend agar (Caisson,
+lose deposition, wall-anchored proteins or crosslinking of PTP01)andgrowing verticallyat22°Cinthedark.
+cellwallcomponents[20–22].
+Sorting of cell wall components occurs at the trans- Rootskewingandwavingassays
+Golgi network (TGN), a tubulo-vesicular organelle that Skewing and waving assays were performed as described
+matures from the two or three trans- most cisternae of [7, 37]. Arabidopsis plants were grown at 22 °C in long-
+the Golgi [23]. It acts as an early endosome, receiving day conditions (16 h light) on 0.5X solid Murashige-
+endocytosed cargo as well as directing vacuolar and Skoog (MS) medium (Murashige-Skoog vitamin and salt
+secretorytraffic,withdistinctsubdomainsthatfunctionin mixture, Caisson, MSPA0910) with 1% sucrose, 2.4 mM
+various trafficking routes [24–30]. Specific membrane MES (pH 5.7), and 1.5% (w/v) Phytoblend agar (Caisson,
+fusion factors called SNAREs (soluble N-ethylmaleimide– PTP01). Seedlings were grown vertically for 3 days after
+
+RoyandBasshamBMCPlantBiology (2017) 17:73 Page3of12
+which the root tip position was marked. The plates were with a Leica confocal laser scanning microscope (Leica
+then slanted backwards, 30o to the vertical, and grown SP5; Leica Microsystems) at the Iowa State University
+for another 4 days. Images of the roots were acquired Confocal and Multiphoton Facility, using a 40X (1.25
+from the back of the plate using a Nikon SMZ1000 light NA) or 63X (1.4 NA) Leica oil immersion objective.
+microscope equipped with a Nikon S10 CoolPix camera. Excitation and emission wavelengths were 488 nm and
+Analysis of root parameters was performed using Image 507 nm. Laser power, scan frequency and line averaging
+J [38]. Root tip deviations to the right from the back of were optimized and kept constant between samples and
+the plate were considered positive while deviations to replicates. Confocal images were analyzed with the freely
+theleftwere considered negative. available software package MicroFilament Analyzer
+Root morphometric analyses were performed as (MFA) [43], and data was displayed as circular plots as
+described [39]. Images of skewing/waving roots were generated by the software. MT angles generated by the
+analyzed with the ImageJ software [38] for measuring software were classified into three classes, 0 to 10, 11 to
+root tip abscissa (Lx) and length of the root (L) followed 30 and 31 to 90 degrees using Microsoft Excel and used
+bycalculation of horizontalgrowthindices (Lx/L). forsubsequent analysis.
+Drugsensitivityassays Results
+Seedlings were grown vertically on plates containing LossofTNO1resultsinexaggeratedrootskewing
+either taxol (Paclitaxel, Sigma Cat #T7191) or propyza- Mutants lacking TNO1 have normal root elongation,
+mide (Sigma-Aldrich, Cat #45645) at the indicated but show a lag in root gravitropic bending upon gravisti-
+concentrations for 5 days and skewing angles of roots mulation [36]. Positive gravitropism is a key component
+were determined. Dark grown hypocotyl cell phenotypes drivingrootwavingandskewing,andhencewehypothe-
+were analyzed by placing 7-day-old hypocotyls on the sizedthatTNO1 might playaroleintheseprocesses.
+surface of warm 3% low melting point agarose on a slide To test this hypothesis, 3-day-old seedlings were
+[40] and then imaging the imprints with a Zeiss grown vertically on the surface of hard agar medium
+AxioplanIIlight microscope. (1.5% agar), the plates tipped over by 30o, and the seed-
+lings allowed to grow for an additional 4 days (Fig. 1a).
+Cellfilerotationanalysisandpropidiumiodidestaining Theslantforcestheroottiptopressagainsttheimpene-
+The root surface of Arabidopsis seedlings was visualized trable medium due to positive gravitropism. As the root
+usingaZeissmacro-zoommicroscopeattheMicroscopy fails to penetrate the medium, cell expansion and
+and NanoImaging facility, Iowa State University. Alter- circumnutation drive the root to the side and this alter-
+natively, roots were stained with propidium iodide nates between rightward and leftward corrective devia-
+(ThermoFisher Scientific Cat #P3566). Seedlings were tions resulting in characteristic waving and skewing
+dipped in a working aqueous solution (10 μg/ml) of responses [4, 7]. tno1 mutant roots (KO) formed sinus-
+propidium iodide for 1 min and then washed twice by oidal wave-like growth patterns similar to WT (Col-0)
+dipping in petri dishes filled with water for 30 s. The roots but had an exaggerated rightward skew compared
+roots were mounted in water and visualized using a to the WT roots, when seen from the back of the plate
+Leica confocal laser scanning microscope (Leica SP5; (Fig. 1b). tno1 mutants complemented with transgenic
+Leica Microsystems) at the Iowa State University Con- TNO1 under the control of its own promoter (COM)
+focal and Multiphoton Facility. Excitation and emission [35] had reduced skewing compared to the mutants and
+wavelengths were 488 nm and 617 nm respectively. were similar to the WT roots (Fig. 1b). Root images
+Laser power, scan frequency and line averaging were were analyzed using ImageJ [38] and quantified for devi-
+optimized and kept constant between samples and ation of the root tips from their position at the time of
+replicates. CFR angles of the roots were calculated as slant initiation (β) (Fig. 1c) [7, 39]. tno1 mutants had a
+described[7,41]usingImageJ [38]. higher angle of deviation than the WT or complemented
+roots (Fig. 1d; P < 0.05). To confirm the difference in
+Immunostainingandanalysisofmicrotubules phenotype, another morphometric parameter, the
+Five-day-old Arabidopsis seedlings grown on slanted horizontal growth index (HGI), was calculated for the
+medium were fixed and immunostained as described skewing roots. HGI is the ratio of the root tip abscissa
+[42]. Mouse anti-α- tubulin antibodies (Sigma-Aldrich, (Lx) and length of the root (L) (Fig. 1c)and is a sensitive
+Cat #T6074), diluted 1:100, were used for immunolabel- and robust parameter to quantify lateral directions of
+ing of MTs followed by AlexaFluor 488-conjugated goat growth, independent of root shape [39]. Root tips
+anti-mouse IgG (ThermoFisher Scientific, Cat #A11029) skewed to the right yield positive Lx values and negative
+as a secondary antibody, diluted 1:500. Cells within the values when roots skew left. A positive Lx results in a
+elongation zone were imaged by confocal microscopy positive HGI value, which then signifies a rightward
+
+RoyandBasshamBMCPlantBiology (2017) 17:73 Page4of12
+Fig.1LossofTNO1proteinfunctioncausesincreasedrightwardrootskewing.aSideviewofthesetupfortherootskewingassayongrowth
+mediumsolidifiedwith1.5%agar.Seedlingsweregrownverticallyfor3daysinlongday(LD)conditions,afterwhichtheroottippositionwas
+marked.Theplateswerethenslantedbackwards,30otothevertical,andgrownforanother4days.bImagesofWT,tno1mutant(KO)and
+complementedtno1mutants(COM)displayingskewingofrootsawayfromthevertical.Scalebar=1cm.cSchematicdiagramofanalysisofa
+roottodeterminetheangulardeviationoftheroottip(β),thehorizontalroot-tipdeviation(Lx)andthelengthoftheroot(L).Ahighervalueof
+βandHGI(=Lx/L)indicateincreasedskewing.dAngulardeviationofroottipsofWT,KOandCOMseedlingssubjectedtotherootskewingassay
+asdescribedin(a).eHorizontalgrowthindex(HGI)ofrootsofWT,KOandCOMseedlingssubjectedtotheskewingassay.HGIistheratioofthe
+horizontalroottipdeviation(Lx)androotlength(L).Allvaluesrepresentthemeansof3biologicalreplicateswith12–15seedlingsanalyzedfor
+eachreplicate.Errorbarsindicatestandarderror.Asterisksindicateastatisticallysignificantdifference(P<0.05)byStudent’st-test
+deviation while a negative value suggests leftward devi- base of the elongation zone of skewing roots. Rightward-
+ation [39]. tno1 roots had a significantly higher HGI skewing mutants usually display a dominant left-handed
+than WT and complemented lines (Fig. 1e; P < 0.05), CFR [4, 11]. We therefore hypothesized that the enhanced
+confirming that the tno1 mutants do indeed have an in- rightward skewing in the tno1 mutants would correlate
+creased rightwarddeviation fromthe vertical. withanincreaseinleft-handedCFR.
+Microscopic analysis of mutant roots showed a marked
+Skewingtno1rootsdisplayenhancedrootepidermalcell left-handedepidermalCFRinitiatingintherootelongation
+filerotation(CFR) zone (black arrow, Fig. 2a) while WTand complemented
+The cellular basis for CFR is still not completely under- rootsmainlyhaveaverticalarrangementofcellfileswitha
+stood, but has been proposed to be a result of the circum- lack of distinct CFR in this region (Fig. 2a). Confocal im-
+nutation of the root tip [20]. Circumnutation is dependent agingofpropidiumiodide-stainedrootsrevealedadistinct-
+onaninternalmechanismthatresultsinanellipticalorcir- ive left-handed CFR with a higher twist in the elongation
+cular trajectory around an imaginary axis of growth [44]. zoneoftno1linescomparedtotheWTandcomplemented
+The helical pattern of cell division at the root tip has been lines (Fig. 2b). Images were analyzed with ImageJ to quan-
+hypothesized to be thebasis for epidermal CFR [6, 10, 37]. tifytheleft-handedtwistofthecellfilesrelativetothelon-
+The characteristic spiral cell division patterns of the outer gitudinalaxisoftheroot.Thetno1CFRsweresignificantly
+circleofmeristematiccellsintherootapexcausesaspiral- higher (P < 0.01) than the WT and complemented root
+ing of the cell files, thus resulting in CFR formation [45], CFRs(Fig.2c).Thismayexplaintheenhancedskewofthe
+although this fails to explain why CFR initiates at the base mutant roots, since the increased left-handed twist might
+of the elongation zone, away from the site of initial cell causelargerdeviationsfromtheaxisofgrowth.
+divisions. A lag in anisotropic expansion rates between the
+epidermalandtheinnercelllayerscanalsocauseatwisting Skewingoftno1rootsisenhanceduponMTstabilization
+of the cell files to compensate for stresses and strains that bytaxol
+might otherwise cause tissue breakage [9]. CFR, usually CFR can be caused directly by altered cortical MT
+preceding root bending and skewing [41], is visible at the organization, which influences anisotropic expansion as
+
+RoyandBasshamBMCPlantBiology (2017) 17:73 Page5of12
+Fig.2Skewingtno1rootsdisplayenhancedrootepidermalcellfilerotation.aImagesofthesurfaceofroottipsofWT,KOandCOMlinessubjectedto
+theskewingassay,imagedunderamacrozoommicroscope.Theblackarrowpointstoepidermalcellfilerotation.Scalebar=100μm.bConfocal
+microscopicimageofpropidiumiodide-stainedelongationzoneofWT,KOandCOMrootssubjectedtotheskewingassay.Scalebar=100μm.cCellfile
+rotationanglesofskewingrootsofWT,KOandCOMlines.Allvaluesrepresentthemeansof3biologicalreplicates,withatleast10cellfilesfrom5
+seedlingsanalyzedforeachreplicate.Errorbarsindicatestandarderror.Asterisksindicateastatisticallysignificantdifference(P<0.01)byStudent’st-test
+MTalignment controls the direction of cellulose depos- ofthe mutant roots from 0 μM to 0.2 μM taxol is signifi-
+ition [46, 47]. Several mutants defective in MTstability, cantly higher (P < 0.05) than in the WTand complemen-
+organization and dynamics have enhanced right- or left- tedlineroots(Fig.3c).Wehypothesizedthatthisincrease
+ward skewing, with a dominant left or right-handed CFR inskewingwasduetoanincreaseintheleft-handedtwist
+respectively [18]. Many, but not all, also display a hand- of the roots. Analysis of confocal images of propidium
+edness of the cortical MTarrays that is opposite to the iodide stained roots in the presence of 0.2 μM taxol re-
+CFR handedness of the elongation zone of the roots. vealsalargerleft-handedCFRinthetno1rootscompared
+Some mutants defective in MT-interacting proteins to WTand complemented lines (Fig. 3d, e). The pheno-
+show right-handed CFR, skew to the left, and display type is reflective of the effect of taxol on the root growth
+left-handed helical cortical MT arrays in the elongation rather than the effect of a slanted substratum, since the
+zone [48, 49], while others have skewing defects but drug assay is conducted on vertically-oriented plates.
+normal transverse MT array orientation in the root These results suggest that MT stabilization exaggerates
+elongation zone. This suggests that the relationship therootskewingandCFRphenotypeofthetno1mutants.
+between MT dynamics, orientation, and skewing is com-
+plex. We hypothesized that the enhanced skewing and EffectofMTdestabilizationbypropyzamide(PPD)on
+CFR in tno1 mutants might also be due to changes in rootskewingintno1mutants
+cortical MTarray organization or dynamics.TNO1is lo- The MT-destabilizing chemical propyzamide (PPD) also
+calized to theTGN, and this hypothesis receives support enhances rightward skewing in WT seedlings [9]. Since
+from a recent study in which a TGN-localized protein the effect of MT stabilization on root skewing in tno1
+was shown to activate a kinesin and be involved in root seedlings suggests a MT-based role for TNO1 in root
+skewing and gravitropism, linking MTs and the TGN in movement,wetestedtheeffectofPPDonrootskewingin
+theroot skewing process[50]. the tno1 mutant. WTand complemented roots showed a
+The MT-stabilizing chemical taxol causes MT bundling slight increase in rightward skew at 1 μM PPD and a
+and enhances rightward skewing in WT roots [9, 51]. marked increase at 3 μM PPD. Surprisingly, skewing of
+When grown vertically on increasing concentrations of tno1mutantrootswasinsensitivetoPPD(Fig.4a,b).The
+taxol (Fig. 3a), tno1 roots showed significantly higher percentage increase in skewing observed for WT and
+rightward skewing than the WTand complemented lines complemented roots in the presence of PPD was signifi-
+(Fig. 3a, b). The percentage increase in the skewing angle cantly higher than in tno1 (Fig. 4c). The increase in
+
+RoyandBasshamBMCPlantBiology (2017) 17:73 Page6of12
+Fig.3Skewingoftno1rootsisenhanceduponMTstabilizationbytaxol.aAngleofskewwithrespecttothehorizontalforWT,KOandCOM
+rootsgrownontwodifferentconcentrationsoftaxol.SeedlingsweregrownverticallyinLDconditionsfor5daysongrowthmediasolidified
+with1.5%agarandeithercontainingtaxolorsolventasacontrol.Allvaluesrepresentthemeansofthreebiologicalreplicateswithatleast12–15
+seedlingsforeachreplicate.Errorbarsindicatestandarderror.Asterisksindicateastatisticallysignificantdifference(P<0.05)byStudent’s
+t-test.bLightmicroscopicimagesofrootsofWT,KOandCOMlinesgrownverticallyinthepresenceof0.2μMtaxolfor5days.Scalebar=1cm.
+cMeanrootskewofeachgenotypeontaxolcomparedtothemeanonthesolventcontrolwasexpressedaspercentageincreaseinskew.
+Valuesrepresentanalysisof3biologicalreplicateswithatleast12seedlingsforeachreplicate.Errorbarsindicatestandarderrors.Differentletters
+indicatestatisticallysignificantdifferences(P<0.05)byStudent’st-test.dConfocalimagesofpropidiumiodide-stainedelongationzonesofWT,
+KOandCOMrootsdisplayingepidermalCFR.Therootsweregrownverticallyon0.2μMtaxolfor5days.Scalebar=100μm.eCellfilerotation
+anglesofskewingrootsofWT,KOandCOMlinesgrownon0.2μMtaxol.Allvaluesrepresentthemeansof3biologicalreplicateswithatleast
+10cellfilesfrom3seedlingsanalyzedforeachreplicate.Errorbarsindicatestandarderrors.Asterisksindicateastatisticallysignificantdifference
+(P<0.01)byStudent’st-test
+skewing for the complemented lines was slightly higher treated-WT and complemented roots. Confocal micro-
+than the WT, suggesting that the precise expression pat- scopic analysis of the surface of roots growing on 3 μM
+tern of the TNO1 protein may be reflected in the extent PPDrevealsatwistingofWTandcomplementedepider-
+of root skewing. While theTNO1 transgene in the com- mal cell files. The mutant root epidermal cell files also
+plemented lines is expressed under its native promoter display considerable left-handed CFR, indistinguishable
+and its overall expression levels are similar to that of the from WT and complemented lines (Fig. 4d, e). Hence,
+endogenous protein, position effects within the genome the resistance of tno1 roots to PPD-induced skewing is
+may cause slight differences in expression pattern in independent of PPD-induced CFR. To explain this
+differentcelltypes. observation, we hypothesized that the PPD treatment
+We hypothesized that the reduced skewing of tno1 might have other effects on the mutant roots, including
+roots in the presence of PPD would correlate with a effects on root growth or morphology. There were no
+reduced CFR when compared with CFRs of PPD measurable differences between the root growth rates of
+
+RoyandBasshamBMCPlantBiology (2017) 17:73 Page7of12
+Fig.4EffectofMTdestabilizationbypropyzamide(PPD)onrootskewingintno1mutants.aAngleofskewwithrespecttothehorizontalforWT,
+KOandCOMrootsgrownontwodifferentconcentrationsofPPD.Seedlingsweregrownverticallyinlong-dayconditionsfor5daysongrowth
+mediasolidifiedwith1.5%agarandeithercontainingPPDorsolventasacontrol.Allvaluesrepresentthemeansof3biologicalreplicateswithat
+least12–15seedlingsforeachreplicate.Errorbarsindicatestandarderror.AsterisksindicateastatisticallysignificantdifferencefromWT(P<0.05)
+byStudent’st-test.bLightmicroscopicimageofrootsofWT,KOandCOMlinesgrownverticallyinthepresenceof3μMPPDfor5days.Scale
+bar=1cm.cMeanrootskewofeachgenotypeonPPDcomparedtothemeanonthesolventcontrol,expressedaspercentageinhibition.Values
+representanalysisof3biologicalreplicateswithatleast12seedlingsforeachset.Errorbarsindicatestandarderror.Differentlettersindicate
+statisticallysignificantdifferences(P<0.05)byStudent’st-test.dRepresentativeimageofpropidiumiodide-stainedelongationzonesofWT,KO
+andCOMrootsgrownverticallyon3μMPPDfor5days,imagedwithaconfocalmicroscope.Scalebar=100μm.eCellfilerotationanglesof
+rootsofWT,KOandCOMlinesgrownon3μMPPD.Allvaluesrepresentthemeansof3biologicalreplicateswithatleast10cellfilesfrom3
+seedlingsanalyzedforeachreplicate.Errorbarsindicatestandarderrors
+the WT, tno1 and complemented lines when grown in CFR in the elongation zone continues to form nor-
+the presence or absence of PPD (not shown), and it is mally. It is possible that the defects in the mature
+therefore unlikely that the difference in skewing is due zone of the PPD-treated tno1 roots could then affect
+todifferencesingrowthrate. how the growing root interacts with the substrate,
+Surprisingly, mature regions of tno1 roots grown on which would in turn affect root skewing.
+3 μM PPD had more severe defects in cell morphology To assess whether other organs and cell types in the
+when compared to PPD-treated WT and complemented mutant might also be sensitive to MT disruption by
+lines,withthemutantsdisplayingmalformedcells(Fig.5a). PPD, we analyzed agarose imprints of control and PPD-
+Whereas PPD-treated WT and complemented roots have treated dark-grown hypocotyls. The base of the hypo-
+typicallong,narrowcells,tno1mutantrootcellsareshorter cotyls in the WTand complemented lines had cells with
+and wider, indicating defects in anisotropic growth. This increased width when compared to their untreated
+pointstoapossibledefectincellmaturationorcellwallde- counterparts. tno1 hypocotyls were hypersensitive to
+position that could potentially interfere with the ability of PPD, with much more severe defects in cell morphology
+the tno1 roots to skew in the presence of PPD even as the when compared to the untreated tno1 seedlings and to
+
+RoyandBasshamBMCPlantBiology (2017) 17:73 Page8of12
+Fig.5Effectof3μMpropyzamide(PPD)oncellmorphologyofthematureregionoftherootandthebaseofthehypocotyl.aRepresentative
+imageofpropidiumiodide-stainedmaturezoneofWT,KOandCOMrootsgrownonsolventasacontrolor3μMPPDfor7days,imagedwitha
+confocalmicroscope.Scalebar=100μm.bRepresentativeagaroseimprintsofthebaseofWT,KOandCOMhypocotylsgrownonsolventcontrol
+or3μMPPDfor7days,imagedwithamacrozoommicroscope.Scalebar=100μm
+PPD-treated WTand complemented seedlings (Fig. 5b). processes have a change in the pitch of MTarrays asso-
+ThePPD-treated tno1 seedlings also lacked the spiraliza- ciated with a corresponding change in CFR. However,
+tionofthe cellsobservedinthetreatedWTandcomple- some mutants with enhanced CFR show no obliqueness
+mented lines. As observed in the skewing assay, the of the MT array, but rather have transverse arrange-
+complemented lines were slightly more sensitive to PPD ments similar to the central elongation zone cells of the
+than WT, which again may be due to position effects. WT roots. For example, the sku6 mutant maintains a
+Cell elongation is initiated at the base of dark grown transverse alignment of MT arrays despite its left-
+hypocotyls [52], and the loss of TNO1 may lead to an handed CFR [9, 54] while the mor1–1 mutant, impaired
+increased susceptibility of this cell expansion process to in MT polymerization, also displays a left-handed CFR
+MT destabilization by PPD. Treatment with low concen- but no bias in MTarray orientation [55]. These mutant
+trations of PPD (such as 2 μM) has been reported to phenotypes suggest that additional factors can also be
+cause a decrease in the dynamic instability of cortical responsible for a change in CFR, apart from the MT
+MTs, leading to more static MTs that spend more time arrayorientation.
+in the paused state compared to untreated cells [53]. We hypothesized that the dominant left-handed CFR
+Our results suggest that the disruption of MT dynamics in the tno1 roots would correspond to a right-handed
+by PPD has a more adverse effect on tno1 roots than MT array in the epidermal cells of the elongation zone
+WT. This could be manifest as defects in MT-array compared to WT roots. Four-day-old chemically fixed
+organization, anisotropic expansion, or both, resulting in WT and tno1 roots, grown on a slanted impenetrable
+theobserveddisruptionincellmorphologyintno1. medium, were immunostained with tubulin antibodies
+[42] to detect MTs and imaged by confocal microscopy.
+TheorientationofMTarraysintheelongatingcellsof The MT arrays of epidermal cells in the mutant roots
+skewingtno1rootsisnotaffected did not show any distinct handedness or change in pitch
+MT arrays in elongation zones of roots are usually ar- compared to WT epidermal MTarrays (Fig. 6a). Quanti-
+ranged in a transverse orientation to facilitate aniso- tative analyses on collected images were performed util-
+tropic expansion. Skewing roots of some mutants with izing the MATLAB software package MicroFilament
+marked CFRs have distinct oblique arrays of MTs, with Analyzer [43] to allow comparison of MT orientation in
+the handedness of a MT array opposite to that of CFR multiple images from different biological replicates. The
+[18]. Strong correlations have also been observed be- representative circular output graphs from the analyses
+tween angle of skewing and pitch of the MTarrays [11]. suggest a mainly transverse orientation of the MTs in
+Many mutants that are defective in MT-associated the elongation zone of both WT and tno1 roots (blue
+
+RoyandBasshamBMCPlantBiology (2017) 17:73 Page9of12
+Fig.6TheorientationofMTarraysintheelongatingcellsofskewingmutantrootsisnotaffected.aRepresentativeconfocalimagesofthecortical
+microtubulearrayofelongatingcellsof5-day-oldArabidopsisrootsgrownonslantedmedium,immunostainedwithanti-α-tubulin.Theboxedinset
+indicatestheregionthatwasselectedfortheMTarrayanalysisin6b.Scalebar=10μm.bGraphicalrepresentationoftheanalyzedMTsasacircular
+plotderivedfromanalysisoftheconfocalimagesinpartawiththeMicroFilamentAnalyzersoftware(MFA).Thebluelinerepresentstheoriginaldata
+(theMTangles)whiletheredlinerepresentssmootheddata.Greenasterisksdenotedominantorientationswhiletheyellowlineisaweightedaverage
+ofthedetectedfilamentsperangle.cMicrotubuleangledistributionintheelongatingcellsofWTandKOrootswascalculatedfromthedata
+generatedviatheMFAsoftware.Valuesrepresentanalysisof3biologicalreplicateswithatleast500MTsanalyzedfrom3cellsofthreedifferentroots
+foreachreplicate.Errorbarsindicatestandarderrors
+line along the 0–180 degree axis) (Fig. 6b). To assess the meristematic zone to a transverse orientation in the
+whether a difference in the percentage of oblique MTs elongation zone, and this organization is important for
+between the WT and mutant might explain the higher facilitating rapid anisotropic growth [42]. Defects in
+CFR in the mutants, MT angles of root cells from WT tubulin structure/activity and in MT-associated proteins
+and tno1 roots were classified into three classes, 0 to 10, can result in oblique MTarrays in the central elongation
+11 to 30 and 31 to 90 degrees (Fig. 6c). No significant zone of roots. Oblique MT orientation in elongating
+difference was found in the percentage of MTs in each cells causes cells to expand at an angle to the vertical,
+class between the WT and mutant. Thus we conclude leading to CFR and root skewing [4, 20, 56, 57]. Skewing
+that tno1 mutants have normal transverse MTarrays in roots of tno1 do not show an oblique MT orientation in
+the skewing roots, suggesting that an alternative mech- the elongation zone but rather a transverse one. This
+anismmustberesponsiblefor the changeinCFR. suggests that the root movement phenotype in tno1
+mutants arises independent of the organization of MT
+Discussion arrays in the root elongation zone, although dependent
+TNO1 plays important roles in post-Golgi trafficking, on MT dynamics. It is possible that, despite its normal
+gravitropism and auxin transport-dependent processes. orientation, the cortical MTarray in tno1 roots mightbe
+Here we demonstrate that TNO1 is required for root compromised in restructuring or function as the root
+skewing and CFR formation. Skewing of tno1 mutant navigates a complex trajectory during skewing. The loss
+rootsincreasedtoagreaterextentuponMTstabilization of TNO1 could potentially also affect the function of a
+by taxol when compared to WT roots but was resistant MT-associated protein such as a kinesin; as an example,
+to MT destabilization by PPD. This led us to postulate a a TGN-localized kinesin-binding separase has recently
+role for TNO1 in MT-dependent processes, although been reported toaffectroot skewing [50].
+MT destabilizing agents have also been reported to in- Certain root skewing mutants have transverse MT
+duce left-handed CFR without affecting MTarrays [53]. arraysoralackofdirectionalbiasintheMTarraysinthe
+In roots, MTarrays transition from a disordered state in root elongation zone but have a distinct CFR [54, 58, 59].
+
+RoyandBasshamBMCPlantBiology (2017) 17:73 Page10of12
+Moreover, CFR can still occur upon MT disruption with Inhibitors of cellulose synthase trafficking such as CES-
+MT destabilizing agents such as oryzalin and PPD [53]. TRIN cause MT instability and reduced cellulose content,
+This suggests that the MTarray is not the only factor in- and increase SYP61 and cellulose synthase co-localization
+volved in generating CFR. Owing to anomalies such as [68].SinceCESTRINdoesnotaffectthebulksecretoryand
+these, Wasteneys (2004) proposed that CFR could arise endocyticroutes,theSYP61-decorateddomainoftheTGN
+due to torsional handedness inherent to roots, and the and its associated proteins such asTNO1 seem to be cru-
+correlationbetweenCFRandMTarrayorientationscould cial for cellulose deposition and, indirectly, MT stability.
+result from signaling between the MTarray and cell wall However, mutations in cellulose synthase components
+machinery. Thus, CFR could arise from the effect of MT (rsw1–1, any1) or treatment withcellulosesynthase inhibi-
+arraysonanisotropicexpansionintheelongationzoneor, torsdoesnotinduceCFR[58,71,72].Moreover,Sugimoto
+alternatively, from the effect of cellulose microfibrils on (2003) also reports that a cellulose synthase mutant can
+MT array alignment at the plasma membrane [46, 47]. undergoCFRevenwhentheMTsarecompromised[58].
+Mutants that affect CFR formation but not MT array Trafficking of other proteins required for cell expansion
+orientation in the elongation zonesupport this model, in- and root movement might also be disrupted in tno1 mu-
+cluding mutants defective in regulation of anisotropiccell tants. For example, SKU5 is required for enzymatic reac-
+expansion [20, 54]. Based on this model, and consistent tionsatthecellwall,andmutantslackingthisproteinshow
+with the cell morphology phenotypes observed in the enhanced root skewing possibly due to altered cell wall
+presenceofPPD,TNO1mightbeimportantfortheaniso- composition during cell expansion [20]. Our observations
+tropic cell expansion process or in cell wall trafficking suggest that CFR formation involves complex interactions
+dynamics. andisnotsimplydependentonMTarrayandcellulosede-
+A lag in the expansion rates of internal cell types com- position patterns. Current models of the mechanisms of
+pared to the epidermal cells may cause roots to skew to helical growth have been challenged by studies on tortifo-
+preventmechanicalshearing[9,57].Thematurerootcells lia2 mutants, in which individual freely growing trichomes
+andhypocotylsoftno1seedlingstreatedwithPPDshowed twist. These mutants therefore uncouple cell division pat-
+marked disruption of cell morphology, suggesting a role terns and tissue strain from twisting and suggest that indi-
+for TNO1 in the cell maturation or expansion process. vidual twisting of cells can translate to higher-order organ
+This model would also explain why tno1 roots skew des- twisting[73].UnderstandingtheexactroleofTNO1atthe
+pitethetransverseMTarraysintheepidermalcellsofthe TGN and the mechanism by which it modulates CFR and
+rootelongationzone.Vertically-growntno1seedlingshave skewingwillthusbeachallenge.
+similar root lengths to WT seedlings, suggesting normal Our results suggest that TNO1 and the TGN play a
+cell expansion during vertical growth. Thus TNO1 might key role in CFR and root movement, adding another
+berequiredspecificallyforcellexpansionduringdeviation component to the network controlling root movement.
+ofrootsfromtheirgrowthtrajectory. Further experiments are necessary to test the exact role
+During cell expansion and cellulose deposition, the of TNO1 and its interacting partners in regulating root
+cellulose synthase complex traffics via theTGN [60, 61]. skewing and CFR formation. Future studies investigating
+The observed defects in cell morphology and expansion TNO1’s role in cellulose synthase trafficking, MTstabil-
+could be due to the role of TNO1 in proper localization ity and cell expansion dynamics in skewing roots will
+of the TGN-localized Q-SNARE SYP61 [31, 32]. Prote- increase our understanding of the function of TNO1.
+omic analysis of SYP61-containing vesicles [34] revealed Since TNO1 affects auxin transport [36], our study now
+the presence of cellulose synthase complex subunits, points to the possibility of an impact of TNO1 on auxin
+suggesting a role in trafficking of cellulose synthase transport, MT dynamics and cell wall trafficking at the
+subunits, which then drives cellulose deposition. MT TGN. DiscoveringTNO1’spreciserolewillhelpineluci-
+array dynamics modulate the deposition of cellulose mi- dation of the function of theTGN SNARE machinery in
+crofibrilsin expanding cellssince cellulose synthase runs plant growth andmorphogenesis.
+parallel to the MTarray, with CELLULOSE SYNTHASE
+INTERACTIVE1 acting as a link between the cellulose Conclusions
+synthase machinery and cortical MTs [62–65]. MTs also In conclusion, we have discovered a role for a TGN-
+regulate exocytosis of vesicles containing cellulose syn- localizedproteininrootskewingonthesurfaceofimpene-
+thase complex subunits or complex-associated proteins trable media. This adds to the growing list of endogenous
+such as KOR1 and CSI1 [66–68]. Disrupting MTarrays factors that aid root movement. Our data, alongside prior
+therefore affects cellulose synthesis, deposition and investigations, also suggest a possible link between TNO1,
+orientation, while conversely, inhibiting cellulose syn- auxin-dependent and MT-associated processes. A better
+thase activity causes defects in MTarrays [69, 70], which understanding of these mechanisms can lead to informa-
+can potentially affect directional growth patterns [18]. tion that can be used to manipulate root growth and
+
+RoyandBasshamBMCPlantBiology (2017) 17:73 Page11of12
+development patterns in various soil conditions and 6. OkadaKaSY.ReversibleroottiprotationinArabidopsisseedlingsinduced
+improve overall root architecture. This could subsequently
+byobstacle-touchingstimulus.Science.1990;250:274–6.
+7. RutherfordR,MassonPH.Arabidopsisthalianaskumutantseedlingsshow
+result in engineering superior crops with better soil pene-
+exaggeratedsurface-dependentalterationinrootgrowthvector.Plant
+trationandnutrientassimilationtraits. Physiol.1996;111(4):987–98.
+8. BuerCS,WasteneysGO,MasleJ.Ethylenemodulatesroot-waveresponses
+Abbreviations inArabidopsis.PlantPhysiol.2003;132(2):1085–96.
+CFR:Cellfilerotation;MT(s):Microtubule(s);PPD:Propyzamide;SNARE:Soluble 9. FurutaniI,WatanabeY,PrietoR,MasukawaM,SuzukiK,NaoiK,ThitamadeeS,
+N-ethylmaleimide–sensitivefactorattachmentproteinreceptor;TGN:Trans-Golgi ShikanaiT,HashimotoT.TheSPIRALgenesarerequiredfordirectionalcontrolof
+network;TNO1:TGN-localizedSYP41-interactingprotein cellelongationinAarabidopsisthaliana.Development.2000;127(20):4443–53.
+10. YuenCYL,SedbrookJC,PerrinRM,CarrollKL,MassonPH.Loss-of-function
+Acknowledgements mutationsofROOTHAIRDEFECTIVE3suppressrootwaving,skewing,and
+WethankDr.PatrickMassonandDr.KateBaldwinforadviceontheskewing epidermalcellfilerotationinArabidopsis.PlantPhysiol.2005;138(2):701–14.
+assays,ColtonMcNinchandDr.XiaochenYangfortechnicalhelpandadvice, 11. VaughnLM,MassonPH.AQTLStudyforRegionsContributingtoArabidopsis
+Dr.BinDongandJenniferJohnsonforassistancewiththeMFAsoftware, thalianaRootSkewingonTiltedSurfaces.G3(Bethesda).2011;1(2):105–15.
+MargaretCarterforguidanceonconfocalimagingandDr.DivitaMathurfor 12. SantnerAA,WatsonJC.TheWAG1andWAG2proteinkinasesnegatively
+conceptualinsights. regulaterootwavinginArabidopsis.PlantJ.2006;45(5):752–64.
+13. QiB,ZhengH.Modulationofroot-skewingresponsesbyKNAT1in
+Funding Arabidopsisthaliana.PlantJ.2013;76(3):380–92.
+ThisworkwassupportedbyagrantfromtheNationalAeronauticsand 14. WhitfordR,FernandezA,TejosR,PerezAC,Kleine-VehnJ,VannesteS,
+SpaceAdministration(Grantno.NNX09AK78G)toDCB. DrozdzeckiA,LeitnerJ,AbasL,AertsM,etal.GOLVENsecretorypeptides
+regulateauxincarrierturnoverduringplantgravitropicresponses.DevCell.
+Availabilityofdataandmaterials 2012;22(3):678–85.
+Alldatageneratedoranalyzedduringthisstudyareincludedinthis 15. SantisreeP,NongmaithemS,SreelakshmiY,IvanchenkoM,SharmaR.The
+publishedarticle.RawfilesareavailableuponrequestfromDr.Rahul rootasadrill:anethylene-auxininteractionfacilitatesrootpenetrationin
+Roy(rroy@umn.edu). soil.PlantSignalBehav.2012;7(2):151–6.
+16. KushwahS,LaxmiA.Theinteractionbetweenglucoseandcytokininsignal
+Authors’contributions transductionpathwayinArabidopsisthaliana.PlantCellEnviron.2014;37(1):235–53.
+RRandDCBconceivedofthestudyanddesignedtheexperiments.RR 17. LanzaM,Garcia-PonceB,CastrilloG,CatarechaP,SauerM,Rodriguez-
+collectedandanalyzedthedata.RRandDCBwroteandrevisedthe SerranoM,Paez-GarciaA,Sanchez-BermejoE,TCM,LeodelPuertoY,etal.
+manuscriptforfinalpublication. Roleofactincytoskeletoninbrassinosteroidsignalingandinitsintegration
+withtheauxinresponseinplants.DevCell.2012;22(6):1275–85.
+Competinginterests 18. IshidaT,ThitamadeeS,HashimotoT.Twistedgrowthandorganizationof
+Theauthorsdeclarethattheyhavenocompetinginterests. corticalmicrotubules.JPlantRes.2007;120(1):61–70.
+19. SedbrookJC,KaloritiD.Microtubules,MAPsandplantdirectionalcell
+Consentforpublication expansion.TrendsPlantSci.2008;13(6):303–10.
+Notapplicable.
+20. SedbrookJC,CarrollKL,HungKF,MassonPH,SomervilleCR.The
+ArabidopsisSKU5geneencodesanextracellularglycosyl
+Ethicsapprovalandconsenttoparticipate
+phosphatidylinositol-anchoredglycoproteininvolvedindirectionalroot
+Notapplicable. growth.PlantCell.2002;14(7):1635–48.
+21. RoudierF,FernandezAG,FujitaM,HimmelspachR,BornerGH,Schindelman
+Publisher’s Note G,SongS,BaskinTI,DupreeP,WasteneysGO,etal.COBRA,anArabidopsis
+SpringerNatureremainsneutralwithregardtojurisdictionalclaimsin extracellularglycosyl-phosphatidylinositol-anchoredprotein,specifically
+publishedmapsandinstitutionalaffiliations. controlshighlyanisotropicexpansionthroughitsinvolvementincellulose
+microfibrilorientation.PlantCell.2005;17(6):1749–63.
+Authordetails 22. WolfS,MravecJ,GreinerS,MouilleG,HofteH.Plantcellwallhomeostasisis
+1DepartmentofGenetics,DevelopmentandCellBiology,1035BRoyJCarver mediatedbybrassinosteroidfeedbacksignaling.CurrBiol.2012;22(18):1732–7.
+Co-Lab,1111WOIRd,IowaStateUniversity,Ames,IA50011,USA. 23. StaehelinLA,KangBH.Nanoscalearchitectureofendoplasmicreticulum
+2InterdepartmentalGeneticsProgram,IowaStateUniversity,Ames,IA,USA. exportsitesandofGolgimembranesasdeterminedbyelectron
+3PlantSciencesInstitute,IowaStateUniversity,Ames,IA,USA.4Current tomography.PlantPhysiol.2008;147(4):1454–68.
+Address:DepartmentofPlantandMicrobialBiology,UniversityofMinnesota, 24. ReyesFC,BuonoR,OteguiMS.Plantendosomaltraffickingpathways.Curr
+TwinCities,MN55108,USA.
+OpinPlantBiol.2011;14(6):666–73.
+25. ContentoAL,BasshamDC.Structureandfunctionofendosomesinplant
+Received:14December2016Accepted:5April2017 cells.JCellSci.2012;125(Pt15):3511–8.
+26. GendreD,JonssonK,BoutteY,BhaleraoRP.Journeytothecellsurface-the
+centralroleofthetrans-Golginetworkinplants.Protoplasma.2015;252(2):385–98.
+References 27. SauerM,DelgadilloAO,ZouharJ,ReynoldsGD,PenningtonJG,JiangL,
+1. HodgeA,BertaG,DoussanC,MerchanF,CrespiM.Plantrootgrowth, LiljegrenSJ,StierhofYD,DeJaegerG,OteguiMS,etal.MTV1andMTV4
+architectureandfunction.PlantSoil.2009;321(1–2):153–87. EncodePlant-SpecificENTHandARFGAPProteinsThatMediateClathrin-
+2. DunbabinVM,PostmaJA,SchnepfA,PagesL,JavauxM,WuLH,LeitnerD, DependentTraffickingofVacuolarCargofromtheTrans-GolgiNetwork.
+ChenYL,RengelZ,DiggleAJ.Modellingroot-soilinteractionsusingthree- PlantCell.2013;25(6):2217–35.
+dimensionalmodelsofrootgrowth,architectureandfunction.PlantSoil. 28. QiXY,ZhengHQ.Rab-A1cGTPaseDefinesaPopulationoftheTrans-Golgi
+2013;372(1–2):93–124. NetworkthatIsSensitivetoEndosidin1duringCytokinesisinArabidopsis.
+3. Rellan-AlvarezR,LobetG,LindnerH,PradierPL,SebastianJ,YeeMC,Geng MolPlant.2013;6(3):847–59.
+Y,TrontinC,LaRueT,Schrager-LavelleA,etal.GLO-Roots:animaging 29. FeraruE,FeraruMI,AsaokaR,PaciorekT,DeRyckeR,TanakaH,NakanoA,
+platformenablingmultidimensionalcharacterizationofsoil-grownroot FrimlJ.BEX5/RabA1bRegulatestrans-GolgiNetwork-to-PlasmaMembrane
+systems.elife.2015;4:e07597. ProteinTraffickinginArabidopsis.PlantCell.2012;24(7):3074–86.
+4. RoyR,BasshamDC.Rootgrowthmovements:Wavingandskewing.Plant 30. UemuraT,KimH,SaitoC,EbineK,UedaT,Schulze-LefertP,NakanoA.
+Sci.2014;221-222C:42–7. Qa-SNAREslocalizedtothetrans-Golginetworkregulatemultipletransport
+5. MigliaccioF,PiconeseS.SpiralizationsandtropismsinArabidopsisroots. pathwaysandextracellulardiseaseresistanceinplants.ProcNatlAcadSci
+TrendsPlantSci.2001;6(12):561–5. USA.2012;109(5):1784–9.
+
+RoyandBasshamBMCPlantBiology (2017) 17:73 Page12of12
+31. KimSJ,BrandizziF.NewsandViewsintotheSNAREComplexityin 57. IshidaT,HashimotoT.AnArabidopsisthalianatubulinmutantwith
+Arabidopsis.FrontPlantSci.2012;3:28. conditionalroot-skewingphenotype.JPlantRes.2007;120(5):635–40.
+32. BasshamDC,SanderfootAA,KovalevaV,ZhengH,RaikhelNV.AtVPS45complex 58. SugimotoK,HimmelspachR,WilliamsonRE,WasteneysGO.Mutationor
+formationatthetrans-Golginetwork.MolBiolCell.2000;11(7):2251–65. Drug-DependentMicrotubuleDisruptionCausesRadialSwellingwithout
+33. ZhuJ,GongZ,ZhangC,SongCP,DamszB,InanG,KoiwaH,ZhuJK, AlteringParallelCelluloseMicrofibrilDepositioninArabidopsisRootCells.
+HasegawaPM,BressanRA.OSM1/SYP61:asyntaxinproteininArabidopsis PlantCell.2003;15(6):1414–29.
+controlsabscisicacid-mediatedandnon-abscisicacid-mediatedresponses 59. GalvaC,KirikV,LindeboomJJ,KaloritiD,RancourDM,HusseyPJ,Bednarek
+toabioticstress.PlantCell.2002;14(12):3009–28. SY,EhrhardtDW,SedbrookJC.Themicrotubuleplus-endtrackingproteins
+34. DrakakakiG,vandeVenW,PanS,MiaoY,WangJ,KeinathNF,WeatherlyB, SPR1andEB1binteracttomaintainpolarcellelongationanddirectional
+JiangL,SchumacherK,HicksG,etal.Isolationandproteomicanalysisof organgrowthinArabidopsis.PlantCell.2014;26(11):4409–25.
+theSYP61compartmentrevealitsroleinexocytictraffickinginArabidopsis. 60. CrowellEF,BischoffV,DesprezT,RollandA,StierhofYD,SchumacherK,
+CellRes.2012;22(2):413–24. GonneauM,HofteH,VernhettesS.PausingofGolgibodiesonmicrotubules
+35. KimSJ,BasshamDC.TNO1isinvolvedinsalttoleranceandvacuolar regulatessecretionofcellulosesynthasecomplexesinArabidopsis.Plant
+traffickinginArabidopsis.PlantPhysiol.2011;156(2):514–26. Cell.2009;21(4):1141–54.
+36. RoyR,BasshamDC.GravitropismandLateralRootEmergenceareDependent 61. GutierrezR,LindeboomJJ,ParedezAR,EmonsAM,EhrhardtDW.
+ontheTrans-GolgiNetworkProteinTNO1.FrontPlantSci.2015;6:969. Arabidopsiscorticalmicrotubulespositioncellulosesynthasedeliverytothe
+37. RutherfordR,GalloisP,MassonPH.MutationsinArabidopsisthalianagenes plasmamembraneandinteractwithcellulosesynthasetrafficking
+involvedinthetryptophanbiosynthesispathwayaffectrootwavingon
+compartments.NatCellBiol.2009;11(7):797–806.
+tiltedagarsurfaces.PlantJ.1998;16(2):145–54. 62. LeiL,LiS,DuJ,BashlineL,GuY.CellulosesynthaseINTERACTIVE3regulates
+38. SchneiderCA,RasbandWS,EliceiriKW.NIHImagetoImageJ:25yearsof cellulosebiosynthesisinbothamicrotubule-dependentandmicrotubule-
+imageanalysis.NatMethods.2012;9(7):671–5. independentmannerinArabidopsis.PlantCell.2013;25(12):4912–23.
+39. GrabovA,AshleyMK,RigasS,HatzopoulosP,DolanL,Vicente-AgulloF. 63. BashlineL,LiS,GuY.Thetraffickingofthecellulosesynthasecomplexin
+Morphometricanalysisofrootshape.NewPhytol.2005;165(2):641–51. higherplants.AnnBot.2014;114(6):1059–67.
+40. MathurJ,KonczC.Methodforpreparationofepidermalimprintsusing 64. BashlineL,LeiL,LiS,GuY.Cellwall,cytoskeleton,andcellexpansionin
+agarose.BioTechniques.1997;22(2):280–2. higherplants.MolPlant.2014;7(4):586–600.
+41. MochizukiS,HaradaA,InadaS,Sugimoto-ShirasuK,StaceyN,WadaT, 65. LeiL,SinghA,BashlineL,LiS,YinglingYG,GuY.CELLULOSESYNTHASE
+IshiguroS,OkadaK,SakaiT.TheArabidopsisWAVYGROWTH2protein INTERACTIVE1IsRequiredforFastRecyclingofCelluloseSynthaseComplexes
+modulatesrootbendinginresponsetoenvironmentalstimuli.PlantCell.
+tothePlasmaMembraneinArabidopsis.PlantCell.2015;27(10):2926–40.
+2005;17(2):537–47. 66. RobertS,BichetA,GrandjeanO,KierzkowskiD,Satiat-JeunemaitreB,
+42. SugimotoK,WilliamsonRE,WasteneysGO.Newtechniquesenable PelletierS,HauserMT,HofteH,VernhettesS.AnArabidopsisendo-1,4-beta-
+comparativeanalysisofmicrotubuleorientation,walltexture,andgrowth D-glucanaseinvolvedincellulosesynthesisundergoesregulated
+rateinintactrootsofArabidopsis.PlantPhysiol.2000;124(4):1493–506. intracellularcycling.PlantCell.2005;17(12):3378–89.
+43. JacquesE,BuytaertJ,WellsDM,LewandowskiM,BennettMJ,DirckxJ, 67. LiS,BashlineL,LeiL,GuY.Cellulosesynthesisanditsregulation.
+VerbelenJP,VissenbergK.MicroFilamentAnalyzer,animageanalysistool ArabidopsisBook.2014;12:e0169.
+forquantifyingfibrillarorientation,revealschangesinmicrotubule 68. WordenN,WilkopTE,EsteveVE,JeannotteR,LatheR,VernhettesS,Weimer
+organizationduringgravitropism.PlantJ.2013;74(6):1045–58. B,HicksG,AlonsoJ,LabavitchJ,etal.CESATRAFFICKINGINHIBITORinhibits
+cellulosedepositionandinterfereswiththetraffickingofcellulosesynthase
+44. MigliaccioF,TassoneP,FortunatiA.Circumnutationasanautonomousroot
+movementinplants.AmJBot.2013;100(1):4–13. complexesandtheirassociatedproteinsKORRIGAN1andPOM2/CELLULOSE
+SYNTHASEINTERACTIVEPROTEIN1.PlantPhysiol.2015;167(2):381–93.
+45. WasteneysG,CollingsD.Expandingbeyondthegreatdivide:Expanding
+69. BurkDH,YeZH.Alterationoforienteddepositionofcellulosemicrofibrilsby
+beyondthegreatdivide:thecytoskeletonandaxialgrowth.In:HusseyPJ,
+editor.Oxford:BlackwellPublishingLtd;2004:p.83–115. mutationofakatanin-likemicrotubule-severingprotein.PlantCell.2002;
+14(9):2145–60.
+46. FisherDD,CyrRJ.ExtendingtheMicrotubule/Microfibrilparadigm.Cellulose
+70. ParedezAR,SomervilleCR,EhrhardtDW.VisualizationofCelluloseSynthase
+synthesisisrequiredfornormalcorticalmicrotubulealignmentin
+elongatingcells.PlantPhysiol.1998;116(3):1043–51. DemonstratesFunctionalAssociationwithMicrotubules.Science.2006;
+312(5779):1491–5.
+47. WasteneysGO.Progressinunderstandingtheroleofmicrotubulesinplant
+cells.CurrOpinPlantBiol.2004;7(6):651–60. 71. SugimotoK,WilliamsonRE,WasteneysGO.Wallarchitectureinthe
+cellulose-deficientrsw1mutantOfarabidopsisthaliana:Microfibrilsbutnot
+48. BuschmannH,FabriCO,HauptmannM,HutzlerP,LauxT,LloydCW,
+microtubuleslosetheirtransversealignmentbeforemicrofibrilsbecome
+SchaffnerAR.HelicalgrowthoftheArabidopsismutanttortifolia1revealsa
+plant-specificmicrotubule-associatedprotein.CurrBiol.2004;14(16):1515–21. unrecognizableinthemitoticandelongationzonesofroots.Protoplasma.
+2001;215(1):172–83.
+49. SedbrookJC.MAPsinplantcells:delineatingmicrotubulegrowthdynamics
+andorganization.CurrOpinPlantBiol.2004;7(6):632–40. 72. FujitaM,HimmelspachR,WardJ,WhittingtonA,HasenbeinN,LiuC,
+TruongTT,GalwayME,MansfieldSD,HocartCH,etal.Theanisotropy1
+50. MoschouPN,Gutierrez-BeltranE,BozhkovPV,SmertenkoA.Separase
+D604NmutationintheArabidopsiscellulosesynthase1catalyticdomain
+PromotesMicrotubulePolymerizationbyActivatingCENP-E-RelatedKinesin
+reducescellwallcrystallinityandthevelocityofcellulosesynthase
+Kin7.DevCell.2016;37(4):350–61.
+complexes.PlantPhysiol.2013;162(1):74–85.
+51. FieldJJ,DiazJF,MillerJH.Thebindingsitesofmicrotubule-stabilizing
+73. BuschmannH,HauptmannM,NiessingD,LloydCW,SchäffnerAR.Helical
+agents.ChemBiol.2013;20(3):301–15.
+growthoftheArabidopsismutanttortifolia2doesnotdependoncell
+52. GendreauE,TraasJ,DesnosT,GrandjeanO,CabocheM,HofteH.Cellularbasis
+divisionpatternsbutinvolveshandedtwistingofisolatedcells.PlantCell.
+ofhypocotylgrowthinArabidopsisthaliana.PlantPhysiol.1997;114(1):295–305.
+2009;21(7):2090–106.
+53. NakamuraM,NaoiK,ShojiT,HashimotoT.Lowconcentrationsof
+propyzamideandoryzalinaltermicrotubuledynamicsinArabidopsis
+epidermalcells.PlantCellPhysiol.2004;45(9):1330–4.
+54. SedbrookJC,EhrhardtDW,FisherSE,ScheibleWR,SomervilleCR.The
+Arabidopsissku6/spiral1geneencodesaplusend-localizedmicrotubule-
+interactingproteininvolvedindirectionalcellexpansion.PlantCell.2004;
+16(6):1506–20.
+55. WhittingtonAT,VugrekO,WeiKJ,HasenbeinNG,SugimotoK,Rashbrooke
+MC,WasteneysGO.MOR1isessentialfororganizingcorticalmicrotubulesin
+plants.Nature.2001;411(6837):610–3.
+56. OlivaM,DunandC.Wavingandskewing:howgravityandthesurfaceof
+growthmediaaffectrootdevelopmentinArabidopsis.NewPhytol.2007;
+176(1):37–43.

@@ -1,0 +1,8 @@
+pdfplumber
+openai
+pinecone-client
+python-dotenv
+spacy
+pytesseract
+pillow
+pymupdf

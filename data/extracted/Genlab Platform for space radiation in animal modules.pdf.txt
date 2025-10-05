@@ -1,0 +1,1181 @@
+cancers
+Article
+NASA GeneLab Platform Utilized for Biological
+Response to Space Radiation in Animal Models
+J.TysonMcDonald1,RobertStainforth2,JackMiller3 ,ThomasCahill4 ,
+WillianA.daSilveira4 ,KomalS.Rathi5,GaryHardiman4,6 ,DeanneTaylor5,7,8 ,
+SylvainV.Costes9 ,VinitaChauhan2,RobertMeller10andAfshinBeheshti3,*
+1 RadBioXServicesLLC,Okemos,MI48864,USA;RadBioX@RadBioX.com
+2 ConsumerandClinicalRadiationProtectionBureau,HealthCanada,Ottawa,ONK1A-1C1,Canada;
+robert.stainforth@cananda.ca(R.S.);vinita.chauhan@canada.ca(V.C.)
+3 KBR,NASAAmesResearchCenter,MoffettField,CA94035,USA;j_miller@lbl.gov
+4 SchoolofBiologicalSciences&InstituteforGlobalFoodSecurity,QueensUniversityBelfast,BelfastBT9
+5DL,UK;tcahill01@qub.ac.uk(T.C.);W.daSilveira@qub.ac.uk(W.A.d.S.)
+5 DepartmentofBiomedicalInformatics,TheChildren’sHospitalofPhiladelphia,Philadelphia,
+PA19104,USA;rathik@email.chop.edu
+6 DepartmentofMedicine,MedicalUniversityofSouthCarolina,Charleston,SC29425,USA;
+G.Hardiman@qub.ac.uk
+7 TheCenterforMitochondrialandEpigenomicMedicine,TheChildren’sHospitalofPhiladelphia,
+Philadelphia,PA19104,USA;taylordm@email.chop.edu
+8 TheDepartmentofPediatrics,PerelmanSchoolofMedicine,UniversityofPennsylvania,Philadelphia,
+PA19104,USA
+9 NASAAmesResearchCenter,SpaceBiosciencesDivision,MoffettField,CA94035,USA;
+sylvain.v.costes@nasa.gov
+10 DepartmentofNeurobiologyandPharmacology,MorehouseSchoolofMedicine,Atlanta,GA30310,USA;
+rmeller@msm.edu
+* Correspondence: afshin.beheshti@nasa.gov
+(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)
+Received: 19January2020;Accepted: 3February2020;Published: 7February2020
+Abstract: Background: Ionizingradiationfromgalacticcosmicrays(GCR)isoneofthemajorrisk
+factorsthatwillimpactthehealthofastronautsonextendedmissionsoutsidetheprotectiveeffectsof
+theEarth’smagneticfield. TheNASAGeneLabprojecthasdetailedinformationonradiationexposure
+using animalmodels with curateddosimetry information for spaceflight experiments. Methods:
+WeanalyzedmultipleGeneLabomicsdatasetsassociatedwithbothground-basedandspaceflight
+radiationstudiesthatincludedinvivoandinvitroapproaches. Arangeofionsfromprotonstoiron
+particleswithdosesfrom0.1to1.0Gyforgroundstudies,aswellassamplesflowninlowEarthorbit
+(LEO)withtotaldosesof1.0mGyto30mGy,wereutilized. Results: Fromthisanalysis,wewereable
+toidentifydistinctbiologicalsignaturesassociatingspecificionswithspecificbiologicalresponses
+duetoradiationexposureinspace. Forexample,wediscoveredchangesinmitochondrialfunction,
+ribosomal assembly, and immune pathways as a function of dose. Conclusions: We provided a
+summaryofhowtheGeneLab’srichdatabaseofomicsexperimentswithanimalmodelscanbeused
+togeneratenovelhypothesestobetterunderstandhumanhealthrisksfromGCRexposures.
+Keywords: GeneLab;NASA;spaceradiation;HZE;galacticcosmicrays;transcriptomics;dosimetry;
+radiation
+1. Introduction
+Space is a hostile environment, and human space travel will entail effects at many levels of
+biologicalorganizationleadingtorelatedphysiologicaleffects. Oneofthemajorenvironmentalfactors
+Cancers2020,12,381;doi:10.3390/cancers12020381 www.mdpi.com/journal/cancers
+Cancers2020,12,381 2of23
+in space is radiation. Ionizing radiation in space is composed of a complex mixture of particles
+includingprotonsfromthesunandgalacticcosmicrays(GCRs)originatingfromoutsidethesolar
+system. TheGCRiscomposedofatomicnuclei,includingacomponentofheavychargedandenergetic
+(HZE)particlesthatarerelativelyfewinnumberbuthighlyionizing. Amajorrisk-factorforhuman
+spaceflightisexposureGCRHZEthatcancauseDNAdamagethatisunrepairedormis-repaired[1].
+Currentresearchhasshownmeasurableimpactoninseveralareasaffectinghumanhealthbone
+loss[2],skeletalmuscleatrophy[3–5],reproductivehazardsinwomenandmen[6],cognitive/behavioral
+changes [7], central nervous system (CNS) decrements [8,9], and changes in cardiovascular
+physiology[10]. Thepossibilitythatspaceradiationexposuretoincreasecardiovasculardiseaserisk
+requiresadditionalvalidationsimilartotheongoingobservationsofincreasedcardiacimpairment
+observedinradiotherapy-treatedcancersurvivors[11,12]. Spaceflighthasalsobeenshowntohavean
+impactonestablishedcancerhallmarks[13],possiblyincreasingcarcinogenicrisk[14].
+Atthemolecularlevel,spaceradiationfromhighenergyphotonsandatomicnucleicancause
+damagetocellularcomponents,inparticulardeoxyribonucleicacid(DNA).DamagedDNA,which
+is inadequately repaired, can led to mutations and chromosomal aberrations that have potential
+to propagate into RNA, potentially leading to cancer. Simulations using ground-based datasets
+representative of a combined space radiation and microgravity exposure have demonstrated that
+oxidativestressprocessesandmitochondrialdysfunctionsareimportantcontributorstobiological
+effectsfromspaceflight. Simulatedmicrogravitystudieshavedemonstratedaninhibitoryeffectoncell
+cycleandcellproliferation[15]. Thesestudiesshowthevalueofresearchcenteredonunderstanding
+thetotalityofspaceexposures[16]. Amultitudeofotherbiologicalprocessesthatareaffectedinclude
+increasedgenomicinstabilityandmutationrates[17],immunedysregulation[18],andderegulated
+cellularenergetics[19]. Conflictingresultsoncellularstemness[20]havebeenreportedwitheffects
+suchaselongationoftelomereandalteredtelomerasefunctionthatrequireclarification[21,22].
+A substantial amount of work has also been generated in the area of omics. For several
+decades, omics animal-based studies have been performed to understand the human health risks
+due to spaceflight missions using the International Space Station, the space shuttle, biosatellites,
+and ground-based experiments. NASA’s growing GeneLab omics database now hosts almost 250
+experimentalstudiesonspaceflightexposureandanalogousground-basedexperimentsfrommicrobes,
+plants, animal models, and human/animal-derived cell cultures [23]. These data are available
+as an open-access resource for single- and multi-omic analyses on microarray, RNA-sequencing,
+bisulfite-sequencing,proteomic,metabolomic,andmetagenomicdatasets. Althoughthesedataare
+targetedtobetterunderstandtherisksassociatedwithhumanspaceflight, theseexperimentsalso
+demonstrateauniquestressthatprovidesabetterunderstandingofadversehumanhealtheffectsdue
+toalterationsincellularbehaviorowingtofactorssuchasmicrogravity,alteredcarbondioxidelevels,
+psychologicalstressors, anddamagingionizingradiationexposuresfromGCRandprotonsinthe
+Earth’sradiationbelts. Thesedatasets,andinparticulartheinvivoanimalmodelsused,presenta
+uniqueexperimentalsettingtostudythecellularandhost-levelinteractionsthatimpacthumanhealth.
+Inthisstudy,ameta-analysisoftheseaccumulatedtranscriptomicdatasetsinGeneLabrelevantto
+spaceflightwasundertakentouncoverpotentialdose-dependentbiologicalresponsesthatwillhelp
+inunderstandingthehumanhealthrisksexperiencedinthespaceflightenvironment. Thestudies
+identifiedwerefromhuman-andanimal-derivedtissuesorcellsexposedtoprotonsandGCRHZEs
+atdosesrangingfrom0.1to1.0GyforgroundstudiesandusingsamplesflowntotheInternational
+SpaceStationorshuttlemissionswithtotaldosesbetween1.0and30mGy. Groundexperimentsare
+awell-establishedanalogforspaceflight,butarelimitedinthattheyarerelativelyhighdose,high
+dose rate, and in most cases use single particle species, in contrast to the low dose, low dose rate
+mixedradiationinspace. Furtherworkisneededtoelucidateplatform-dependentdifferences(mixed
+fieldsnowbeingofferedattheNASASpaceRadiationLaboratory[24]areastepinthisdirection).
+Thedatasetswerepooledandsubjectedtogenesetenrichmentanalysis(GSEA)toidentifyclustersof
+genesetsandassociatedbiologicalprocesses. Theresultsfromthisanalysishighlightnovelcellular
+Cancers2020,12,381 3of23
+responsesthatmayberelevantcontributorstothecombinedeffectsofmicrogravityandspaceradiation
+andthereforecriticaldriversofhealthrisksfromspaceradiation.
+2. Results
+Usingprimarilyinvivoanimalmodelsandtheirassociatedcurateddatasetsavailablefromthe
+NASAGeneLab’somicsdatabase,anexaminationofbiologicalresponsesasafunctionofradiation
+dosewasmadeusingtranscriptionalandsequencingdata. Atotalof30experimentalconditionsfrom
+25GeneLabDataSystem(GLDS)datasetswerecollected(Table1). Multipledatasetswereincluded
+fromhumanormurinecellculturesoranimaltissuesfromseveralanatomicalsites(adrenalgland,
+blood,bonemarrow,brain,breast,heart,cartilage,skin,eye,hairfollicle,kidney,liver,lung,muscle,
+spleen,orthymus). Forthesimulatedspaceradiationgroundstudies(GLDS-73,-80,-109,and-117)
+informationrelatedtoenergy,linearenergytransfer(LET,ameasureofenergydepositionatthecellular
+andmolecularscale),doserate,particlecharge,andparticlemassareavailableandcanbeviewed
+in Table S1. The dose data for all spaceflight experiments, with the exception of GLDS-111, were
+frominstrumentsavailableontheSpaceShuttleandtheInternationalSpaceStation. Analysiswas
+completedbysubjectmatterexpertsfromtheSpaceRadiationAnalysisGroup(SRAG),JohnsonSpace
+Center,NASA.TheprovenanceofdatafromGLDS-111(Bion-M1)isdetailedintheenvironmental
+datasectionoftheGLDSforBion-M1. Thedosesanddoseratesforground-basedexposuresarefrom
+theNASASpaceRadiationLaboratorywithuncertaintiesthatarelessthan2%[24].
+Table1. SummaryoftheNASAGeneLabdatasetsforsamplesexposedtocosmicradiationduring
+spaceflightoranalogousground-basedradiationexperimentscuratedforanalysis.
+GLDS Condition Dose Radiation Species Tissue/CellCulture Ref.
+(mGy) Type*
+63 Spaceflight 1.04 LEO Rat Mammary [25–27]
+52 Spaceflight 1.54 LEO Human Endothelialcells(HUVEC) [28,29]
+114 Spaceflight 1.83 LEO Human Fibroblastcells(AG01522) [30]
+21 Spaceflight 2.19 LEO Mouse(C57BL/6) Skeletalmuscle [31–33]
+4 Spaceflight 3.25 LEO Mouse(C57BL/6) Thymus [32,34]
+47 Spaceflight 4.62 LEO Mouse(C57BL/6) Liver [35]
+25 Spaceflight 4.66 LEO Mouse(C57BL/6) Liver [32,33,36–42]
+98 Spaceflight 7.78 LEO Mouse(C57BL/6) Adrenalgland [32]
+99 Spaceflight 7.78 LEO Mouse(C57BL/6) Muscle(extensordigitorumlongus) [32]
+100 Spaceflight 7.78 LEO Mouse(C57BL/6) Eye [43]
+101 Spaceflight 7.78 LEO Mouse(C57BL/6) Muscle(gastrocnemius) [32]
+102 Spaceflight 7.78 LEO Mouse(C57BL/6) Kidney [32]
+103 Spaceflight 7.78 LEO Mouse(C57BL/6) Muscle(quadriceps) [32]
+104 Spaceflight 7.78 LEO Mouse(C57BL/6) Muscle(soleus) [32]
+105 Spaceflight 7.78 LEO Mouse(C57BL/6) Muscle(tibialisanterior) [32]
+168 Spaceflight 7.78 LEO Mouse(C57BL/6) Liver [42,44]
+242 Spaceflight 8.03 LEO Mouse(C57BL/6) Liver [45]
+161 Spaceflight 9.20 LEO Mouse(BALB/C) Adrenalgland [46]
+162 Spaceflight 9.20 LEO Mouse(BALB/C) Eye [47]
+163 Spaceflight 9.20 LEO Mouse(BALB/C) Kidney [48]
+168 Spaceflight 9.20 LEO Mouse(BALB/C) Liver [42,44]
+61 Spaceflight 28.80 LEO Mouse(C57BL/6) Skin [32,49]
+111 Spaceflight 29.90 LEO Mouse(C57BL/6) Muscle(extensordigitorumlongus) [5,32,33]
+111 Spaceflight 29.90 LEO Mouse(C57BL/6) Muscle(soleus) [5,32,33]
+80 Ground 100 Silicon Mouse(BALB/C) Mammarytissue [50]
+109 Ground 150 Iron Mouse(C57BL/6) Cardiomyocytes [29,51]
+80 Ground 300 Silicon Mouse(BALB/C) Mammarytissue [50]
+73 Ground 500 Iron Human Bronchialepithelialcells [52]
+73 Ground 500 Silicon Human Bronchialepithelialcells [52]
+117 Ground 900 Proton Mouse(C57BL/6) Cardiomyocytes [29,51]
+73 Ground 1000 Iron Human Bronchialepithelialcells [52]
+73 Ground 1000 Silicon Human Bronchialepithelialcells [52]
+*LEO:lowEarthorbitradiationforflightexperimentsisduetoacombinationofcosmicradiation(protons,galactic
+cosmicrays(GCR),andheavierions)aswellasprotonstrappedinEarthradiationbelts.
+Cancers2020,12,381 4of23
+2.1. ChangesinRNA-SpecificErrorRatesComparingSpaceflightVersusGroundControlSamples
+DNAmutationscausedbyionizingradiationhavebeenshowntopropagateontoRNAduring
+translation, unless they are adequately removed by transcription-coupled repair. Higher doses of
+radiation exposure to a cell will result in greater accumulated damage, up to a point where the
+cellularrepairmechanismsareoverwhelmed. However,lowerlevelsofdamagemaybereplicated
+into RNA with aberrant effects on translation and cellular function. Thus, RNA-sequencing data
+usingmiceliversamplesfromtwoexperimentswereanalyzedtoidentifypotentialerrorratesdue
+to spaceflight. Analysis of the GLDS-168 dataset showed no difference in overall mapping error
+ratesacrosstheentiregenome(approximately0.5%). Furtherinvestigationofthemismatcheswith
+respecttoeachchromosomeidentifiederrorratestobenear0.5%;however,therewasnodifference
+betweenthespaceflightandgroundcontrolgroups(Figure1A,B).Interestingly,thereweredifferential
+errorratesacrosssomechromosomes,inparticularthesex-associatedchromosomes,anderrorrates
+forgenesassociatedwithmitochondrialDNAwerelowerthangenomicDNA,supportingdynamic
+DNAdamagerepairinmitochondria(reviewedin[53]). Furtheranalysisrevealedincreasedrates
+ofsubstitutioninspecificbasesequencesinGLDS-168samples(Figure1C)butnotintheGLDS-242
+dataset(Figure1D).SpecificbasesubstitutionsshowedanincreaseinA>GandC>Tsubstitutionsin
+onlyGLDS-168samples. WealsoobservedasignificantincreaseinCGTandGTAerrorsbutadecrease
+inCACandGTGerrorsinspaceflightanimalsversusgroundcontrols(allcorrectedp<0.05;Figure1E).
+IncontrasttheGLDS-242datasetshowedanoverallreduction,thoughnon-significant,inspecificbase
+errorswithasignificantchangeinsubstitutions(p<0.05,corrected)inspaceflightanimalscompared
+togroundcontrols(Figure1D,F).
+Cancers 2020, 12, 381 5 of 24
+Figure 1. RNA-sequencing error rates in mouse livers from GLDS-168 (left column) and GLDS-242
+(right column) experiments for spaceflight (black bars) compared to ground control samples (white
+bars). Error rates were examined as follows: (A,B) mismatch rates across chromosomes normalized
+by the number of bases sequenced; (C,D) single base substitution rates; (E,F) CAC, CGT, GTA, or GTG
+error rates. Significance indicated by * p-value < 0.05 and ** p-value < 0.01.
+2.2. Comparison of Multiple Genelab Datasets Using Principal Component Analysis
+Each individual transcriptome dataset was analyzed by comparing flight/radiation exposure
+versus ground/control treatment. Utilizing standard bioinformatics pipelines for RNA-sequencing
+and microarray analyses, we obtained expression data for each dataset for use in gene set enrichment
+analysis (GSEA) [54]. The results indicated a wide variance of significantly regulated gene sets per
+dataset (Figure 2). When considering a false discovery rate (FDR) < 0.05, we observed some datasets
+with a low number of significantly regulated gene sets, whereas others had a high amount of
+significant results for the three GSEA molecular signature database collections (i.e., C5, C2, and C6).
+Thus, for further analysis, individual gene sets were considered for analysis if they had a FDR < 0.25
+in 50% or more of the total datasets examined. Then, using Cytoscape’s enrichment mapper, these
+gene sets were grouped into networks and further examined using the auto-annotate feature to
+cluster similar gene sets on the basis of biological similarity, referred to as “annotated gene sets”.
+Cancers2020,12,381 5of23
+Figure1. RNA-sequencingerrorratesinmouseliversfromGLDS-168(leftcolumn)andGLDS-242
+(rightcolumn)experimentsforspaceflight(blackbars)comparedtogroundcontrolsamples(white
+bars). Errorrateswereexaminedasfollows: (A,B)mismatchratesacrosschromosomesnormalizedby
+thenumberofbasessequenced;(C,D)singlebasesubstitutionrates;(E,F)CAC,CGT,GTA,orGTG
+errorrates. Significanceindicatedby*p-value<0.05and**p-value<0.01.
+2.2. ComparisonofMultipleGenelabDatasetsUsingPrincipalComponentAnalysis
+Each individual transcriptome dataset was analyzed by comparing flight/radiation exposure
+versusground/controltreatment. UtilizingstandardbioinformaticspipelinesforRNA-sequencing
+andmicroarrayanalyses,weobtainedexpressiondataforeachdatasetforuseingenesetenrichment
+analysis(GSEA)[54]. Theresultsindicatedawidevarianceofsignificantlyregulatedgenesetsper
+dataset(Figure2). Whenconsideringafalsediscoveryrate(FDR)<0.05,weobservedsomedatasets
+withalownumberofsignificantlyregulatedgenesets,whereasothershadahighamountofsignificant
+resultsforthethreeGSEAmolecularsignaturedatabasecollections(i.e.,C5,C2,andC6). Thus,for
+furtheranalysis,individualgenesetswereconsideredforanalysisiftheyhadaFDR<0.25in50%
+ormoreofthetotaldatasetsexamined. Then,usingCytoscape’senrichmentmapper,thesegenesets
+weregroupedintonetworksandfurtherexaminedusingtheauto-annotatefeaturetoclustersimilar
+Cancers 202g0e, n1e2,s 3e8ts1 onthebasisofbiologicalsimilarity,referredtoas“annotatedgenesets”. 6 of 24
+Figure2. Thenumberofstatisticallysignificantgenesetsfromgenesetenrichmentanalysis(GSEA)
+Figure 2. w T it h h e a n fa u ls m ed b i e s r c o o v f e r s y ta ra ti t s e t ( i F c D al R ly )< si 0 g .0 n 5 if fo ic r a e n ac t h g d e a n t e as s e e t t fo s r f t r h o e m m a g j e or n m e o s l e e t c u e l n a r r i s c i h gn m at e u n re t s a d n a a ta ly ba s s is e (GSEA)
+with a faclosell edctiisocnosv(ei.rey., Cra5t,eC (2F,DanRd)C <6 )0..0T5h efobrla ecakcbha rdsaretapsreeste fnotrt htheeu nmalatejorerd mgeonleescuanladr tshiegwnahtituerbeasr sdatabase
+collectionresp r(ei.see.n, tCth5e, aCnn2o, taatnedd gCen6e).s eTtsh.e black bars represent the unaltered genes and the white bars
+represent the annotated gene sets.
+To observe if any trends or batch issues arise from this type of analysis, we compared the
+normalized enrichment scores (NES) for all the gene sets resulting from each molecular signature
+To observe if any trends or batch issues arise from this type of analysis, we compared the
+normalized enrichment scores (NES) for all the gene sets resulting from each molecular signature
+database collection (Figure 3 and S1–3). Principal component analysis (PCA) plots indicated that there
+were no batch issues occurring globally for either the pre- or post-annotated gene sets as a function
+of dose (Figure 3). In addition, we did not observe any tissue dependence or clustering for the pre-
+or post-annotated gene sets (Figure S1). Lastly, these samples were also clustered with t-distributed
+stochastic neighbor embedding (t-SNE) plots to observe whether different methods would produce
+conflicting results (Figure S2 and S3). The t-SNE plots also provided additional validation that no
+batch issues are observed with this type of analysis when considering dose or tissue dependence.
+Figure 3. Principal component analysis (PCA) plots on GLDS datasets using the gene set enrichment
+analysis (GSEA) nominal enrichment scores before (top row) and after (bottom row) auto-annotation
+Cancers 2020, 12, 381 6 of 24
+Figure 2. The number of statistically significant gene sets from gene set enrichment analysis (GSEA)
+with a false discovery rate (FDR) < 0.05 for each dataset for the major molecular signatures database
+collections (i.e., C5, C2, and C6). The black bars represent the unaltered genes and the white bars
+represent the annotated gene sets.
+To observe if any trends or batch issues arise from this type of analysis, we compared the
+Cancers2020,12,381 6of23
+normalized enrichment scores (NES) for all the gene sets resulting from each molecular signature
+database collection (Figure 3 and S1–3). Principal component analysis (PCA) plots indicated that there
+databasecollection(Figure3andFiguresS1–S3). Principalcomponentanalysis(PCA)plotsindicated
+were no batch issues occurring globally for either the pre- or post-annotated gene sets as a function
+thattherewerenobatchissuesoccurringgloballyforeitherthepre-orpost-annotatedgenesetsasa
+of dose (Figure 3). In addition, we did not observe any tissue dependence or clustering for the pre-
+functionofdose(Figure3). Inaddition,wedidnotobserveanytissuedependenceorclusteringforthe
+or post-apnren-oortaptoesdt-a gnennotea tseedtgse (nFeisgeutsr(eF iSgu1r)e. SL1a).stLlays,t ltyh,tehsees essaammpplleessw wereeraels oalcsluos tcelruesdtweritehdt -wdisittrhib tu-tdedistributed
+stochastsicto ncheaisgthicbnoerig ehmbobreedmdbiendgd i(ntg-S(tN-SEN)E p)lpolotsts ttoo oobbsseervrveew whehtheetrhdeir ff edriefnfetrmeentht omdsetwhooudlds pwrooduulcde produce
+conflictingresults(FiguresS2andS3). Thet-SNEplotsalsoprovidedadditionalvalidationthatno
+conflicting results (Figure S2 and S3). The t-SNE plots also provided additional validation that no
+batchissuesareobservedwiththistypeofanalysiswhenconsideringdoseortissuedependence.
+batch issues are observed with this type of analysis when considering dose or tissue dependence.
+Figure3. Principalcomponentanalysis(PCA)plotsonGLDSdatasetsusingthegenesetenrichment
+Figure 3. Principal component analysis (PCA) plots on GLDS datasets using the gene set enrichment
+analysis(GSEA)nominalenrichmentscoresbefore(toprow)andafter(bottomrow)auto-annotation
+analysisu (sGinSgECAy)t onsocampein’saeln erincrhimchenmtemnatp sscoofrtwesa rbee.fGoSrEeA (tgoepn erosewts) uasnedd wafetreera (sbfooltltoowms: r(oAw,B)) aCu5tGoe-annenotation
+Ontology(GO)terms,(C,D)C2curatedterms,and(E,F)C6oncogenicsignatureterms. Eachdatapoint
+isrepresentedbyexperimentalradiationdose(color)orradiationtype(shape).
+Tocomparethenumberofgenessetswiththeannotatedgenesets,weprovidedheatmapsand
+clusteringforallthedatasetsbasedontheNESforeachmolecularsignaturedatabasecollectionforthe
+analysiswiththeFDR<0.25(Figure4). Asexpected,theannotatedgenesetsprovidedfewergene
+sets,enablingamorestreamlinedanalysisdownstream. Theoverallpatternofthedatasetsbetween
+theannotatedgenesetsandallthegenessetsdidnotchange. Thisindicatesthatanyanalysisonthe
+annotatedgenesetsshouldprovidesimilarresultsforallthegenesets.
+Cancers 2020, 12, 381 7 of 24
+using Cytoscape’s enrichment map software. GSEA gene sets used were as follows: (A,B) C5 Gene
+Ontology (GO) terms, (C,D) C2 curated terms, and (E,F) C6 oncogenic signature terms. Each data
+point is represented by experimental radiation dose (color) or radiation type (shape).
+To compare the number of genes sets with the annotated gene sets, we provided heatmaps and
+clustering for all the datasets based on the NES for each molecular signature database collection for
+the analysis with the FDR < 0.25 (Figure 4). As expected, the annotated gene sets provided fewer gene
+sets, enabling a more streamlined analysis downstream. The overall pattern of the datasets between
+Cancers2020,12,381 7of23
+the annotated gene sets and all the genes sets did not change. This indicates that any analysis on the
+annotated gene sets should provide similar results for all the gene sets.
+Figure4. Heatmapsonallgenesetsandalsoannotatedgenesetsforeachmolecularsignaturedatabase
+Figure 4. Heatmaps on all gene sets and also annotated gene sets for each molecular signature
+collection. Euclideanclusteringwasusedforclusteringtherowsandcolumns.
+database collection. Euclidean clustering was used for clustering the rows and columns.
+2.3. TranscriptomeEvaluationofBiologicalFunctionsImpactedbySpaceflightExposureinAnimalModels
+2.3. Transcriptome Evaluation of Biological Functions Impacted by Spaceflight Exposure in Animal Models
+Toobservetheimpactofradiationexposure,transcriptionaldatafromexperimentsspanning1to
+To observe the impact of radiation exposure, transcriptional data from experiments spanning 1
+1000mGydosesinanimalmodelsandcellcultureswereexaminedforalterationinmultiplebiological
+to 1000 mGy doses in animal models and cell cultures were examined for alteration in multiple
+pathways. This analysis combined statistically significant biological pathways that resulted from
+biological pathways. This analysis combined statistically significant biological pathways that resulted
+GSEAanalysisforeachindividualdataset[54]. Thisincludedthefollowingthreemajormolecular
+from GSEA analysis for each individual dataset [54]. This included the following three major
+signaturesdatabasecollections: (1)theGeneOntology(GO;C5)genesetsfrombiologicalprocesses,
+molecular signatures database collections: (1) the Gene Ontology (GO; C5) gene sets from biological
+cellularcomponents,andmolecularfunctions;(2)thecurateddataset(C2)genesetsfromchemicaland
+processes, cellular components, and molecular functions; (2) the curated dataset (C2) gene sets from
+geneticperturbationsandcanonicalpathwayssuchastheBioCarta,KyotoEncyclopediaofGenesand
+chemical and genetic perturbations and canonical pathways such as the BioCarta, Kyoto
+Genomes(KEGG),PathwayInteractionDatabase(PID),andReactomepathwaydatabases;and(3)the
+Encyclopedia of Genes and Genomes (KEGG), Pathway Interaction Database (PID), and Reactome
+oncogenicsignatures(C6)genesetsrepresentingmajorpathwaysalteredincancer.
+pathway databases; and (3) the oncogenic signatures (C6) gene sets representing major pathways
+2a.l3te.1r.edG iSnE cAanCc5e:r.G eneOntologyResults
+UsingCytoscape’senrichmentmapper,63statisticallysignificantGSEAgenesetsfromtheGene
+2.3.1. GSEA C5: Gene Ontology Results
+Ontology(C5)databasehadaFDR<25%in50%ormoreoftheGeneLabdatasetsanalyzed. Usingthe
+auto-Uansinnogt aCtyetcolsucsatperei’ns gentorioclh,mtheenste m63apgpenere, s6e3t sstraetpisrteicsaelnlyte sdig7nmifiacjaonrtb GioSlEoAgi cgaelnpea stehtws faryosmin thcleu Gdiennge:
+(O1n)troibloogsyo m(Ce5a) sdsaetmabbalys,e( h2)adm ait oFcDhRo n<d 2r5ia%l fiunn 5c0ti%o no,r( 3m)oinret eorff etrhoen G-geanmeLmaab rdeastpaosnetsse ,an(4a)lyczheedm. oUtasixnisg,
+(t5h)e caelulutol-aarndniofftearteen ctilautsitoenr,in(g6 )teoxotlr,a cthelelsuel a6r3o rggeannei zsaetitos nr,eapnrdes(e7n)tecdy to7k imneajoprr obdiuoclotigoinca(lF ipgautrhew5aAy)s.
+Einacclhudoifntgh:e s(e1)c lruisbtoesrosmwea sadsrsievmenblbyy, a(2n) omveitrorecphroensdenritaeld feunnrcictihomn,e n(3t)o fingteenrefesrroenla-gteadmtmotah erseesppoanthswe, a(y4s).
+chemIontaaxdisd, it(i5o)n cetloluulanrd deirfsftearnendtiinagtiocno,m (6m) oenxtrbaicoellolguilcaar loprgaathnwizaaytisond, iasrnudp t(e7d) cbyytokspinaec epflriogdhutctainodn
+ground-basedradiationexposure,theseresultswerealsousedtoexaminepossibledose-dependent
+trends. Using a k-means clustering of the heatmaps representing each clustering nominal
+enrichmentscores,sixmajorannotatedclusterswereoverwhelminglyrepresentedthisdata,including
+(1)mitochondrialpathways,(2)leukocyteandadaptiveimmuneresponse,(3)woundhealingandVEGF
+pathways,(4)ribosome,(5)lipidpathways,and(6)mitoticnucleardivision(Figure5B).Thenominal
+enrichmentscore(NES)fortheseannotatedgenesetswasplottedfrom1mGyto1000mGyandfitted
+using a generalized additive model (GAM) smoothing plot [55,56] (Figure 5C). Indeed, there was
+an observed activation as a function of dose for the mitochondrial pathway, whereas the clusters
+fortheribosome,lipidpathways,andmitoticnucleardivisionweregenerallyinactivated. Amore
+Cancers2020,12,381 8of23
+uncertain trend was observed for the immune related clusters involving leukocyte and adaptive
+Cancers 2020, 12, 381 8 of 24
+immuneresponseaswellaswoundhealingandVEGFpathways,demonstratingthecomplexnature
+ofnormaltissueresponsestoinflammationandimmuneresponses.
+FFiigguurree 55.. AAnnaallyyssiiss ooff aallll GGeenneeLLaabb ddaattaasseettss uuttiilliizzeedd ffoorr ddiirreecctt ccoommppaarriissoonnss wwiitthh GGeennee OOnnttoollooggyy ((GGOO))
+GGSSEEAA aannaallyyssiiss.. (A(A))A Auutoto-a-nannontoattaetdedG OGOG SGESAEtAer mtersmfrso mfroCmy toCsyctaopsec’aspeen’rsi cehnmriecnhtmmenapt pmera.pEpaecrh. nEoadche
+nreopdree sreenptrseosennetssp oenceifi scpGecOifitce rGmOw teitrhme awchithw eeadcghe wreepdrgeese rnetpinregsoennteinGge noenLea GbednaetLasaebt sduattailsizeetsd ufotirlitzheids
+fmora nthuissc rmipatn.uTshceriypetl.l oTwhec yirecllleoswre cpirrecsleesn trethpereasuetnot- athnen oatuattoe-dangnootteartmeds wgoit htecromms mwoitnhr ceolamtemdopna trhewlaateyds.
+(pBa)thHweaatyms.a (pB)w Hitehaktm-maepa nwsitchlu ks-tmereinangsf oclrutshteersipnegc fifiorc tGhOe sppaetchiwfica yGsO. S pixatshpwecaiyfisc. pSiaxt hswpeacyisficw pearethfwouanyds
+wtoebree fcoluusntder etod btoeg celtuhsetrertehdr otuogghethk-emr etharnosucglhu skte-mrineagn.s( Ccl)uSstceartitnegr. p(lCo)t sSccoamttepra prilnogts tchoemnpoarrminagli ztehde
+nenorrimchamlizeendt secnorricehsm(NeEntS )sctoordeos s(eNinESm) itloli gdroasyes iann dmfiiltltiginrgayws iathnda gfiettnienrga lwiziethd aad gdeintievrealmizoedde ald(GdAitiMve)
+monodeaecl h(GcAluMst)e ron(r eepacrehs celnutsetderi n(re(Cpr)e).seEnatcehd pinan (eCl))r.e Eparecshe pntasnoeln reepofretsheenctslu osnteer osfa tnhde tchluescteorlso ra-ncdod tehde
+clionleosr-rceopdreesde lninteGsA reMprfietssenpte rGfoArMm efditso pneerafochrmGeOd- oann neoatcaht eGdOt-earnmnointattheedc tleursmte irn. Tthhee ccliurcslteesr.i Tnhthe eciprcloletss
+irnep trhees epnlotttsh eregperneesesnett sthaen dgetnhee pseintsk asnhda dtheea rpoiunkn dshthaedeG aArMounfidts trheep rGesAeMnt ftihtes sretapnrdesaerndte trhreo rs.tandard
+error.
+Wealsoperformedananalysiswithlessstringentstatistics,involvingalargersetofgenesets,to
+obserIvne awdhdeitthioenr ottoh erufnudnecrtsitoannsdoirngp atchowmamysonw obuioldloagpipcaela rp. aWthewpearyfso rdmiesrdutphteedsa mbye asnpaalycesifsligashta baonvde
+gburotuinncdlu-bdaesdedsi grandifiiactainotnG eSxEpAosguerne,e tsheetssef rroemsutlhtse wGeernee aOlsnot oulsoegdy t(oC 5e)xadmatianbea speotshsaibtlhea ddoasne-FdDepRe < nd0e.0n5t
+tinreonndlsy. Uthsrienego af kt-hmeeGaenns ecLluasbtedraintags eotfs tahne ahleyaztemd.apAsl trheopuregshenthtiengF DeaRchw calsussetetraintga lnoowmeirntahl reensrhiochldm,ethnet
+slocworeers,n suimx bmerajoofr raenqnuoirteadtedd actalusesttesrws iwthearen oFvDeRrw < h0e.l0m5inthgrleys hreopldre(sFeingtuerde 2th)iws odualtda, reinsucllutdininmg o(r1e)
+mgeintoecsheotsndforriatlh peadthowwanysstr, e(2a)m leaunkaolcyysties. aWnde asdawaptthivise aimstmruuenwe rheesnpoonbssee,r v(3i)n wgothuenndu hmeableinrgo fangden VeEsGetFs
+(pFaitghuwreayS4s,) .(4S)o rmibeoks-ommeea,n (s5)c lluipsitder psawthewreatyoso, adnends (e6)a nmditwoteicre nsupcllietainr tdoivsuisbio-cnlu (Fstiegrusr(eF 5igBu).r eTshSe5 naonmdiSn6a)l.
+TenhreicGhAmMenfit stscowree r(eNpErSo)v fiodre tdhefoser eaancnhotcalutesdte greanned sseutsb w-calus sptelort(tFedig furroems S17m–SG9y) .toA 1s0e0x0pmecGteyd a,ntdh ifsitlteesds
+ustsriinngg ean gteannearlyalsiizseadp apdrodaitcihvep rmodoudceel d(GleAssMs)t astmisotiocathlliyngsi gpnloifit c[5an5,t5fi6t]s (Fwigituhrme o5Cre).n Ionidseeecdon, fthouerned winagst ahne
+odbastae.rvInedte arecstitvinagtiloyn,s aosm ae funnewctiotrne nodf sdaopsep feoarr ethdet hmaittoccahnobnedrreialal tpeadthtowsapya, cwehraedreiaasti othne- icnldusutceerds fhoera tlhthe
+rriibskoss,oimncel,u ldipinidg pdaetchrewaasyess,i nanmdu mscitleo-triec lnatuecdlepaar tdhiwviasyiosna swaefrue ngcetnioenraollfyi nincraecatsivinagteddo. sAe m(Foigrue ruenSc7e)rtaanidn
+tdreecnrdea wseassi nocbhserorvmeods ofmore tphaet himwmayusnwei trheliantcerde acsliunsgtedross ein(vFoiglvuirnegS 8le).uTkhocisyitne calunsdiv aedaanpatliyvsei sismtrmatuengye
+rdeesmpoonnsster aatse dwtehlal taasn awlyozuinngd thheeadlaintag inanmda nVyEdGiF ff epreanthtwwaayyss, cdanemreovnesatlrraetilenvga nthter ecsoumltspwlehxe nnatthuartec aonf
+neaosrimlyabl etimssuises erdeswpoitnhsoesn ltyo oinnfelammemthaotidoonl oagnyda inmdmouvneerl yresstproicntssetsa.t i sticalcutoffs.
+We also performed an analysis with less stringent statistics, involving a larger set of gene sets,
+to observe whether other functions or pathways would appear. We performed the same analysis as
+above but included significant GSEA gene sets from the Gene Ontology (C5) database that had an
+FDR < 0.05 in only three of the GeneLab datasets analyzed. Although the FDR was set at a lower
+threshold, the lower number of required datasets with an FDR < 0.05 threshold (Figure 2) would
+Cancers2020,12,381 9of23
+2.3.2. GSEAC2: CuratedDatasetResults
+Toexpandtheseresults,thecanonicalpathways(C2)molecularsignaturesdatabasecollection
+wasexaminedinasimilarmannertothegeneontologycollection(C5)above. Forthisanalysis,there
+were30totaldatasetsasopposedto28fortheC5genesetanalysis. Wedetermined411significantly
+regulated C2 gene sets using Cytoscape’s enrichment mapper with an FDR ≤ 25% in 50% of the
+GeneLab datasets analyzed. Due to the C2 GSEA database containing more gene sets, a larger
+numberofgenesetsandauto-annotatedtermswasexpected. Fromtheseterms,weobservedseveral
+keypathways,includingmitoticandcellcyclepathways,cancer-relatedpathways,hypoxia-related
+pathways,interferonpathways,andpathwaysrelatedtoradiationimpactoncells(Figure6A).Cellcycle
+pathways[57],hypoxia[58],interferondysregulation[59],andcancer[60–62]haveallbeenobserved
+inpreviousresearchstudiesasdysregulatedduetospaceflight.
+We performed a similar analysis with C2 genes sets as we did with the C5 dose-dependent
+analysis(Figures5and6). Usingk-meansclusteringforheatmapsrepresentingeachclusteringnominal
+enrichmentscores,15majorannotatedclustersoverwhelminglyrepresentedthesedata,including
+(1)hypoxia,MYC,andphospholipidpathways;(2)EGF,TNF,andhematopoieticpathways;(3)E2F3,
+EGFR2,p53,andcellcyclepathways;(4)luminal,miR-21targets,KRAS,andtransformationpathways;
+(5)RB1,metastasis,mitoticdivision,andprogenitorpathways;(6)hematopoiesis,interferons,and
+methylationpathways;(7)obesity-,oxidation-,andadipogenic-relatedpathways;(8)mitochondrialand
+adipogenesispathways;(9)complexEIFbinding;(10)progesterone;(11)apoptosisandphospholipid
+pathways; (12) inflammatory, invasion, NOTCH, and HNF1a pathways; (13) carcinoma, hypoxia,
+andIL1apathways;(14)PKD1,ZMPSTE24,andcardiacdysfunctions;and(15)ICPwithH3K27ME3
+pathway (Figure 6B,C). Similar to the C5 GO analysis, we observed an increase in mitochondrial
+pathways as a function of dose. Observing this trend with another pathway database provided
+additional confidence with these results. A clear decrease with cardiac dysfunctions, PKD1, and
+ZMPSTE24 was revealed as a function of dose. Interestingly, deficiencies or decreases in both
+PKD1[63]andZMPSTE24[64]expressionhavebeenpreviouslyshowntocausecardiacdysfunction.
+Theseobservedbiologicalfunctionsseemtofollowatrendthatmayhavebemissedbymanualanalysis.
+Lastly,lessstringentstatisticswithanFDR<0.05inonlythreeoftheGeneLabDatasetswasalso
+analyzedforC2genesets(FiguresS10–S17). LiketheC5analysis,moregenesetswereclusteredper
+groupafterk-meansclustering(FigureS10),leadingtothreeclustersrequiringadditionalk-means
+sub-clusteringanalysis(FiguresS11–S13). ThislessstatisticallystringentanalysisonC2produced
+additional trends through the GAM fits that were not observed in the more conservative analysis
+(FiguresS14–S17). AcleardecreaseinTNFpathwayswasobservedwithincreasingdose(FigureS16),
+andanovelpathwayrelatedtotastetransductionwasobservedasincreasingwithdose(FigureS17).
+Interestingly,ithasbeenreportedthatbotholfactorypathwaysandtastearealteredinastronauts,which
+waspreviouslythoughttobeduetofluidshiftsintheheadcausedbymicrogravityconditions[65–67].
+Thesedataalsoindicatethatspaceradiationmayhavesomeimpactonthisinterestingphenomenon.
+Cancers2020,12,381 10of23
+Cancers 2020, 12, 381 10 of 24
+Figure6. AnalysisofallGeneLabdatasetsutilizedfordirectcomparisonswiththeGSEAC2curated
+Figure 6. Analysis of all GeneLab datasets utilized for direct comparisons with the GSEA C2 curated
+collectionanalysis. (A)Auto-annotatedC2GSEAtermsfromCytoscape’senrichmentmapper. Each
+collection analysis. (A) Auto-annotated C2 GSEA terms from Cytoscape’s enrichment mapper. Each
+noderepresentsonespecificC2termwitheachwedgerepresentingoneGeneLabdatasetutilized
+node represents one specific C2 term with each wedge representing one GeneLab dataset utilized for
+forthismanuscript. Theyellowcirclesrepresenttheauto-annotatedGOtermswithcommonrelated
+this manuscript. The yellow circles represent the auto-annotated GO terms with common related
+pathways. (B)Heatmapwithk-meansclusteringforthespecificC2pathways. Atotalof15specific
+pathways. (B) Heatmap with k-means clustering for the specific C2 pathways. A total of 15 specific
+pathwayswerefoundtobeclusteredtogetherthroughk-meansclustering. (C)Scatterplotscomparing
+pathways were found to be clustered together through k-means clustering. (C) Scatter plots
+thenormalizedenrichmentscores(NES)todoseinmGyandfitswithageneralizedadditivemodel
+comparing the normalized enrichment scores (NES) to dose in mGy and fits with a generalized
+(GAM)oneachcluster(representedin(B)).Eachpanelrepresentsoneoftheclustersandthecolor-coded
+additive model (GAM) on each cluster (represented in (B)). Each panel represents one of the clusters
+linesrepresentGAMfitsperformedoneachC2-annotatedterminthecluster. Thecirclesintheplots
+anrdep trheese cnotltohre-cgoedneeds eltisneasn dretphreepseinnkt sGhAadMe afriotsu npdertfhoermGeAdM ofint searecphr eCs2e-natntnhoetsattaendd aterdrmer rinor .the cluster.
+The circles in the plots represent the gene sets and the pink shade around the GAM fits represent the
+2.3.3. GSEAC6: OncogenicSignatures
+standard error.
+Toobservespecificoncogenicpathwaysthatmaychangeasafunctionofspaceradiationexposure,
+We performed a similar analysis with C2 genes sets as we did with the C5 dose-dependent
+wealsoincludedananalysisoftheGSEAC6oncology-specificcollectionfromthemolecularsignatures
+andaalytasbisa s(eFi(gFuigruer e5,76)).. FUrosimngt hke-manenaontsa tcilounstaenrainlygs ifso,rw heedaitsmcoavpesr erdeptrheastetnhteinmga einacohn ccolugsetneircinpga tnhowmayinal
+enrichment scores, 15 major annotated clusters overwhelmingly represented these data, including (1)
+hypoxia, MYC, and phospholipid pathways; (2) EGF, TNF, and hematopoietic pathways; 3) E2F3,
+EGFR2, p53, and cell cycle pathways; (4) luminal, miR-21 targets, KRAS, and transformation
+pathways; (5) RB1, metastasis, mitotic division, and progenitor pathways; (6) hematopoiesis,
+interferons, and methylation pathways; (7) obesity-, oxidation-, and adipogenic-related pathways; (8)
+Cancers2020,12,381 11of23
+impactedbyspaceradiationwasKRAS(Figure7A).KRASisaknownoncogeneandhasbeenheavily
+shownintheliteraturetobeinvolvedwithlungcancerinducedbyspaceradiation[14]. Thek-means
+clusteringontheannotatedgenesetsproducedthefollowingfiveclusters: (1)KRAS-andLEF1-related
+pathways;(2)p53-,mTOR-,KRAS-,andCRX-relatedpathways;(3)PDGF-andTGFβ-relatedpathways;
+(4)TBK1, VEGFA,andERBB2pathways; and(5)embryonicstemcells(ESC)pathway(Figure7B).
+Whenobservingeachclusterasafunctionofdose,therewereinterestingtrendsthatcanshedlight
+onpredictingpotentialoncogenicriskforlongerexposuretospaceradiation. Thus,thefollowing
+knownoncogenesaswellasthemostregulatedC6oncogenicsignatureswerespecificallyanalyzedas
+afunctionofdoseforalldatasets: (1)KRAS,(2)CSR,(3)p53,(4)ESC,(5)TGFβ,(6),VEGFa,and(7)
+mTORpathways(Figure8). Thesetrendsasafunctionofdoseacrossmultipleexperimentaldatasets
+emphasizedaneedtofunctionallyvalidtheseobservations.
+Cancers 2020, 12, 381 12 of 24
+Figure 7. Analysis of all GeneLab datasets utilized for direct comparisons with the GSEA C6 oncology
+Figure7. AnalysisofallGeneLabdatasetsutilizedfordirectcomparisonswiththeGSEAC6oncology
+signature collection analysis. (A) Auto-annotated C6 GSEA terms from Cytoscape’s enrichment
+signaturecollectionanalysis. (A)Auto-annotatedC6GSEAtermsfromCytoscape’senrichmentmapper.
+mapper. Each node represents one specific C6 term with each wedge representing one GeneLab
+EachnoderepresentsonespecificC6termwitheachwedgerepresentingoneGeneLabdatasetutilized
+dataset utilized for this manuscript. The yellow circles represent the auto-annotated GO terms with
+forthismanuscript. Theyellowcirclesrepresenttheauto-annotatedGOtermswithcommonrelated
+co
+p
+m
+at
+m
+hw
+o
+a
+n
+y
+r
+s
+e
+.
+la (Bte
+)
+d
+H
+p
+e
+a
+a
+t
+t
+h
+m
+w
+a
+a
+p
+y
+w
+s.
+i t
+(
+h
+B)k
+-
+H
+m
+e
+e
+a
+a
+tm
+ns
+a
+c
+p
+l u
+w
+st
+i
+e
+th
+ri n
+k-
+g
+m
+fo
+ea
+r
+n
+th
+s
+e
+cl
+s
+u
+p
+s
+e
+t
+c
+e
+i
+r
+fi
+in
+c
+g
+C
+f
+6
+o
+p
+r
+a
+t
+t
+h
+h
+e
+w
+s
+a
+p
+y
+e
+s
+c
+.
+if
+F
+ic
+iv
+C
+e
+6
+s p
+p
+e
+a
+c
+t
+i
+h
+fi
+w
+c
+a
+p
+y
+a
+s
+t
+.
+h
+F
+w
+iv
+ay
+e
+s
+spweecrieficf opuanthdwtoaybse wcelures tfeoruedndt otog ebteh ecrlutshtreoruedg htokg-emtheearn sthcrlouusgtehr ikn-gm.ea(Cns) cSlcuasttteerrinpglo. t(sCc) oSmcapttaerri npglotths e
+conmorpmaarilnizge dtheen nriocrhmmaelinztesdc oernersic(hNmEeSn)tt oscdooreses (inNmESi)ll itgor dayossea innd mfiitlsliwgriathysa agnedn efritasl iwzeitdha ad gdeitnivereamlizoedde l
+a(dGdAitMive) omnoedaechl (cGluAsMter) (ornep eraecshen ctleudstienr( B(r)e)p.Ereascehnpteadn eilnr e(Bp)r)e.s Eenactsho pnaenoefl trheepcrleussetnetrss oannde othf ethcoe lcolru-csotedresd
+anlidne tshree pcorelosre-nctoGdeAdM linfietss preeprfroersmenetd GoAnMea cfhitsC p6e-arfnonromtaetde donte ermachin Cth6-eacnlnuostteart.edT hteercmir cilne sthine tchluesptelort. s
+Trheep creirscelnest tihne thgee npelostest sreapnrdestehnetp thinek gsehnaed seeatsr oaunndd ththee pGinAkM shfiadtser aerporuesnedn tththe eGsAtaMnd faitrsd reerprroers.ent the
+standard error.
+Figure 8. Analysis of all GeneLab datasets utilized for direct comparisons with the GSEA C6 oncology
+signature collection analysis. Scatter plots comparing the normalized enrichment scores (NES) to dose
+in milligrays and fits with a generalized additive model (GAM) on specific C6 oncogenes. Each panel
+represents one specific oncogene and the color-coded lines represent GAM fits performed on the
+Cancers 2020, 12, 381 12 of 24
+Figure 7. Analysis of all GeneLab datasets utilized for direct comparisons with the GSEA C6 oncology
+signature collection analysis. (A) Auto-annotated C6 GSEA terms from Cytoscape’s enrichment
+mapper. Each node represents one specific C6 term with each wedge representing one GeneLab
+dataset utilized for this manuscript. The yellow circles represent the auto-annotated GO terms with
+common related pathways. (B) Heatmap with k-means clustering for the specific C6 pathways. Five
+specific pathways were found to be clustered together through k-means clustering. (C) Scatter plots
+comparing the normalized enrichment scores (NES) to dose in milligrays and fits with a generalized
+additive model (GAM) on each cluster (represented in (B)). Each panel represents one of the clusters
+and the color-coded lines represent GAM fits performed on each C6-annotated term in the cluster.
+CancerTsh20e2 c0i,r1c2l,e3s8 i1n the plots represent the gene sets and the pink shade around the GAM fits represent th1e2 of23
+standard error.
+FFiigguurree 88.. AAnnaallyyssiiss ooff aallll GGeenneeLLaabb ddaattaasseettss uuttiilliizzeedd ffoorr ddiirreecctt ccoommppaarriissoonnss wwiitthh tthhee GGSSEEAA CC66 oonnccoollooggyy
+signaturecollectionanalysis. Scatterplotscomparingthenormalizedenrichmentscores(NES)to
+signature collection analysis. Scatter plots comparing the normalized enrichment scores (NES) to dose
+doseinmilligraysandfitswithageneralizedadditivemodel(GAM)onspecificC6oncogenes. Each
+in milligrays and fits with a generalized additive model (GAM) on specific C6 oncogenes. Each panel
+panelrepresentsonespecificoncogeneandthecolor-codedlinesrepresentGAMfitsperformedonthe
+represents one specific oncogene and the color-coded lines represent GAM fits performed on the
+multipleC6pathwaysassociatedwiththatoncogene. Thecirclesintheplotsrepresentthegenesets
+andthepinkshadearoundtheGAMfitsrepresentthestandarderror.
+As in the previous sections, we also performed analysis with less stringent statistics with a
+FDR<0.05inonlythreeoftheGeneLabDatasetsanalyzedforC6genesets(FiguresS18–S21). Because
+therearefewergenesetsintheC6database,thisanalysisstartedtoyieldsomeofthesameresults
+astheanalysiswiththehigherthresholds. TheGAMfitsforeachclusterandsub-clusterproduced
+similar results, with one sub-cluster purely associated with TGFβ demonstrating the same trend
+(FigureS21). Interestingly,oneclusterassociatedwithTBK1didnotappearinthehigherthreshold
+analysis and demonstrated a clear decrease in as a function of dose (Figure S20). Lastly, a major
+oncogeneMYC[68,69]didnotshowupinthehigherthresholdanalysis,whereasinthisanalysisMYC
+wasclearlybeingactivatedwithincreasingdose(FigureS20),indicatingthatspaceradiationexposure
+wouldincreasethepotentialforcarcinogenesis.
+2.4. CommonGenesasaFunctionofDoseandAssociationwithBiologicalPathways
+Tolookatspecificgenesthatmightbecommonacrossalldatasets,weperformedanalysison
+thelog2fold-changevaluesforalldatasets. Ninegenes(COPB2,UBE2D3,LYPLA2,ARF1,COPB1,
+CAPNS1,PHB2,DAD1,PRPF8)identifiedtobecommonacrossthespaceflightmissions(1.0to30mGy)
+andgroundstudies(0.1to1.0Gy)wereplottedasafunctionofdoseandaveragelog2fold-change
+andfittoacomplexpolynomialmodel. Thesegenes,whichwereexpressedacrossthevarioustissue
+types,displayednosignificantexpressioneffectsfromspaceflightupto100mGy. Atdoseshigherthan
+100mGy,aslightdeviationfrombaselineexpressionwasobserved(Figure9A).Thespaceflightstudies
+aloneshowedslightfluctuationsinexpressionacrosstheidentifiedgenesets(Figure9B).
+Afocusedanalysisofonlythemuscletissuedatasetsidentifiedasubsetofninedifferentgenesthat
+weredifferentiallyexpressedacrossthespaceflightstudiesfrom0to30mGy(Figure9C).Thesegenes
+displayeddose-responsetrends. Theninecommongenesassociatedwithalltissuetypeswereassociated
+withpathwayscenteredonGolgitoendoplasmicreticulumtransportandpost-translationalprotein
+modifications(Figure9D).Inaddition, thesegenesalsowerepredictedtoregulatedphospholipid
+activity, immune dysregulation, and embryonic lethality. We observed these pathways to also be
+involvedwithourGSEAanalysisasafunctionofdose.
+Cancers 2020, 12, 381 13 of 24
+multiple C6 pathways associated with that oncogene. The circles in the plots represent the gene sets
+and the pink shade around the GAM fits represent the standard error.
+As in the previous sections, we also performed analysis with less stringent statistics with a FDR <
+0.05 in only three of the GeneLab Datasets analyzed for C6 gene sets (Figure S18–S21). Because there
+are fewer gene sets in the C6 database, this analysis started to yield some of the same results as the
+analysis with the higher thresholds. The GAM fits for each cluster and sub-cluster produced similar
+results, with one sub-cluster purely associated with TGFβ demonstrating the same trend (Figure S21).
+Interestingly, one cluster associated with TBK1 did not appear in the higher threshold analysis and
+demonstrated a clear decrease in as a function of dose (Figure S20). Lastly, a major oncogene MYC
+[68,69] did not show up in the higher threshold analysis, whereas in this analysis MYC was clearly
+being activated with increasing dose (Figure S20), indicating that space radiation exposure would
+increase the potential for carcinogenesis.
+2.4. Common Genes as a Function of Dose and Association with Biological Pathways
+To look at specific genes that might be common across all datasets, we performed analysis on
+the log2 fold-change values for all datasets. Nine genes (COPB2, UBE2D3, LYPLA2, ARF1, COPB1,
+CAPNS1, PHB2, DAD1, PRPF8) identified to be common across the spaceflight missions (1.0 to 30
+mGy) and ground studies (0.1 to 1.0 Gy) were plotted as a function of dose and average log2 fold-
+change and fit to a complex polynomial model. These genes, which were expressed across the various
+tissue types, displayed no significant expression effects from spaceflight up to 100 mGy. At
+Cdaoncseerss 2020,12,381 13of23
+FFiigguurree 99.. CCoommmmoonn ggeenneess aaccrroossss aallll ddaattaasseettss.. ((AA)) LLoogg22 ffoolldd--cchhaannggee wwiitthh rreessppeecctt ttoo ddoossee ffoorr aa ssuubbsseett ooff
+99 ggeenneesst thhaatta appppeeaarreedda accrorossssa allll1 199s pspacaecflefilgihgthst tsutduideisesa nadnd3 3g rgoruonudndst ustduidesie.sA. Ap oploylnyonmomialiaolf odfe dgergeere2e
+w2 awsafist ftiot etoa cehacdho sdeorsees preosnpsoeninset hine trhaen grean1g–e1 010–01m00G0 ym. (GBy).L (oBg) 2Lfoogld2 -fcohladn-cgheawnigteh wreistphe rcetstpoedcot steo fdoorsae
+sfuobr sae tsoufbnsiente ogfe nneinset hgaetnaepsp tehaaret dapacpreoasrsedsp aacceroflsigs hstpsatcuedfliiegshitn stthuedriaens gien 1t–h3e0 rmanGgye. A1–p3o0 lymnGomy.i aAl
+ofdegree1wasfittoeachdoseresponse. (C)Log2fold-changewithrespecttodoseforasubsetof
+ninegenesthatappearedacrossalleightspaceflightstudiesspecificallyrelatedtothemuscletissues.
+Apolynomialofdegree1wasfittoeachdoseresponseintherange1–30mGy. Thedashedlinesdenote
+the+/-1sigmaerrorsonthefittedpolynomials. (D)Thefunctionalimpactoftheninecommongenes
+determinedbyToppCluster[70]anddisplayedusingCytoscape.
+3. Discussion
+Here,wepresentedanovelapproachinusingpubliclyavailabletranscriptomicdatatodetermine
+potentialhealthrisksanddysregulationofbiologicalpathwaysasafunctionofspaceradiationexposure.
+TheuseofNASA’sGeneLabplatform[23]allowedustominedatathatmightnothaveotherwise
+beenpossibletoobtainfromindividualexperimentaldatasets. Thelargenumberofradiationdatasets
+availablethroughthisplatformallowedthecreativecombinationofdifferentdatasetsfromformer
+experimentstogeneratenewhypotheses[71].
+Ourhypothesisforthisworksuspectedthattherewasatissueindependentdysregulationas
+afunctionofspaceradiation-absorbeddosethatimpactedkeybiologicalpathwaysassociatedwith
+increased health risks such as induction of cancer. Because the GeneLab Data System contains
+spaceflighttranscriptomicdatafrommiceandtissuesflowninlowEarthorbit(LEO)forvarioustime
+durations,wewereabletoobtainaccumulatedspaceradiationdosesfrom1to30mGy. Toobtain
+dosesthatwillbemorerelevanttolong-termdeepspacetravel[7,14],wecombinedouranalysiswith
+simulatedspaceradiationgroundexperimentsperformedintheNASASpaceRadiationLaboratory
+(NSRL)atBrookhavenNationalLaboratory[24]. Theseexperimentswereperformedonbothmice
+and invitro cell cultures with single ions (protons, 56Fe, and 26Si) at doses from 100 to 1000 mGy.
+Cancers2020,12,381 14of23
+Bycombining25GeneLabdatasetsoverthesedoses,thisworkrepresentsthefirsttimeastudyhas
+providedacomprehensivebiologicalanalysisandproducedrelevantandnovelresultsindicating
+which relevant biological processes are being regulated as a function of space radiation exposure.
+Theseresultsmaybefurtherutilizedtogeneratehealthriskassessmentmodelsanduncoverpotential
+targetsformitigationofspaceradiationeffectsvianoveltherapeutics.
+WechosetofirstlookatthedistributionofmappingerrorswithintheRNA-sequencingresults
+fromliversamplesbyexaminingwhethermiceexposuretospaceflightresultedindetectablechanges
+comparedtogroundcontrols. WechosetofocusonlivertissuedatasetsfromGeneLabwithmice
+exposed to space radiation because on in the GLDS liver is the organ with the largest number
+of sequenced tissue thus far from rodent research missions [71]. This extremely novel analysis
+demonstrateshowRNA-sequencedatacanbeusedtogenerateusefuldataotherthanthestandard
+techniquestogeneratecounts. Withacumulativeexposureof9.20mGyforGLDS-168mice,significant
+increasesinA>GandC>Tbasesubstitutionsweredetected,aswellaschangesinCAC,CGT,GTA,
+orGTGerrorrates(Figure1). However,therewerenosignificantbase-specificsubstitutionsdetected,
+andCAC,CGT,GTA,orGTGerrorratesalldecreasedsignificantlyinGLDS-242wheremicereceived
+acumulativedoseof8.03mGy;however,duetotheuncertaintyinherentintheflightdosimetry,itwas
+notpossibletodefinitivelydeterminewhetherthiswasthecase.
+A major difference potentially impacting the observed differences between GLDS-168 and
+GLDS-242wastheanimalsacrificingtimeatsamplecollection,whichoccurredduringspaceflightfor
+GLDS-168,butwas2weeksafterreturningtoEarthforGLDS-242. Therecoverytimeforthemiceafter
+2weeksbackonEarthmightpossiblyallowrecoveryofthebasesubstitutionsanderrorratesobserved
+duringexposuretospaceradiation. Theabilitytodetectsinglenucleotidevariants(SNVs)inRNA
+andDNAdatasetshasbeenperformedpreviouslyonthebasisoftheassumptionofahomogeneous
+genomicsampleforexamplefromatumor[70],whereasthesporadicandstochasticnatureofHZE
+exposureisexpectedtoresultinrandomdamagethroughoutthegenome[72]. Therefore,approaches
+to map SNVs on the basis of bulk tissue approaches may not be able to account for the stochastic
+natureoftheSNVdamageaccumulatedinatissue. Ourinterpretationoftheseresultswasthatthe
+spaceflightanimalsmayhaveexperiencedmoreDNAdamage/mutationthangroundcontrols,butin
+theanimalsthatwerereturnedtoEarth,therecoveryoftheanimalsallowedforrepairtotakeplace.
+Next,purelyonthebasisofstatisticalanalysis,wewereabletodeterminekeybiologicalfunctions
+thatwerebeingdysregulatedasafunctionofspaceradiation. Forexample,intheC5GeneOntology
+(GO) terms (Figure 5C), ribosomal pathways were observed as decreasing with dose. Ribosomal
+assemblyconsistedofanumberofribosomalproteinlarge(rpl)genesthatarenecessaryintheassembly
+oftheeukaryoticribosome60Ssubunit,aswellastheribosomalproteinsmallgenesinvolved40S
+and/or60Ssubunitassembly. Indeed,ribosome-relatedgeneshavebeenpreviouslyreportedtobe
+disruptedfollowingexposuretoionizingradiation[73–75].
+Weobservedacleartrendofincreasedactivationofmitochondrial-relatedpathwaysinmultiple
+differentpathwaydatabases,whichincludeboththeC5GOterms(Figure5C)andC2curatedgene
+sets(Figure6C).Mitochondrialgeneexpressionissusceptibletoradiation-sensitivity[76]. Anumber
+ofgenesetsintheseclustersshoweddysregulationoftheNADH:ubiquinoneoxidoreductase(NDUF)
+genefamilyandmitochondria-relatedfunction,inagreementwitheffectsofionizingradiationonthe
+mitochondrialrespiratorychaincomplexesinpreviousstudies[77–79]. Thisisespeciallyrelevant
+to human health, as the NASA Twins Study recently revealed mitochondrial stress and increased
+mitochondrialdebrisintheblood[21].
+Adistinctelicitationofinflammatoryandimmune-relatedcellularfunctionswasalsoobservedin
+thisanalysiswithalterationinchemokine,cytokine,andinterferonexpression(Figures5Cand6C).
+Indeed, it has been very well appreciated that ionizing radiation exposure will cause both
+pro-inflammatoryandanti-inflammatoryexpressionascellularsignalsattempttoresolvetheunique
+normaltissueradiationinjurythatoccursbothacutelyandlonger-term[80–82]. Thisimmunesignaling
+dysregulationhasalsobeenreportedtooccurwhenexposedtospaceradiation[83,84].
+Cancers2020,12,381 15of23
+Wealsoexploredthepotentialcancerriskasafunctionofspaceradiation. Thedatasetsweutilized
+forthisstudywerefrombothinvitroandinvivosamplesthatdidnothaveanycancerpresentand
+were not prone to induction of cancer. From our analysis, we observed several interesting results
+indicativeofincreasedriskfortheinductionofcancer. InouranalysisontheC6OncogenicSignature
+database,weobservedthatPDGFandTGFβwereclusteredtogether,purelyonthebasisofthestatistics,
+andbothweredecreasingwithincreasingdose(cluster3inFigure7C).Thisobservationisclosely
+tiedtopreviouslyestablishedfindings. Intheliterature,PDGFandTGFβarecloselyrelatedtocancer
+progression[85]. Inaddition,ithasbeenshownintheclinicthatdecreasesinPDGFandTGFβlevels
+afterradiotherapyforbreastcancercancauseechocardiographicalterationsaffectingcardiovascular
+morbidity[86]. WealsoobservedthehighestfrequencyoftheKRASpathway,aknownoncogene[87],
+beingimpactedasafunctiondose(Figure7A).Ithasbeenpreviouslydescribedinexperimentswith
+singleionspeciesthatKRAScaninducelungcancerduetoHZEparticles[14]. Ourtissue-independent
+analysisdidnotdemonstrateanysignificantinductionofKRASwithincreasingdose(cluster1in
+Figures7Cand8). Thismightindicatethateitherpreviousexperimentsdonewithsingleionsathigher
+HZEdosesdidnotcapturethedose-dependenttrendintissues,orwhenconsideringthefullspectrum
+ofionsatlowerdosesKRASmightnotbethekeydriverininducingtumorgrowth.
+OtheroncogenictrendsweobservedweredecreasesinCSR,ESC,TGFβ,VEGFA,andmTORC6
+pathwaylevelsasafunctionofincreasingradiationdose(Figures7and8). TGFβ,VEGFa,andmTOR
+haveallpreviouslyshownsimilartrendswithincreasingdoseofsimulatedspaceradiation[32,88].
+TheESCC6termisreferstodifferentiationofembryonicstemcells(ESC)[89]. Thisrathersurprising
+resultindicatesthatincreasingdoseofspaceradiationreducestheefficiencyofstemcelldifferentiation.
+Ithasbeenreportedthatafterionizingradiationexposure,mitochondriaareheavilyinvolvedwithstem
+celldevelopment[90]. Exploitingthesedifferentpathwaydatabases(i.e.,GO,C2,andC6)provided
+keyinsightsonhowthesedifferentpathwaytrendsareintertwined.
+The CSR C6 term refers to “common serum response” (CSR) specifically related to fibroblast
+serum[91]. Fibroblastserumresponsereferstofactorsreleasedintheserumfromfibroblastsinvolved
+inassistingwithwoundhealingduringtumorigenesis[91]. WecanrelatethedecreasetotheCSR
+pathwaystowhatweobservedintheGOanalysis(cluster3inFigure5)relatedtowoundhealingand
+VEGFpathways. Wealsoobservedwiththatwoundhealingshoulddecreasewithincreasingdosesof
+spaceradiation. ThisdecreasecanalsoreducewoundhealingduetoCSRandhasshownthatitcan
+leadtotumorigenesis[91]. Inaddition,ithasbeenreportedthatimpairmentoccursinspacewound
+healing[92,93],andthesedatacanpotentiallyindicateanincreasedchancefortumorinduction.
+Theseobservedtrendsasafunctionofspaceradiationexposurerevealeduniquepathwaysthat
+seemtobespecificallyrelatedtoGCR,whereassomepathwaysfromouranalysisareknowntobe
+universalresponsestoradiation. Themechanismsofdamagearecommontohighlyionizingradiation
+regardlessofthesource[94];whatisuniquetochronicspaceradiationexposureisthecombination
+ofhighlyionizingparticles,lowdose,andalowdoserate,whichmayhaveimplicationsforDNA
+repair [17], mitochondrial pathways [16], and lipid pathways [42] as just a few examples of what
+emergedfromouranalysis. Inaddition,wefoundspecificcancer-relatedpathwaysthatmaybeunique
+tospaceradiation. Forexample,decreasesinTGFβ[32],embryonicstemcells(ESC)[95],andVEGFa
+seem to be unique to space radiation. Spaceflight studies have previously revealed a plethora of
+effectsthatradiationcanhaveatindividualdosesoroverasmallrangeofdiscreetdoses. However,
+thepoolingandmeta-analysisofthesedatasetsinthisstudyallowedforauniquevisualizationand
+comparisonoveralargerrangeofradiationdoses. Thisinturnmadeitpossibletoidentifytrendsin
+physiologicalresponsefromlowtohighdosesandprovidedinsightintotheresponsetoaccumulating
+dosesthatmayoccurinlongdurationspacemissionsoroverafewdaysduringsolarparticleevents.
+Thistechniquemayalsobeutilizedtodeterminepotentialtargetsfortherapeuticintervention.
+Forexample,becausewereportthatmitochondrialpathwaysdecreaseasafunctionofspaceradiation,
+thisarguesforadditionalvalidationandresearchonspecificmitochondrialtargetsforcountermeasure
+development. Inaddition,fromthisanalysiswecanextrapolatetospecificdosesthatmayposegreater
+Cancers2020,12,381 16of23
+healthrisks. Thisanalysiscanonlybedonebyutilizingalargenumberofdatasetsthatareavailable
+fromplatformssuchasNASA’sGeneLab. Theresolutionobtainedfromthisanalysiscaneasilybelost
+oncewelowerthenumberdatasetsthatwillbeused.
+Ouranalysishasindicatedseveraldifferenthealthrisksthatmayoccurwithincreasingexposureto
+spaceradiation. Throughanunbiasedtechniquepurelydrivenbystatisticsandutilizingalargeamount
+oftranscriptomicdatafromNASA’sGeneLabplatform,wewereabletoidentifytissue-independent
+biological pathways that are dysregulated as a function of space radiation dose. We believe this
+techniquecanfurtherbeusedwithotherdatasetsanddatabasestogeneratemorehypothesesthat
+willassistwithdeterminingoptimaltherapeuticcountermeasuresandtargetsthatcanmitigatespace
+radiationresponseinhumans.
+4. MaterialsandMethods
+4.1. ChromosomalandSubsitutionErrorRateMapping
+TwomouseliverRNA-sequencingdatasets(GLDS-168andGLDS-242)fromNASAspaceflight
+experimentswerespecificallyanalyzedforchromosomalorsubstitutionerrorrates. Compressedfastq
+fileswerecleanedusingTRIMgalore(v0.6.4,https://github.com/FelixKrueger/TrimGalore/blob/master/
+Docs/Trim_Galore_User_Guide.md)toremoveadaptersandbasesfallingbelowaQ20Phredquality
+score. Pairedreadswerealignedtothemousemm10referencegenomeusingbowtie2(v2.3.4.1,)andthe
+outputpipedthroughsamtoolstogenerateabamfile. Thebamfilehadreadgroupinformationadded
+andwascoordinatesortedusingPicardtools(v2.21.3,). MappingmetricswerecalculatedusingPicard
+toolsandfinalmismatches(MNflag)extractedwithgenomiccoordinatesusingBedtools(v2.26.0,
+https://bedtools.readthedocs.io/en/latest/). DatawereanalyzedinRtodeterminethefrequencyof
+mismatcheswithrespecttochromosomenumberandplotted. MappingqualitydatafromPicardtools
+wasanalyzedusingGraphpadPrism(v7.0,GraphPadSoftware,LaJollaCaliforniaUSA).
+4.2. Bioinformatics,GeneSetEnrichmentAnalysis,andVisulizationUsingCytoscape
+The transcriptome datasets used for this study were from openly available data housed by
+NASA’s GeneLab platform (genelab.nasa.gov,). There was a total of 25 GeneLab datasets (GLDS)
+with30experimentalcomparisonsfromRNA-sequencingormicroarrayplatforms(Table1). Data
+pre-processingwasperformedaspreviouslypublishedtoobtainnormalizedexpressionvaluesfor
+themajorityofthedatasets[32,33,42]. ForGLDS-73,humanbronchialepithelialcells(HBECs)were
+exposedtogamma-rays(1Gyor3Gy),iron(56Fe),orsilicon(26Si)particles(0.5Gyor1Gyeach). RNA
+extractionwasexecuted1hrafterexposureandthetranscriptomedatawereevaluatebymicroarray
+technologyusingtheIlluminaHumanWG-6V2BeadChip(Illumina, Inc.)[52]. Therawdatafiles
+werenormalizedusingthequantilemethodandthenbackgroundsubtractionwasperformedusingR
+PackagePIMENTo(v1.0).
+Fold-changevaluesbetweenspaceflight/radiationexposureversusground/controlsampleswere
+calculatedandusedforgenesetenrichmentanalysis(GSEA,)withthreemolecularsignaturedataset
+collections (C2, C5, and C6 gene sets) [54]. These results were imported into Cytoscape (v3.7) for
+furthervisualizationandinterpretationbytheEnrichmentMaptool[96]. Onlygenesetnodeswith
+afalse-detectionrate(FDR)<0.25inatleast50%ofthetotaldatasetsanalyzedwereconsideredfor
+network evaluation. To reduce the complexity of the newly developed networks, we utilized the
+AutoAnnotatetool(v1.3.2,http://baderlab.org/Software/AutoAnnotate)inCytoscapetogroup-related
+genesetnodestogether. Thenewlyannotatedgenesetswerethenusedforfurtheranalysis.
+4.3. PrincipalComponentAnalysis,t-DistributedStochasticNeighborEmbedding,k-MeansClustering,
+Heatmaps,andGeneralizedAdditiveModelFits
+TheGSEA-producednominalenrichmentscores(NES)werecomparedusingprinciplecomponent
+analysis(PCA)plotsfromtheR-programpca3d(v0.10,https://cran.r-project.org/web/packages/pca3d/
+Cancers2020,12,381 17of23
+pca3d.pdf) [97], and t-distributed stochastic neighbor embedding (t-SNE) plots using R-program
+Rtsne (v0.15, https://cran.r-project.org/web/packages/Rtsne/Rtsne.pdf). Further characterization
+was performed by hierarchical k-means clustering on the NES. Heatmaps were generated using
+theR-programpheatmap(v1.0.12,https://cran.r-project.org/web/packages/pheatmap/pheatmap.pdf).
+Theauto-annotatedgenesetsforeachk-meansclusterwerethenplottedwiththeNESversusthedose
+forassociatedforeachGeneLabdataset(Table1)withR-programggplot2(v3.2.1,). Datapointswere
+thenfitusingageneralizedadditivemodel(GAM)[55,56]acrossalldoserangesfrom1to1000mGy
+withR-programmgcv(v1.8-28,https://cran.r-project.org/web/packages/mgcv/mgcv.pdf)
+4.4. AnalysisonCommonIndividualGeneswithFold-ChangeValuesandFitsasaFunctionofDose
+Atotalof19spaceflightstudiesand3groundstudieswereselectedfromtheGeneLabdatabase.
+Table1summarizesthedatasetsincludingthetissue,species,theradiationtype,andthemeasureddose.
+Fromeachstudy,thefold-changevaluebetweenirradiatedandcontrolforeachgenewascalculated.
+Forspaceflightstudies,thelog fold-changewascomputedastheratioofthespaceflightmeasurement
+2
+toagroundcontrolvalue. Instudieswhereterrestrialmeasurementsforgroundcontrolvalueswere
+madeinbothananimalenclosuremodule(AEM,alsoreferredtoastheRodentHabitat)andavivarium,
+theAEMgroundcontrolvaluewasusedduetothesimilarmoduleconditionsexperiencedbytissue
+inthespaceflightAEMs. Fortheterrestrialstudiesthatsimulatedspaceradiation,theexperimental
+valueswerethesamplesthatwereirradiatedwithaspecificion(i.e.,56Fe,26Si,orproton)comparedto
+theshamunirradiatedsamplesclosesttothetimeofirradiation. Acrossallofthestudies,themost
+commongenesprobedwerechosen,whichproducedninegenespresentwithalltheGLDSsetsusedfor
+thismanuscript. Apolynomialofdegree2wasfittothedataintherange1–1000mGyforalldatasets.
+Forfitsinvolvingonlyspaceflightsamplesandonlymuscletissues,duetothesmallerrangeofdoses
+upto30mGy,datawerefitusingapolynomialofdegree1. Allfitswereperformedusingachi-square
+methodviaCERN’sROOTtoolkit(v.6.18/02,)[98]. TheninegeneswereenteredinToppCluster[99]to
+determinethepredictedpathwaysandfunctionsthesegeneswillimpact. TheresultsfromToppCluster
+wereimportedintoCytoscape,wherethepredictedfunctionsweredisplayedasanetwork.
+5. Conclusions
+ThisworkisanexampleofhowGeneLab’srichdatabaseofomicsexperimentswithanimalmodels
+canbeexploitedtobetterunderstandtheeffectsofionizingradiationandtheresultingpotentialrisks
+tohumans. Thislarge-scaleanalysisofmultipletranscriptomedatasetsincludingRNA-sequencing
+andmicroarraydatasetsprovidesavaluableexaminationofdose-dependentperturbationsofcellular
+functionacrossmultipletissuetypesinanimalmodels. Individually,theseexperimentswerelimitedby
+flightduration,resultinginasingleaccumulateddosefromamictureofparticlesor,inground-based
+studies,exposuretoasingleparticlespecies. Whenanalyzingmultiplemoleculardatabasesusingour
+approachtomanyomicsdatasets,amorecomprehensiveanalysisofsignificantlyimpactedbiological
+factorscanbeobtainedthanwaspreviouslypossible.
+SupplementaryMaterials: Thefollowingareavailableonlineathttp://www.mdpi.com/2072-6694/12/2/381/s1:
+FigureS1: Principalcomponentanalysis(PCA)plotsonGeneLabdatasets(GLDS)usingthegenesetenrichment
+analysis (GSEA) nominal enrichment scores before (top row) and after (bottom row) auto-annotation using
+Cytoscape’senrichmentmapsoftware,FigureS2: t-Distributedstochasticneighborembedding(tSNE)plotson
+GeneLabdatasets(GLDS)usingthegenesetenrichmentanalysis(GSEA)nominalenrichmentscoresbefore(top
+row)andafter(bottomrow)auto-annotationusingCytoscape’senrichmentmapsoftware,FigureS3: t-Distributed
+stochasticneighborembedding(tSNE)plotsonGeneLabdatasets(GLDS)usingthegenesetenrichmentanalysis
+(GSEA)nominalenrichmentscoresbefore(toprow)andafter(bottomrow)auto-annotationusingCytoscape’s
+enrichmentmapsoftware,FigureS4: AnalysisofallGeneLabdatasetsutilizedfordirectcomparisonswithGene
+Ontology(GO)GSEAanalysiswithfalsediscoveryrate(FDR)<0.05forthreedatasets, FigureS5: Analysis
+ofallGeneLabdatasetsutilizedfordirectcomparisonswithGeneOntology(GO)GSEAanalysiswithFDR<
+0.05forthreedatasetsforcluster2,FigureS6: AnalysisofallGeneLabDatasetsutilizedfordirectcomparisons
+withGeneOntology(GO)GSEAanalysiswithFDR<0.05forthreedatasetsforcluster3,FigureS7: Scatter
+plotscomparingthenormalizedenrichmentscores(NES)todoseinmGyandfitswithageneralizedadditive
+model(GAM)oneachcluster(representedinFigureS4),FigureS8: Scatterplotscomparingthenormalized
+Cancers2020,12,381 18of23
+enrichmentscores(NES)todoseinmGyandfitswithageneralizedadditivemodel(GAM)oneachcluster
+(representedinFigureS5),FigureS9: Scatterplotscomparingthenormalizedenrichmentscores(NES)todosein
+mGyandfitswithageneralizedadditivemodel(GAM)oneachcluster(representedinFigureS5),FigureS10:
+AnalysisofallGeneLabDatasetsutilizedfordirectcomparisonswithC2curatedgenesetsGSEAanalysiswith
+FDR<0.05forthreedatasets,FigureS11: AnalysisofallGeneLabdatasetsutilizedfordirectcomparisonswith
+C2-curatedgenesetGSEAanalysiswithFDR<0.05forthreedatasetsforcluster1,FigureS12: Analysisofall
+GeneLabdatasetsutilizedfordirectcomparisonswithC2-curatedgenesetGSEAanalysiswithFDR<0.05for
+threedatasetsforcluster2,FigureS13: AnalysisofallGeneLabdatasetsutilizedfordirectcomparisonswith
+C2-curatedgenesetGSEAanalysiswithFDR<0.05forthreedatasetsforcluster3,FigureS14: Scatterplots
+comparingthenormalizedenrichmentscores(NES)todoseinmGyandfitswithageneralizedadditivemodel
+(GAM)oneachcluster(representedinFigureS10),FigureS15: Scatterplotscomparingthenormalizedenrichment
+scores(NES)todoseinmGyandfitswithageneralizedadditivemodel(GAM)oneachcluster(representedin
+FigureS11),FigureS16: Scatterplotscomparingthenormalizedenrichmentscores(NES)todoseinmGyandfits
+withageneralizedadditivemodel(GAM)oneachcluster(representedinFigureS12),FigureS17: Scatterplots
+comparingthenormalizedenrichmentscores(NES)todoseinmGyandfitswithageneralizedadditivemodel
+(GAM)oneachcluster(representedinFigureS13),FigureS18: AnalysisofallGeneLabdatasetsutilizedfordirect
+comparisonswithC6OncogenicSignatureGSEAanalysiswithFDR<0.05forthreedatasets,FigureS19: Analysis
+ofallGeneLabdatasetsutilizedfordirectcomparisonswithC6OncogenicSignatureGSEAanalysiswithFDR<
+0.05forthreedatasetsforcluster1,FigureS20: Scatterplotscomparingthenormalizedenrichmentscores(NES)
+todoseinmGyandfitswithageneralizedadditivemodel(GAM)oneachcluster(representedinFigureS18),
+FigureS21: Scatterplotscomparingthenormalizedenrichmentscores(NES)todoseinmGyandfitswitha
+generalizedadditivemodel(GAM)oneachcluster(representedinFigureS19),TableS1: Dosesanddoseratesfor
+ground-basedexposuresattheNASASpaceRadiationLaboratory(NSRL)atBrookhavenNationalLaboratory.
+AuthorContributions: Individualcontributionswereasfollows: conceptualization,A.B.;methodology,A.B.,
+J.T.M,R.M.andR.S.;formalanalysis,A.B.,R.M.,R.S.,T.C.,W.A.d.S.,K.S.R.,D.T.andJ.T.M.;investigation,A.B.,
+J.T.M.,R.M.andR.S.;resources,R.M.,D.T.,G.H.,S.V.C.andV.C.;datacuration,J.M.andA.B.;writing—original
+draftpreparation,J.T.MandA.B.;writing—reviewandediting,V.C.,D.T.,W.A.S.,S.V.C.,R.M.,R.S.,J.M.,A.B.
+andJ.T.M.;visualization,A.B.,R.M.andR.S.;supervision,A.B.;projectadministration,A.B.;fundingacquisition,
+S.V.C.Allauthorshavereadandagreedtothepublishedversionofthemanuscript.
+Funding: ResearchfundingwasprovidedbytheGeneLabProjectatNASAAmesResearchCenter,through
+NASA’sSpaceBiologyProgramintheDivisionofSpaceLifeandPhysicalSciencesResearchandApplications
+(SLPSRA).AnyuseoftradenamesisfordescriptivepurposesonlyanddoesnotimplyendorsementbytheU.S.
+Government. R.M.isfundedbyU54CA118638fromNCI/NIHandMD007602.
+ConflictsofInterest: Theauthorsdeclarenoconflictofinterest.
+References
+1. Chancellor,J.C.;Scott,G.B.;Sutton,J.P.SpaceRadiation: TheNumberOneRisktoAstronautHealthbeyond
+LowEarthOrbit. Life(Basel)2014,4,491–510. [CrossRef]
+2. Blaber, E.A.; Dvorochkin, N.; Lee, C.; Alwood, J.S.; Yousuf, R.; Pianetta, P.; Globus, R.K.; Burns, B.P.;
+Almeida,E.A.Microgravityinducespelvicbonelossthroughosteoclasticactivity,osteocyticosteolysis,and
+osteoblasticcellcycleinhibitionbyCDKN1a/p21. PLoSONE2013,8,e61372. [CrossRef]
+3. Riley, D.A. Review of primary spaceflight-induced and secondary reloading-induced changes in slow
+antigravitymusclesofrats. Adv. SpaceRes. 1998,21,1073–1075. [CrossRef]
+4. Baldwin,K.M.Effectofspaceflightonthefunctional, biochemical, andmetabolicpropertiesofskeletal
+muscle. Med. Sci. SportsExerc. 1996,28,983–987. [CrossRef][PubMed]
+5. Gambara,G.; Salanova,M.; Ciciliot,S.; Furlan,S.; Gutsmann,M.; Schiffl,G.; Ungethuem,U.; Volpe,P.;
+Gunga,H.C.;Blottner,D.GeneExpressionProfilinginSlow-TypeCalfSoleusMuscleof30DaysSpace-Flown
+Mice. PLoSONE2017,12,e0169314. [CrossRef][PubMed]
+6. Mishra,B.;Luderer,U.Reproductivehazardsofspacetravelinwomenandmen. Nat. Rev. Endocrinol. 2019,
+15,713–730. [CrossRef]
+7. Cucinotta,F.A.;Cacao,E.Risksofcognitivedetrimentsafterlowdoseheavyionandprotonexposures. Int.J.
+Radiat. Biol. 2019,95,985–998. [CrossRef]
+8. Rabin,B.M.;Shukitt-Hale,B.;Joseph,J.;Todd,P.Dietasafactorinbehavioralradiationprotectionfollowing
+exposuretoheavyparticles. Gravit. SpaceBiol. Bull. 2005,18,71–77.
+9. Dutta,S.M.;Hadley,M.M.;Peterman,S.;Jewell,J.S.;Duncan,V.D.;Britten,R.A.QuantitativeProteomic
+AnalysisoftheHippocampusofRatswithGCR-InducedSpatialMemoryImpairment. Radiat. Res. 2018,
+189,136–145. [CrossRef]
+Cancers2020,12,381 19of23
+10. Shen,M.;Frishman,W.H.EffectsofSpaceflightonCardiovascularPhysiologyandHealth. Cardiol. Rev. 2019,
+27,122–126. [CrossRef]
+11. Boerma,M.;Nelson,G.A.;Sridharan,V.;Mao,X.W.;Koturbash,I.;Hauer-Jensen,M.Spaceradiationand
+cardiovasculardiseaserisk. WorldJ.Cardiol. 2015,7,882–888. [CrossRef][PubMed]
+12. Raghunathan, D.; Khilji, M.I.; Hassan, S.A.; Yusuf, S.W. Radiation-Induced Cardiovascular Disease.
+Curr.Atheroscler. Rep. 2017,19,22. [CrossRef]
+13. Hanahan,D.;Weinberg,R.A.Hallmarksofcancer: thenextgeneration. Cell2011,144,646–674. [CrossRef]
+[PubMed]
+14. Barcellos-Hoff,M.H.;Blakely,E.A.;Burma,S.;Fornace,A.J.;Gerson,S.;Hlatky,L.;Kirsch,D.G.;Luderer,U.;
+Shay,J.;Wang,Y.;etal. Conceptsandchallengesincancerriskpredictionforthespaceradiationenvironment.
+LifeSci. SpaceRes. (Amst)2015,6,92–103. [CrossRef][PubMed]
+15. Vidyasekar,P.;Shyamsunder,P.;Arun,R.;Santhakumar,R.;Kapadia,N.K.;Kumar,R.;Verma,R.S.Genome
+WideExpressionProfilingofCancerCellLinesCulturedinMicrogravityRevealsSignificantDysregulation
+ofCellCycleandMicroRNAGeneNetworks. PLoSONE2015,10,e0135958. [CrossRef][PubMed]
+16. Yatagai,F.;Honma,M.;Dohmae,N.;Ishioka,N.Biologicaleffectsofspaceenvironmentalfactors: Apossible
+interactionbetweenspaceradiationandmicrogravity. LifeSci. SpaceRes. (Amst)2019,20,113–123. [CrossRef]
+17. Maxwell,C.A.;Fleisch,M.C.;Costes,S.V.;Erickson,A.C.;Boissiere,A.;Gupta,R.;Ravani,S.A.;Parvin,B.;
+Barcellos-Hoff,M.H.Targetedandnontargetedeffectsofionizingradiationthatimpactgenomicinstability.
+CancerRes. 2008,68,8304–8311. [CrossRef]
+18. Crucian, B.E.; Chouker, A.; Simpson, R.J.; Mehta, S.; Marshall, G.; Smith, S.M.; Zwart, S.R.; Heer, M.;
+Ponomarev, S.; Whitmire, A.; et al. Immune System Dysregulation During Spaceflight: Potential
+CountermeasuresforDeepSpaceExplorationMissions. FrontImmunol. 2018,9,1437. [CrossRef]
+19. Michaletti, A.; Gioia, M.; Tarantino, U.; Zolla, L. Effects of microgravity on osteoblast mitochondria:
+Aproteomicandmetabolomicsprofile. Sci. Rep. 2017,7,15376. [CrossRef]
+20. Andreazzoli,A.;Fossati,C.;Spaccamiglio,A.;Salvo,R.;Quaranta,F.;Minganti,C.;DiLuigi,L.;Borrione,P.
+AssessmentofpN-GALasamarkerofrenalfunctioninelitecyclistsduringprofessionalcompetitions. J.Biol.
+Regul. HomeostAgents2017,31,829–835.
+21. Garrett-Bakelman,F.E.;Darshi,M.;Green,S.J.;Gur,R.C.;Lin,L.;Macias,B.R.;McKenna,M.J.;Meydan,C.;
+Mishra,T.;Nasrini,J.;etal. TheNASATwinsStudy: Amultidimensionalanalysisofayear-longhuman
+spaceflight. Science2019,364. [CrossRef]
+22. Gao, Y.; Xu, D.; Zhao, L.; Zhang, M.; Sun, Y. Effects of microgravity on DNA damage response in
+CaenorhabditiselegansduringShenzhou-8spaceflight. Int. J.Radiat. Biol. 2015,91,531–539. [CrossRef]
+[PubMed]
+23. Ray,S.;Gebre,S.;Fogle,H.;Berrios,D.C.;Tran,P.B.;Galazka,J.M.;Costes,S.V.GeneLab: Omicsdatabasefor
+spaceflightexperiments. Bioinformatics2019,35,1753–1759. [CrossRef][PubMed]
+24. LaTessa,C.;Sivertz,M.;Chiang,I.H.;Lowenstein,D.;Rusek,A.OverviewoftheNASAspaceradiation
+laboratory. LifeSci. SpaceRes. (Amst)2016,11,18–23. [CrossRef]
+25. Casey,T.; Patel,O.V.; Plaut,K.Transcriptomesrevealalterationsingravityimpactcircadianclocksand
+activatemechanotransductionpathwayswithadaptationthroughepigeneticchange. Physiol. Genom. 2015,
+47,113–128. [CrossRef]
+26. Patel,O.V.;Casey,T.;Dover,H.;Plaut,K.Homeorheticadaptationtolactation: comparativetranscriptome
+analysisofmammary,liver,andadiposetissueduringthetransitionfrompregnancytolactationinrats.
+Funct. Integr. Genom. 2011,11,193–202. [CrossRef]
+27. Casey,T.;Patel,O.;Dykema,K.;Dover,H.;Furge,K.;Plaut,K.Molecularsignaturesrevealcircadianclocks
+mayorchestratethehomeorheticresponsetolactation. PLoSONE2009,4,e7395. [CrossRef]
+28. Versari,S.;Longinotti,G.;Barenghi,L.;Maier,J.A.;Bradamante,S.Thechallengingenvironmentonboardthe
+InternationalSpaceStationaffectsendothelialcellfunctionbytriggeringoxidativestressthroughthioredoxin
+interactingproteinoverexpression: theESA-SPHINXexperiment. FASEBJ.2013,27,4466–4475. [CrossRef]
+29. Beheshti, A.; McDonald, J.T.; Miller, J.; Grabham, P.; Costes, S.V. GeneLab Database Analyses Suggest
+Long-TermImpactofSpaceRadiationontheCardiovascularSystembytheActivationofFYNThrough
+ReactiveOxygenSpecies. Int. J.Mol. Sci. 2019,20,661. [CrossRef]
+Cancers2020,12,381 20of23
+30. Lu,T.;Zhang,Y.;Kidane,Y.;Feiveson,A.;Stodieck,L.;Karouia,F.;Ramesh,G.;Rohde,L.;Wu,H.Cellular
+responsesandgeneexpressionprofilechangesduetobleomycin-inducedDNAdamageinhumanfibroblasts
+inspace. PLoSONE2017,12,e0170358. [CrossRef]
+31. Allen,D.L.;Bandstra,E.R.;Harrison,B.C.;Thorng,S.;Stodieck,L.S.;Kostenuik,P.J.;Morony,S.;Lacey,D.L.;
+Hammond,T.G.;Leinwand,L.L.;etal. Effectsofspaceflightonmurineskeletalmusclegeneexpression. J.
+Appl. Physiol. (1985)2009,106,582–595. [CrossRef][PubMed]
+32. Beheshti,A.;Ray,S.;Fogle,H.;Berrios,D.;Costes,S.V.AmicroRNAsignatureandTGF-beta1responsewere
+identifiedasthekeymasterregulatorsforspaceflightresponse. PLoSONE2018,13,e0199621. [CrossRef]
+[PubMed]
+33. Beheshti,A.; Cekanaviciute,E.; Smith,D.J.; Costes,S.V.Globaltranscriptomicanalysissuggestscarbon
+dioxideasanenvironmentalstressorinspaceflight: AsystemsbiologyGeneLabcasestudy. Sci. Rep. 2018,
+8,4191. [CrossRef][PubMed]
+34. Lebsack,T.W.;Fa,V.;Woods,C.C.;Gruener,R.;Manziello,A.M.;Pecaut,M.J.;Gridley,D.S.;Stodieck,L.S.;
+Ferguson,V.L.;Deluca,D.Microarrayanalysisofspaceflownmurinethymustissuerevealschangesingene
+expressionregulatingstressandglucocorticoidreceptors. J.CellBiochem. 2010,110,372–381. [CrossRef]
+35. Globus,R.;Cadena,S.RodentResearch-1(RR1)NationalLabValidationFlight: MouseLiverTranscriptomic,
+Proteomic,andEpigenomicData. Availableonline: https://genelab-data.ndc.nasa.gov/genelab/accession/
+GLDS-47/(accessedon5February2020).
+36. Gridley,D.S.;Mao,X.W.;Stodieck,L.S.;Ferguson,V.L.;Bateman,T.A.;Moldovan,M.;Cunningham,C.E.;
+Jones,T.A.;Slater,J.M.;Pecaut,M.J.ChangesinmousethymusandspleenafterreturnfromtheSTS-135
+missioninspace. PLoSONE2013,8,e75097. [CrossRef]
+37. Mao,X.W.;Pecaut,M.J.;Stodieck,L.S.;Ferguson,V.L.;Bateman,T.A.;Bouxsein,M.;Jones,T.A.;Moldovan,M.;
+Cunningham,C.E.;Chieu,J.;etal. Spaceflightenvironmentinducesmitochondrialoxidativedamagein
+oculartissue. Radiat. Res. 2013,180,340–350. [CrossRef]
+38. Jonscher,K.R.;Alfonso-Garcia,A.;Suhalim,J.L.;Orlicky,D.J.;Potma,E.O.;Ferguson,V.L.;Bouxsein,M.L.;
+Bateman,T.A.; Stodieck,L.S.; Levi,M.; etal. SpaceflightActivatesLipotoxicPathwaysinMouseLiver.
+PLoSONE2016,11,e0152877. [CrossRef]
+39. Pecaut, M.J.; Mao, X.W.; Bellinger, D.L.; Jonscher, K.R.; Stodieck, L.S.; Ferguson, V.L.; Bateman, T.A.;
+Mohney, R.P.; Gridley, D.S. Is spaceflight-induced immune dysfunction linked to systemic changes in
+metabolism? PLoSONE2017,12,e0174174. [CrossRef]
+40. Blaber,E.A.;Pecaut,M.J.;Jonscher,K.R.SpaceflightActivatesAutophagyProgramsandtheProteasomein
+MouseLiver. Int. J.Mol. Sci. 2017,18,2062. [CrossRef]
+41. Mao,X.W.;Pecaut,M.J.;Stodieck,L.S.;Ferguson,V.L.;Bateman,T.A.;Bouxsein,M.L.;Gridley,D.S.Biological
+andmetabolicresponseinSTS-135space-flownmouseskin. FreeRadic. Res. 2014,48,890–897. [CrossRef]
+42. Beheshti, A.; Chakravarty, K.; Fogle, H.; Fazelinia, H.; Silveira, W.A.D.; Boyko, V.; Polo, S.L.;
+Saravia-Butler,A.M.;Hardiman,G.;Taylor,D.;etal. Multi-omicsanalysisofmultiplemissionstospace
+revealathemeoflipiddysregulationinmouseliver. Sci. Rep. 2019,9,19195. [CrossRef][PubMed]
+43. GlobusR,G.N.RodentResearch-1(RR1)NASAValidationFlight:MouseEyeTranscriptomicandEpigenomic
+Data. Available online: https://genelab-data.ndc.nasa.gov/genelab/accession/GLDS-100/ (accessed on
+5February2020).
+44. Jiang,P.;Green,S.J.;Chlipala,G.E.;Turek,F.W.;Vitaterna,M.H.Reproduciblechangesinthegutmicrobiome
+suggestashiftinmicrobialandhostmetabolismduringspaceflight. Microbiome2019,7,113. [CrossRef]
+[PubMed]
+45. Galazka,J.EffectofSpaceflightonLiverfromMiceFlownontheISSfor33Days: TranscriptionalAnalysis.
+NASAGENELAB:2019. Availableonline: https://genelab-data.ndc.nasa.gov/genelab/accession/GLDS-242/.
+(accessedon5February2020).
+46. Smith R, C.M.G.R.G.N. Rodent Research-3-CASIS: Mouse Adrenal Gland Transcriptomic, Proteomic,
+andEpigenomicData. Availableonline: https://genelab-data.ndc.nasa.gov/genelab/accession/GLDS-161/
+(accessedon5February2020).
+47. SmithR,C.M.G.R.G.N.RodentResearch-3-CASIS:MouseEyeTranscriptomicandProteomicData. Available
+online: https://genelab-data.ndc.nasa.gov/genelab/accession/GLDS-162/(accessedon5February2020).
+Cancers2020,12,381 21of23
+48. SmithR,C.M.G.R.G.N.RodentResearch-3-CASIS:MouseKidneyTranscriptomic,Proteomic,andEpigenomic
+Data. Available online: https://genelab-data.ndc.nasa.gov/genelab/accession/GLDS-163/ (accessed on 5
+February2020).
+49. Neutelings,T.;Nusgens,B.V.;Liu,Y.;Tavella,S.;Ruggiu,A.;Cancedda,R.;Gabriel,M.;Colige,A.;Lambert,C.
+Skinphysiologyinmicrogravity: A3-monthstayaboardISSinducesdermalatrophyandaffectscutaneous
+muscleandhairfolliclescyclinginmice. NPJMicrogravity2015,1,15002. [CrossRef][PubMed]
+50. Tang,J.;Fernandez-Garcia,I.;Vijayakumar,S.;Martinez-Ruis,H.;Illa-Bochaca,I.;Nguyen,D.H.;Mao,J.H.;
+Costes,S.V.;Barcellos-Hoff,M.H.Irradiationofjuvenile,butnotadult,mammaryglandincreasesstemcell
+self-renewalandestrogenreceptornegativetumors. StemCells2014,32,649–661. [CrossRef][PubMed]
+51. Coleman, M.A.; Sasi, S.P.; Onufrak, J.; Natarajan, M.; Manickam, K.; Schwab, J.; Muralidharan, S.;
+Peterson,L.E.;Alekseyev,Y.O.;Yan,X.;etal. Low-doseradiationaffectscardiacphysiology: genenetworks
+andmolecularsignalingincardiomyocytes. Am. J.Physiol. HeartCirc. Physiol. 2015,309,H1947–H1963.
+[CrossRef]
+52. Ding,L.H.;Park,S.;Peyton,M.;Girard,L.;Xie,Y.;Minna,J.D.;Story,M.D.Distincttranscriptomeprofiles
+identifiedinnormalhumanbronchialepithelialcellsafterexposuretogamma-raysanddifferentelemental
+particlesofhighZandenergy. BMCGenom. 2013,14,372. [CrossRef]
+53. Alexeyev,M.;Shokolenko,I.;Wilson,G.;LeDoux,S.ThemaintenanceofmitochondrialDNAintegrity–critical
+analysisandupdate. ColdSpringHarb. Perspect. Biol. 2013,5,a012641. [CrossRef]
+54. Subramanian, A.; Tamayo, P.; Mootha, V.K.; Mukherjee, S.; Ebert, B.L.; Gillette, M.A.; Paulovich, A.;
+Pomeroy,S.L.;Golub,T.R.;Lander,E.S.;etal.Genesetenrichmentanalysis:Aknowledge-basedapproachfor
+interpretinggenome-wideexpressionprofiles. Proc. Natl. Acad. Sci. USA2005,102,15545–15550. [CrossRef]
+55. Hastie,T.;Tibshirani,R.GeneralizedAdditiveModels. Stat. Sci. 1986,1,297–310. [CrossRef]
+56. Wood,S.N.;Pya,N.;Säfken,B.SmoothingParameterandModelSelectionforGeneralSmoothModels. J.
+Am. Stat. Assoc. 2015,111,1548–1563. [CrossRef]
+57. Moreno-Villanueva,M.;Wong,M.;Lu,T.;Zhang,Y.;Wu,H.Interplayofspaceradiationandmicrogravityin
+DNAdamageandDNAdamageresponse. NPJMicrogravity2017,3,14. [CrossRef][PubMed]
+58. Raber,J.;Allen,A.R.;Sharma,S.;Allen,B.;Rosi,S.;Olsen,R.H.;Davis,M.J.;Eiwaz,M.;Fike,J.R.;Nelson,G.A.
+Effects of Proton and Combined Proton and (56)Fe Radiation on the Hippocampus. Radiat. Res. 2016,
+185,20–30. [CrossRef][PubMed]
+59. Martinez,E.M.;Yoshida,M.C.;Candelario,T.L.;Hughes-Fulford,M.Spaceflightandsimulatedmicrogravity
+causeasignificantreductionofkeygeneexpressioninearlyT-cellactivation. Am. J.Physiol. Regul. Integr.
+Comp. Physiol. 2015,308,R480–R488. [CrossRef][PubMed]
+60. Beheshti,A.;Peluso,M.;Lamont,C.;Hahnfeldt,P.;Hlatky,L.Protonirradiationaugmentsthesuppression
+oftumorprogressionobservedwithadvancedage. Radiat. Res. 2014,181,272–283. [CrossRef]
+61. Beheshti, A.; Sachs, R.K.; Peluso, M.; Rietman, E.; Hahnfeldt, P.; Hlatky, L. Age and space irradiation
+modulatetumorprogression: implicationsforcarcinogenesisrisk. Radiat. Res. 2013,179,208–220. [CrossRef]
+[PubMed]
+62. Wage,J.;Ma,L.;Peluso,M.;Lamont,C.;Evens,A.M.;Hahnfeldt,P.;Hlatky,L.;Beheshti,A.Protonirradiation
+impacts age-driven modulations of cancer progression influenced by immune system transcriptome
+modificationsfromsplenictissue. J.Radiat. Res. 2015,56,792–803. [CrossRef]
+63. Balbo,B.E.;Amaral,A.G.;Fonseca,J.M.;deCastro,I.;Salemi,V.M.;Souza,L.E.;DosSantos,F.;Irigoyen,M.C.;
+Qian,F.;Chammas,R.;etal. CardiacdysfunctioninPkd1-deficientmicewithphenotyperescuebygalectin-3
+knockout. KidneyInt. 2016,90,580–597. [CrossRef]
+64. Galant,D.;Gaborit,B.;Desgrouas,C.;Abdesselam,I.;Bernard,M.;Levy,N.;Merono,F.;Coirault,C.;Roll,P.;
+Lagarde,A.; etal. AHeterozygousZMPSTE24MutationAssociatedwithSevereMetabolicSyndrome,
+EctopicFatAccumulation,andDilatedCardiomyopathy. Cells2016,5,21. [CrossRef]
+65. Olabi,A.A.;Lawless,H.T.;Hunter,J.B.;Levitsky,D.A.;Halpern,B.P.Theeffectofmicrogravityandspace
+flightonthechemicalsenses. J.FoodSci. 2002,67,468–478. [CrossRef]
+66. Mukhopadhyay,S.;Saha,R.;Palanisamy,A.;Ghosh,M.;Biswas,A.;Roy,S.;Pal,A.;Sarkar,K.;Bagh,S.
+Asystemsbiologypipelineidentifiesnewimmuneanddiseaserelatedmolecularsignaturesandnetworks
+inhumancellsduringmicrogravityexposure. Sci. Rep. 2016,6,25975. [CrossRef]
+67. Vickers,Z.M.;Rice,B.L.;Rose,M.S.;Lane,H.W.Simulatedmicrogravity[bedrest]haslittleinfluenceon
+taste,odorortrigeminalsensitivity. J.Sens. Stud. 2001,16,23–32. [CrossRef][PubMed]
+Cancers2020,12,381 22of23
+68. Wang,X.N.;Su,X.X.;Cheng,S.Q.;Sun,Z.Y.;Huang,Z.S.;Ou,T.M.MYCmodulatorsincancer: Apatent
+review. ExpertOpin. Ther. Pat. 2019,29,353–367. [CrossRef][PubMed]
+69. Garcia-Gutierrez,L.;Delgado,M.D.;Leon,J.MYCOncogeneContributionstoReleaseofCellCycleBrakes.
+Genes(Basel)2019,10,244. [CrossRef][PubMed]
+70. Xu,C.Areviewofsomaticsinglenucleotidevariantcallingalgorithmsfornext-generationsequencingdata.
+Comput. Struct. Biotechnol. J.2018,16,15–24. [CrossRef]
+71. Beheshti,A.;Miller,J.;Kidane,Y.;Berrios,D.;Gebre,S.G.;Costes,S.V.NASAGeneLabProject: Bridging
+SpaceRadiationOmicswithGroundStudies. RadiatRes. 2018,189,553–559. [CrossRef]
+72. Asaithamby,A.;Chen,D.J.MechanismofclusterDNAdamagerepairinresponsetohigh-atomicnumber
+andenergyparticlesradiation. Mutat. Res. 2011,711,87–99. [CrossRef]
+73. Lanza,V.;Pretazzoli,V.;Olivieri,G.;Pascarella,G.;Panconesi,A.;Negri,R.Transcriptionalresponseof
+humanumbilicalveinendothelialcellstolowdosesofionizingradiation. J.Radiat. Res. 2005,46,265–276.
+[CrossRef]
+74. Eberhard,R.;Stergiou,L.;Hofmann,E.R.;Hofmann,J.;Haenni,S.;Teo,Y.;Furger,A.;Hengartner,M.O.
+Ribosome synthesis and MAPK activity modulate ionizing radiation-induced germ cell apoptosis in
+Caenorhabditiselegans. PLoSGenet. 2013,9,e1003943. [CrossRef]
+75. Pucci, M.; Masi, A.; Marsilii, G. Ribosome changes induced by irradiation of isolated rat liver invitro.
+ActaRadiol. Oncol. 1982,21,449–453. [CrossRef]
+76. Kulkarni,R.;Marples,B.;Balasubramaniam,M.;Thomas,R.A.;Tucker,J.D.Mitochondrialgeneexpression
+changesinnormalandmitochondrialmutantcellsafterexposuretoionizingradiation. Radiat. Res. 2010,
+173,635–644. [CrossRef]
+77. Barjaktarovic,Z.; Schmaltz,D.; Shyla,A.; Azimzadeh,O.; Schulz,S.; Haagen,J.; Dorr,W.; Sarioglu,H.;
+Schafer,A.;Atkinson,M.J.;etal. Radiation-inducedsignalingresultsinmitochondrialimpairmentinmouse
+heartat4weeksafterexposuretoX-rays. PLoSONE2011,6,e27811. [CrossRef][PubMed]
+78. Pearce,L.L.;Epperly,M.W.;Greenberger,J.S.;Pitt,B.R.;Peterson,J.IdentificationofRespiratoryComplexes
+IandIIIasMitochondrialSitesofDamageFollowingExposuretoIonizingRadiationandNitricOxide.
+Nitric.Oxide2001,5,128–136. [CrossRef][PubMed]
+79. Yin,Z.;Yang,G.;Deng,S.;Wang,Q.Oxidativestresslevelsanddynamicchangesinmitochondrialgene
+expressioninaradiation-inducedlunginjurymodel. J.Radiat. Res. 2018,60,204–214. [CrossRef][PubMed]
+80. Brush,J.;Lipnick,S.L.;Phillips,T.;Sitko,J.;McDonald,J.T.;McBride,W.H.Molecularmechanismsoflate
+normaltissueinjury. Semin. Radiat. Oncol. 2007,17,121–130. [CrossRef]
+81. Schaue,D.;Kachikwu,E.L.;McBride,W.H.Cytokinesinradiobiologicalresponses: Areview. Radiat. Res.
+2012,178,505–523. [CrossRef]
+82. McBride,W.H.;Ganapathy,E.;Lee,M.H.;Nesseler,J.P.;Nguyen,C.;Schaue,D.Aperspectiveontheimpact
+ofradiationtherapyontheimmunerheostat. Br. J.Radiol. 2017,90,20170272. [CrossRef]
+83. Smith,J.K.IL-6andthedysregulationofimmune,bone,muscle,andmetabolichomeostasisduringspaceflight.
+NPJMicrogravity2018,4,24. [CrossRef]
+84. Crucian, B.E.; Zwart, S.R.; Mehta, S.; Uchakin, P.; Quiriarte, H.D.; Pierson, D.; Sams, C.F.; Smith, S.M.
+Plasmacytokineconcentrationsindicatethatinvivohormonalregulationofimmunityisalteredduring
+long-durationspaceflight. J.InterferonCytokineRes. 2014,34,778–786. [CrossRef]
+85. Shibuya,H.;Yoshitomi,H.;Murata,K.;Kobayashi,S.;Furu,M.;Ishikawa,M.;Fujii,T.;Ito,H.;Matsuda,S.
+TNFalpha,PDGF,andTGFbetasynergisticallyinducesynoviallininghyperplasiaviainduciblePI3Kdelta.
+Mod. Rheumatol. 2015,25,72–78. [CrossRef]
+86. Aula,H.;Skytta,T.;Tuohinen,S.;Luukkaala,T.;Hamalainen,M.;Virtanen,V.;Raatikainen,P.;Moilanen,E.;
+Kellokumpu-Lehtinen,P.L.DecreasesinTGF-beta1andPDGFlevelsareassociatedwithechocardiographic
+changesduringadjuvantradiotherapyforbreastcancer. Radiat. Oncol. 2018,13,201. [CrossRef]
+87. Tsuchida,N.;Murugan,A.K.;Grieco,M.KirstenRas*oncogene: significanceofitsdiscoveryinhuman
+cancerresearch. Oncotarget2016,7,46717–46733. [CrossRef]
+88. Grabham, P.; Sharma, P. The effects of radiation on angiogenesis. Vascular Cell 2013, 5, 19. [CrossRef]
+[PubMed]
+89. HailesellasseSene,K.;Porter,C.J.;Palidwor,G.;Perez-Iratxeta,C.;Muro,E.M.;Campbell,P.A.;Rudnicki,M.A.;
+Andrade-Navarro,M.A.Genefunctioninearlymouseembryonicstemcelldifferentiation. BMCGenom.
+2007,8,85. [CrossRef]
+Cancers2020,12,381 23of23
+90. Mieloch,A.A.;Suchorska,W.M.Theconceptofradiation-enhancedstemcelldifferentiation. Radiol. Oncol.
+2015,49,209–216. [CrossRef]
+91. Chang,H.Y.;Sneddon,J.B.;Alizadeh,A.A.;Sood,R.;West,R.B.;Montgomery,K.;Chi,J.T.;vandeRijn,M.;
+Botstein,D.;Brown,P.O.Geneexpressionsignatureoffibroblastserumresponsepredictshumancancer
+progression: similaritiesbetweentumorsandwounds. PLoSBiol. 2004,2,E7. [CrossRef][PubMed]
+92. Demontis, G.C.; Germani, M.M.; Caiani, E.G.; Barravecchia, I.; Passino, C.; Angeloni, D. Human
+PathophysiologicalAdaptationstotheSpaceEnvironment.FrontPhysiol.2017,8,547.[CrossRef][PubMed]
+93. Chancellor, J.C.; Blue, R.S.; Cengel, K.A.; Aunon-Chancellor, S.M.; Rubins, K.H.; Katzgraber, H.G.;
+Kennedy, A.R. Limitations in predicting the space radiation health risk for exploration astronauts.
+NPJMicrogravity2018,4,8. [CrossRef]
+94. Reisz, J.A.; Bansal, N.; Qian, J.; Zhao, W.; Furdui, C.M. Effects of ionizing radiation on biological
+molecules–mechanisms of damage and emerging methods of detection. Antioxid. Redox Signal. 2014,
+21,260–292. [CrossRef]
+95. Farin,A.M.;Manzo,N.D.;Kirsch,D.G.;Stripp,B.R.Low-andhigh-LETradiationdrivesclonalexpansionof
+lungprogenitorcellsinvivo. Radiat. Res. 2015,183,124–132. [CrossRef]
+96. Merico,D.;Isserlin,R.;Stueker,O.;Emili,A.;Bader,G.D.Enrichmentmap: Anetwork-basedmethodfor
+gene-setenrichmentvisualizationandinterpretation. PLoSONE2010,5,e13984. [CrossRef]
+97. Weiner, J., 3rd; Parida, S.K.; Maertzdorf, J.; Black, G.F.; Repsilber, D.; Telaar, A.; Mohney, R.P.;
+Arndt-Sullivan, C.; Ganoza, C.A.; Fae, K.C.; et al. Biomarkers of inflammation, immunosuppression
+andstresswithactivediseasearerevealedbymetabolomicprofilingoftuberculosispatients. PLoSONE
+2012,7,e40221. [CrossRef]
+98. Brun,R.;Rademakers,F.ROOT—Anobjectorienteddataanalysisframework. Nucl. Instrum. Meth. A.
+1997,389,81–86. [CrossRef]
+99. Kaimal,V.;Bardes,E.E.;Tabar,S.C.;Jegga,A.G.;Aronow,B.J.ToppCluster: Amultiplegenelistfeature
+analyzerforcomparativeenrichmentclusteringandnetwork-baseddissectionofbiologicalsystems. Nucleic
+AcidsRes. 2010,38,W96–W102. [CrossRef][PubMed]
+©2020bytheauthors. LicenseeMDPI,Basel,Switzerland. Thisarticleisanopenaccess
+articledistributedunderthetermsandconditionsoftheCreativeCommonsAttribution
+(CCBY)license(http://creativecommons.org/licenses/by/4.0/).

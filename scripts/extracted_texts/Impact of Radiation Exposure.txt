@@ -1,0 +1,937 @@
+www.nature.com/npjmgrav
+ARTICLE
+OPEN
+Impacts of radiation exposure, hindlimb unloading, and
+recovery on murine skeletal muscle cell telomere length
+✉
+Elisia D. Tichy 1, Ji-Hyung Lee 1,Grant Li1, Katrina N. Estep2, F. BradJohnson2 and FoteiniMourkioti 1,3,4
+Astronautsareexposedtoharshconditions,includingcosmicradiationandmicrogravity.Spaceflightelongateshumantelomeres
+inperipheralblood,whichshortenuponreturntoEarthandapproachbaselinelevelsduringpostflightrecovery.Astronautsalso
+encountermuscle atrophy, losing upto 20%loss ofmuscle mass onspaceflights.Telomere lengthchanges inmuscle cells of
+astronautsremainunexplored.Thisstudyinvestigatestelomerealterationsingroundedmiceexperiencingradiationexposureand
+muscleatrophy,viaahindlimbunloadingspaceflightmimickingmodel.Wefindtelomerelengtheningispresentinmusclestem
+cellsand inmyofiber nuclei,butnot inmuscle-resident endothelial cells. Wefurther assessed telomere lengthinthemodel
+followinghindlimbunloadingrecovery.Wefindthattelomerelengthfailedtoreturntobaselinevalues.Ourresultssuggestarole
+fortelomeresinmuscleacclimatization,whichisrelevantforthewell-beingofastronautsinspace,andupontheirreturntoEarth.
+npjMicrogravity (2023) 9:76 ;https://doi.org/10.1038/s41526-023-00303-1
+INTRODUCTION proliferative capacity, and increased quiescence, but it had little
+In the vacuum of space, astronauts are continuously bombarded effect on differentiative capacity14. Higher dose leg-specific
+by high energy cosmic radiation and must perform missions in radiationexposureshavedemonstratedsimilarresultsonreduced
+microgravity1. A better understanding of the consequences of proliferative capacities of juvenile mice; however, myofiber sizes
+thesetwofactorsonbodyfunctionandphysiologyarecrucialfor and MuSC differentiation effects were present aswell15, suggest-
+ing that level and duration of exposure could have different
+theplanningofsafeandsuccessfullong-durationfuturemissions.
+A major detriment experienced by astronauts in flight is muscle effectson MuSCs, depending onthese factors.
+atrophy,wherea1monthspaceflightcanreducemusclemassby The length of telomeres is an important parameter of tissue
+20% and muscle strength by 30%2. Even with currently proliferative potential16. Telomeres are repetitive sequences
+implemented spaceflight countermeasures, involving rigorous located at the ends of chromosomes, which can function as
+exercise, the deleterious physiological effects of spaceflight in cellular proliferation clocks17. Telomere attrition leads to loss of
+cellular functionality and can lead to stem cell exhaustion in
+muscle atrophy and weakness induction are not completely
+abrogated3–5. In addition to microgravity, astronaut exposure to diseases such as Duchenne muscular dystrophy18,19. Shortened
+telomeres are also correlated with atrophy of many organ
+cosmic radiation can have effects on body systems that are still
+compartments, including brain20, spleen, small intestine, and
+being elucidated. It is well established that the skeletal muscle
+reproductive system, among others21. Additionally, it has been
+atrophy due to exposure to both microgravity and radiation is reportedthattelomeresinculturedmouseandhumanfibroblasts
+problematic because ofits rapidonset andseverity6.
+appear more susceptible than other regions of the genome to
+Muscle stem cells (MuSCs), also called satellite cells, are
+DNAdamage,andtheyexhibitapersistentDNAdamageresponse
+necessaryformuscleformationinembryogenesisandformuscle
+following X-ray irradiation22. Increased DNA damage found at
+growth during childhood and adolescence7,8. In healthy adults,
+telomeres has been associated with telomere attrition and/or
+MuSCs from undamaged muscles remain quiescent. Following
+uncapping and cellular senescence, leading to loss of proper
+injury, such as that arising from strenuous exercise, MuSCs cellularfunctionality23,24.
+become activated, proliferate, and differentiate in a series of Recently, the effects of spaceflight have been meticulously
+coordinated steps, to properly repair muscle damage9. In the investigated in the NASA Twins Study, where effects of preflight,
+contextofmuscleatrophy,MuSCpropertiesarelessclear.Atrophy inflight, and postflight conditions on a monozygotic twin were
+causedbycancercachexiaisknowntoactivatespecificsignaling
+measured by multiple metrics and compared with the grounded
+pathways in skeletal muscles related to inflammation, protein twinbrother25.ThatstudyrevealedtelomerelengtheninginTcells
+synthesis, and autophagy10. In satellite cells, atrophy-induced of the inflight astronaut, which rapidly shortened postflight25.
+signaling exerts effects on MuSC proliferative potential and Another study investigating different astronaut flight conditions
+differentiation capacities11,12. In terms of effects of radiation found similar results26. However, despite the importance of
+exposure to MuSCs, limited data are available. Exposure of maintaining skeletal muscles during spaceflight, telomere length
+cultured human muscle progenitor cells to ionizing radiation has metrics inastronaut muscleshave not beenassessed.
+negativeeffects onproliferative capacity and altersinflammatory The goal of this study was to measure telomere length in
+signaling13. Studies using chronic, lower dose, whole-body resident skeletal muscle cells of grounded, wild-type mice
+irradiation of mice resulted in reduced MuSC numbers, reduced experiencing spaceflight-like conditions, using a whole-body
+1DepartmentofOrthopaedicSurgery,PerelmanSchoolofMedicine,UniversityofPennsylvania,Philadelphia,PA19104,USA.2DepartmentofPathologyandLaboratoryMedicine,
+InstituteonAging,PerelmanSchoolofMedicine,UniversityofPennsylvania,Philadelphia,PA19104,USA.3DepartmentofCellandDevelopmentalBiology,PerelmanSchoolof
+Medicine,UniversityofPennsylvania,Philadelphia,PA19104,USA.4PennInstituteforRegenerativeMedicine,MusculoskeletalProgram,PerelmanSchoolofMedicine,University
+✉
+ofPennsylvania,Philadelphia,PA19104,USA. email:fmour@pennmedicine.upenn.edu
+PublishedincooperationwiththeBiodesignInstituteatArizonaStateUniversity,withthesupportofNASA
+;,:)(0987654321
+
+E.D.Tichyetal.
+2
+irradiation(IR)andhindlimbsuspension(HLS)/mechanicalunload- was queried (Fig. 2b). We found little difference in tibialis anterior
+ingapproach.WefoundthatacombinationofIRandHLSresulted weights from mice that underwent HLS, and quadriceps weights
+in telomere elongation, specifically in myogenic cell populations, werevariable,comparedtorespectivecontrols(Figs.2b–d).However,
+which did not recover upon a short duration reloading of gastrocnemius muscles did exhibit a significant muscle atrophy in
+hindlimbs. HLS and HLS + IR groups (Fig. 2b, 2e; p=0.0490, p=0.0138,
+respectively),leadingustofocusonthismuscleforthedurationof
+thestudy.Toconfirmthatgastrocnemiusweightreductionsaffected
+RESULTS muscle fibers, muscles were cryosectioned and stained with
+EffectsofHLSandIR exposure onskeletal muscle properties fluorescently-conjugatedwheatgermagglutinin(WGA),whichlabels
+Toaddresstheeffectsofmuscleatrophyand/orirradiation(IR)on
+extracellularmatrixregions33.Weobservedsignificantlysmallerfiber
+skeletal muscles, we utilized the widely accepted hindlimb sizes in both HLS and HLS+IR groups, relative to control and IR
+suspension (HLS) ground-based model27, in combination with or groups (Fig. 2f, g; p<0.0001, p=0.0399, respectively), further
+inthe absenceof whole-body ionizing radiation exposure.In our validating the muscle atrophy effect. In aggregate, these data
+experimental design, mice were divided into four different unequivocally demonstrate a positive correlation between HLS and
+cohorts: control (without IR exposure, without hindlimb suspen- gastrocnemiusmuscleatrophythatagreeswiththemusclewasting
+sion (HLS)), HLS only (no IR), IR only (no HLS), and combined seeninpreviousHLSmodels27andwhichmimicsthatdescribedin
+(HLS+IR); (Fig. 1). More specifically, wildtype mice were pre- astronautsduringspaceflights34.
+exposed to 2Gy whole-body irradiation or sham irradiated and
+further divided into groups experiencing HLS or not. Following a Telomere lengthdynamics in spaceflightmimicked muscles
+3-week time course, mice were sacrificed, and various tissue
+In the Twins Study, Garrett-Bakelman et al. demonstrated a
+weight metrics were obtained. We found that at the study significant lengthening of telomeres in circulating blood cells
+endpoint, mouse whole-body weights were similar for all groups (Tcells)intheastronauttwinwhileinspace25.However,telomere
+(Fig. 2a), demonstrating that HLS did not detrimentally affect lengths in muscle cells were not measured. Using a HLS+IR
+mouse appetite. This finding is especially important, since spaceflight-mimicking system, we wished to query the effects of
+hindlimbunloadinghasbeenusedasmethodtostudybehavioral telomere length on several skeletal muscle-resident cell types.
+despairanddepression, andappetitechanges, ifany,couldhave
+First, we performed CRYO MuQ-FISH staining of telomeres on
+influenced our study results28. gastrocnemiuscryosections35.Withthismethod,relativetelomere
+Wenextdeterminedtheeffectsofourexperimentaldesignon length was determined by intensity measurements of a fluores-
+internal organs. We found IR exposure alone had no effects on
+centlylabeledtelomericpeptidenucleicacidprobe,normalizedto
+kidneyor spleen weights, butitdid cause significant (p<0.0001) the fluorescence intensity staining of the entire nucleus by DAPI
+reductions in testes weights, when compared to sham/control staining. Cells of interest were identified by additional immunos-
+mice(SupplementaryFig.1a–d).Thesefindingsareinagreement
+taining to mark desired cells and/or the cellular positions within
+withpreviousstudiesinmiceandhumansexposedtoIR29,30.HLS
+themuscle.WefirstqueriedtelomerelengthinMuSCs,definedas
+also had deleterious effects on testes gross size and normalized VCAM+ cells that appear in the satellite cell position (Fig. 3a).
+weight (Supplementary Fig. 1a, d; p<0.0001), consistent with a Quantification of telomere length revealed no changes between
+previous report31. Additionally, kidney weights in HLS and control,HLS,orIRMuSCs(Fig.3b).However,whenHLS+IRMuSC
+HLS+IR groups were slightly increased compared with controls telomereswereassessed,wefoundsignificanttelomerelengthen-
+(Supplementary Fig. 1a, c; p=0.0452, 0.0705, respectively), a
+ing, as compared to all other groups (Fig. 3b, p<0.0001). To
+finding that was similarly reported in a rat HLS model32. No
+evaluate the cellular consequences of these alterations, we
+differences were found in spleen and kidney weights in evaluated MuSC populations and properties. We first assessed
+combinatorial HLS+IR versus respective controls; however, the
+whether there were changes in MuSC numbers in atrophied
+testes HLS+IR group displayed additive detrimental effects on
+muscles, as had been suggested previously12. Gastrocnemius
+testicular weight, relative to individual groups, consistent with
+cryosectionswerestainedwiththeMuSCmarker,Pax78,andtotal
+prior literature on organ size changes from HLS and/or IR
+exposures29–31. number of positively stained cells per unit area was queried. We
+found no changes in MuSC numbers between control vs IR, and
+Toassesstheeffectsoftheseexperimentalconditionsonskeletal controlvsHLS+IRtreatedgroups, whileasignificant increasein
+muscles, muscles were dissected post-trial and the level of atrophy
+MuSC numbers was observed in the control vs HLS only group
+(Supplementary Fig. 2a, b; p<0.0001). While these findings are
+interesting and unexpected, they did not correlate with the
+observed changes in telomere length of the HLS+IR group. To
+excludeothercellulardefectsassociatedwithtelomerelength17,36,
+wealsoinvestigatedwhetherMuSCswereundergoingsenescence
+inresponsetoourexperimentalmanipulations.Tointerrogatethe
+level of senescence in skeletal muscles in our study, gastro-
+cnemius cryosections were stained for senescence-associated
+β-galactosidase activity. We found no correlation between
+positivelystainedregionsandcellswithinthesatellitecellposition
+(Supplementary Fig. 3). These findings make senescence unlikely
+asaninfluencingfactoroftelomerelengthmodulationinHLS+IR
+MuSCs.
+Itisknownthatskeletalmusclemasschangeduringunloading
+is associated with altered myonuclei37. Therefore, we next
+evaluated whether telomere lengthening in HLS+IR gastrocne-
+mius muscles was specific to only MuSCs or whether additional
+Fig.1 Schematicofexperimentalgroupsusedforthestudy.Mice
+werepre-exposedto2Gywhole-bodyirradiationorshamirradiated myogenic nuclei also exhibited this phenomenon. To this end,
+and further divided into groups experiencing HLS or not. HLS myonuclei, which were defined as localizing within muscle fibers
+hindlimbsuspension,IRionizingradiation. and staining negative for the stem cell marker VCAM38, were
+npjMicrogravity(2023) 76 PublishedincooperationwiththeBiodesignInstituteatArizonaStateUniversity,withthesupportofNASA
+;,:)(0987654321
+
+5000
+4000
+3000
+2000
+1000
+0
+Control HLS IR HLS+IR
+)2mμ(
+eziS
+rebiF
+Gastrocnemius
+0.010
+0.008
+0.006
+0.004
+0.002
+0.000
+Control HLS IR HLS+IR
+Fiber CSA
+p<0.0001
+0.2418
+<0.0001
+<0.00010.86480.0399
+thgiew
+ydob/thgiew
+elcsuM
+p=0.0164
+0.9210
+0.9997
+0.0490 0.0414 0.0138
+0.004
+0.003
+0.002
+0.001
+0.000
+Control HLS IR HLS+IR
+thgiew
+ydob/thgiew
+elcsuM
+Tibialis Anterior Quadriceps
+p=0.9993
+0.9939
+0.9990
+0.7950 0.74770.8545
+0.015
+0.010
+0.005
+0.000
+Control HLS IR HLS+IR
+thgiew
+ydob/thgiew
+elcsuM
+Body weight at endpoint
+30
+20
+10
+0
+Control HLS IR HLS+IR
+p=0.3017
+0.3892
+0.6325
+0.01650.21260.9551
+)g(
+thgiew
+ydoB
+E.D.Tichyetal.
+3
+a b
+p=0.4998
+Control
+0.6205
+HLS IR HLS+IR
+0.9998
+Tibialis
+0.07560.11370.5922
+Anterior
+Gastro-
+cnemius
+Quadriceps
+c d e
+f g
+Control HLS
+IR HLS+IR
+WGA DAPI
+Fig. 2 Hindlimb suspension affects gastrocnemius muscles. a Assessment of mouse body weights at the end of the experimental study
+shownogrossdifferencebetweengroups.bImagesofdissectedhindlimbmuscles(tibialisanterior,gastrocnemiusandquadriceps)fromall
+groups. c–e Ratio of gross muscle weights, divided by the total body weight of the respective mouse. c tibialis anterior, d quadriceps,
+egastrocnemius.fRepresentativeimagesofgastrocnemiusmusclefibersstainedwithfluorescentlylabeledWGA,whichmarksmusclefiber
+boundaries. Scale bar: 100μm. g Enumeration of muscle fiber cross-sectional areas (CSA)fromgastrocnemius muscles.Atleast 4mice per
+conditionwereanalyzed.Representedaremean±SEMforcolumngraphsandmedianwith25thand75thquartilesmarkedforviolinplots.
+Datawereanalyzedusingone-wayANOVAandTukey’smultiplecomparisontestofmeans.Adjustedpvaluesaredisplayed.
+PublishedincooperationwiththeBiodesignInstituteatArizonaStateUniversity,withthesupportofNASA npjMicrogravity(2023) 76
+
+Myonuclei Telomere Length
+100
+80
+60
+40
+20
+0
+Control HLS IR HLS+IR
+examinedfortelomerelengthchanges.Similartowhatwasfound gastrocnemius muscle of hindlimb unloaded mice with and
+forMuSCs,myonucleialsodisplayedincreasedtelomerelengthin withoutradiationexposure.CRYOMuQ-FISHwasperformedusing
+HLS+IR gastrocnemius muscles, when compared with control, theCD31+(alsoknownasPECAM-1)marker,previouslyshownto
+HLS,orIRgastrocnemiusmyofibermyonuclei(Fig.3c;p<0.0001). accuratelylabelendothelialcells40.Weobservedtelomerelength
+These data demonstrate that combinational HLS+IR of rodents dynamics to be quite variable between experimental groups in
+on the ground affects gastrocnemius myogenic cell telomere endothelialcells(Fig.4a,b),demonstratingthateffectsofHLS+IR
+length.
+weremost pronounced and reproducible in cellsderiving froma
+Since mechanical forces, including changes in gravity, have
+myogenic lineage.
+been shown to affect endothelial cells39, we subsequently
+Altogether, these results demonstrated that telomere length is
+assessed whether telomere length increases in HLS+IR mice
+increasingsynergisticallyinresponsetolowgravityandirradiation
+were also observed in endothelial cells residing in the
+HSIF-QuM
+OYRC
+MuSC Telomere Length
+p<0.0001
+<0.0001
+150
+0.9858 <0.0001
+0.56170.3145
+100
+50
+0
+Control HLS IR HLS+IR
+HSIF-QuM
+OYRC
+a b c
+DAPI VCAM
+p<0.0001
+<0.0001
+0.9150 <0.0001
+0.98130.9944
+Telomere Merge
+Myonucleus
+MuSC
+Fig. 3 Telomere length assessments in gastrocnemius myogenic cells. a Representative images of MuSCs (VCAM+, in the satellite cell
+position;green),telomerestaining(PNAprobe;red)andnuclearstaining(DAPI;blue).Myonucleiarenucleiresidingwithinthemyofibersand
+donotstainforVCAM.Scalebar:10μm.bQuantificationof telomerelengthinMuSCpopulationsofgastrocnemiusmusclesfromcontrol,
+HLS,IR,andHLS+IRmice.TelomerelengthwascalculatedasthetotaltelomeresignalintensitiesdividedbytheintensityofDAPI,toaccount
+for cell cycle positioning. c Myonuclei telomere length evaluation in gastrocnemius muscles. Three mice per experimental group were
+analyzed.Violinplotsinthisfigurearedepictingmedianwith25thand75thquartiles.Datawereanalyzedusingone-wayANOVAandTukey’s
+multiplecomparisontestofmeans.Adjustedpvaluesaredisplayed.
+300
+200
+100
+0
+Control HLS IR HLS+IR
+HSIF-QuM
+OYRC
+E.D.Tichyetal.
+4
+a b
+Endothelial Cell Telomere Length
+DAPI CD31
+ppp===000...888777222777
+0.4241
+0.1157
+0.134100..0000002200..00113366
+Telomere Merge
+Fig.4 Telomerelengthquantificationofnon-myogenicmuscle-residentcells.aRepresentativeimageofendothelialcell(CD31+;green),
+telomere staining (PNA probe; red), and nuclei (DAPI; blue). Scale bar: 10μm. b Calculated telomere length of endothelial cells in
+gastrocnemiusmusclesfromcontrol,HLS,IR,andHLS+IRmice.Threemiceperexperimentalgroupwereanalyzed.Violinplotsaredepicting
+medianwith25thand75thquartiles.Datawereanalyzedusingone-wayANOVAandTukey’smultiplecomparisontestofmeans.Adjustedp
+valuesaredisplayed.
+npjMicrogravity(2023) 76 PublishedincooperationwiththeBiodesignInstituteatArizonaStateUniversity,withthesupportofNASA
+
+a b
+Gastrocnemius
+0.008
+0.006
+0.004
+0.002
+0.000
+Control
+HL
+S+I
+R
+R ecovery
+c d
+onlyinmusclecells(MuSCsandmyonuclei)butnotinendothelial not interfere with general organ mass. In assessing the effectsof
+cellswithinskeletal muscles. recovery on skeletal muscles, we observed that gastrocnemius
+muscles of recovered mice were larger than HLS+IR mice and
+wereofsimilarsizetocontrols(Fig.5b;p=0.9927),demonstrating
+Effectsofmuscle reloading on muscle telomere length
+that2weekspost-unloadingissufficienttoregainnormalskeletal
+In the NASA Twins Study, it was shown that while spaceflight
+muscle size. To evaluate telomere length alterations in the
+caused telomere lengthening in some peripheral blood cell
+recovered muscles, we performed CRYO MuQ-FISH in the
+populations, return to earth caused rapid telomere shortening
+gastrocnemius-derived MuSC populations and myonuclei
+within 48hours, and a return to near baseline levels within
+between the experimental groups. Surprisingly, we did not
+months25. Since our data demonstrated telomere lengthening in
+observe telomere shortening in the recovery MuSCs, but instead
+HLS+IR MuSCs, we next sought to determine whether telomere
+they retained elongated telomere length and continued to
+length in these cells also shortened following a recovery period, increase even further, relative to the HLS+IR group (Fig. 5c;
+wheremicewerereturnedtoconventionalmobility.Toassessthis p=0.0186).Similarly,telomerelengthinmyonucleialsoremained
+possibility, HLS+IR mice were allowed to recover for 2 weeks, elongatedfollowingrecovery(Fig.5d),whichalsotrendedhigher
+withunrestrictedmovementandnormalmuscleloading.Forthis but was not significantly different compared with the HLS+IR
+arm of the study, control, HLS+IR, and recovery groups were group (p=0.4288). To further delineate whether there were
+compared (Fig. 5a). First, we assessed normalized organ weights differential telomere length changes in muscle cell populations,
+and found no significant changes to normalized spleen weights whichmayhavebeenburiedbytheaveragingoftelomerelength
+(Supplementary Fig. 4a) and kidney weights (Supplementary Fig. analysis,weplottedthisdatasetasadistributiononapercellbasis
+4b)betweenthegroups.Interestingly,testesweightsalsotrended (Supplementary Fig. 5). These data show, that unlike what was
+higher in recovered animals, but they remained significantly reportedforTcellsintheTwinsStudy,whereaproportionofthe
+smaller when compared to control weights (Supplementary Fig. return to Earth cells exhibited population of critically shortened
+4c;p<0.0001).Together,thesedataconfirmthattherecoverydid telomeres25, we found few MuSCs with very short telomeres and
+thgiew
+ydob/thgiew
+elcsuM
+p=0.9927
+0.0283 0.0225
+MuSC Telomere Length
+400
+300
+200
+100
+0
+C o
+ntr
+ol
+H L
+S+I
+R
+R
+ec
+overy
+HSIF-QuM
+OYRC
+250
+200
+150
+100
+50
+0
+C o
+ntr
+ol
+H L
+S+I
+R
+R
+ec
+overy
+HSIF-QuM
+OYRC
+E.D.Tichyetal.
+5
+Myonuclei Telomere Length
+p<0.0001 p<0.0001
+0.0186 0.4288
+<0.0001 <0.0001
+Fig. 5 Gastrocnemius properties following hindlimb reloading. a Schematic of experimental groups. Recovery mice were reloaded for
+2 weeks prior to harvesting. b Gastrocnemius muscle weights, normalized to respective mouse total body weight. c Telomere length
+assessments of MuSCs in control, HLS+IR, or recovery gastrocnemius cryosections. d Myonuclei telomere length assessments in control,
+HLS+IRandrecoverygastrocnemiusmuscles.Atleast3miceperconditionwereanalyzed.Representedaremean±SEMforcolumngraphs
+andmedianwith25thand75thquartilesmarkedforviolinplots.Datawereanalyzedusingone-wayANOVAandTukey’smultiplecomparison
+testofmeans.Adjustedpvaluesaredisplayed.
+PublishedincooperationwiththeBiodesignInstituteatArizonaStateUniversity,withthesupportofNASA npjMicrogravity(2023) 76
+
+2.0
+1.5
+1.0
+0.5
+0.0
+Control HLS+I
+R
+R ecovery
+many more MuSCs with long telomeres. The telomere length found low telomerase activity in experimental gastrocnemius
+distribution of muscle cells is somewhat different from the muscles (Fig. 6a), with no significant changes between control
+distributions reported in a follow-up study of blood cells in muscles and HLS+IR (p=0.3684), control and recovery
+populations of short and long telomeres26,41, suggesting that (p=0.9720), or between HLS+IR and recovery groups
+differentcelltypesmighthavedifferentmechanismsofmanaging (p=0.2812; Fig. 6b). Our findings are in agreement with a prior
+telomere length under spaceflight or spaceflight-mimicking study that showed telomerase activity is lost in differentiated
+conditions. In aggregate, these data demonstrate that hindlimb skeletalmusclecells43,andfurthersuggestthattelomerasemight
+reloading for the indicated recovery period was not sufficient to nothaveasubstantialroleintelomereelongationinthissystem.
+shortentelomere lengthtocontrol levels. Sincetheobservedtelomerelengtheninginmusclescouldnot
+be explained by telomerase activity, we sought to identify other
+mechanismsby whichtelomerelengtheningcould beattributed.
+Telomere lengthening mechanisms inradiation-exposed
+Alternative lengthening of telomeres (ALT) is a recombination-
+unloaded muscles
+based telomere maintenance mechanism utilized by 10–15% of
+Themostcommonmechanismoftelomereelongationisthrough human cancers44. It has been previously reported that the DNA
+the action of the enzyme telomerase42. To query the role of damage responding proteins, ATRX and DAXX, must be down-
+telomerase in the observed telomere lengthening of HLS+IR regulated for ALT to occur45–48. To this end, we quantified the
+gastrocnemius muscle cells, we first assayed for its expression. expression of these genes in control, HLS+IR, and recovery
+Tert, the catalytic subunit of telomerase, was undetectable in muscles.Interestingly,weobservedsignificantdownregulationof
+skeletal muscles from control, HLS+IR, or recovery groups by bothAtrxandDaxxtranscriptsinHLS+IRmuscles,relativecontrol
+qRT-PCR(SupplementaryFig.6a).Similarly,expressionofTERTwas (p=0.0005, p=0.0009, respectively; Fig. 6c, d), suggesting that
+absentattheproteinlevel,byimmunohistochemistry ofcryosec- ALT-related pathways are engaged in this model. When recovery
+tions (Supplementary Fig. 6b). Because telomerase expression in groups were examined, both Atrx and Daxx were still down-
+muscles may be transient and/or only expressed in a small regulated,althoughtheydidtrendhigherinbothcases,relativeto
+population of cells, we interrogated telomerase activity by a HLS+IR groups (p=0.5410, p=0.4166, respectively; Fig. 6c, d).
+telomerase repeated amplification protocol (TRAP) assay. We Taken together, these data raise the possibility of ALT-related
+noisserpxE
+eneG
+dezilamroN
+2.0
+1.5
+1.0
+0.5
+0.0
+Control HLS+I
+R
+R ecovery
+noisserpxE
+eneG
+dezilamroN
+e Control HLS+IR Recovery
+a N a s S C
+R i P 1 2 3 4 5 6 7 8 9
+200 bp
+100 bp
+b c d
+Atrx
+40000
+30000
+20000
+8000
+6000
+4000
+2000
+0
+i
+P S C Control
+HL
+S+I R Recovery
+)ua(
+ytivitca
+PART
+evitaleR
+E.D.Tichyetal.
+6
+TRAP assay
+p=0.0016 p=0.0039
+p=0.9720 0.0005 0.5410 0.0009 0.4166
+0.3684 0.2812
+Fig.6 Interrogationoftelomerelengtheningmechanismsinhindlimbunloadingandrecovery.aTRAPassaytoassesstelomeraseactivity
+incontrol, HLS+IR,andrecoveryskeletal musclelysates.RNasetreatmentservedasanegativecontrolandinduced pluripotentstemcell
+(iPSC)lysateservedasapositivecontrol.Eachlaneisfromonegastrocnemiusmusclelysatepermouse,withthreebiologicalreplicatesper
+group. b Quantification of telomere elongation via telomerase from a. Displayed are mean±SEM. c, d Quantitative real-time PCR of ALT
+pathwayregulatorsAtrxandDaxxfromgastrocnemiusmusclesofcontrol,HLS+IR,andrecoverygroups.Gapdhservedasahousekeeping
+genefornormalization.Atleastthreemicewereexaminedpergroup.Displayedismean±SEM.Datawereanalyzedusingone-wayANOVA
+andTukey’smultiplecomparisontestofmeans.Adjustedpvaluesaredisplayed.
+npjMicrogravity(2023) 76 PublishedincooperationwiththeBiodesignInstituteatArizonaStateUniversity,withthesupportofNASA
+
+E.D.Tichyetal.
+7
+mechanismsbeingemployedintheobservedtelomerelengthen- homeostasis is essential. In line with this statement, in the Twins
+inginirradiated, unloadedmuscles, aswellasduringreloading. Study, the return to ground astronaut demonstrated a rapid
+shorteningoftelomerelength,within48hafterlanding,tolevels
+below earthbound twin, and telomere length extended but still
+DISCUSSION remained shorter than the earthbound twin, even after
+Astronauts experience adverse health effects on long-duration 9months26.Similarfindingswerefoundinotherastronautstudies
+missions, including headaches, dizziness, congestion, changes in as well26,41. To query whether telomere shortening occurred
+bloodcells,andfatigue,aswellassevereboneandmuscleloss49. within skeletal muscle cells of our experimental design, we
+A better understanding of the causes of such impediments to implemented a 2-week recovery period, where mechanical
+explorer health in an earthbound model could serve beneficial loading of hindlimb muscles was reestablished. The longer
+effects in the development of additional countermeasures or 2-week endpoint compared to the initial 48h used in the Twins
+prophylactictreatmentsmeanttoreducephysicalhealthburdens. Studywasalsochosenduetothefactthatskeletalmusclescannot
+Recently,acomprehensiveNASAstudy,alsocommonlyreferredto significantly recover from atrophy conditions following 48h of
+as the Twins Study, investigated and compared a multitude of mechanical loading63. In contrast to the overall telomere short-
+metrics, including physical changes, of an earthbound mono- eningofTcellsinastronautstudies26,wefoundthatthetelomere
+zygotic twin astronaut, to his brother, experiencing spaceflight25. length of skeletal muscle cells failed to return to baseline levels,
+One reported aspect of this study was an observed effect of despitetherecovery ofmuscle mass.
+telomere lengthening in peripheral blood T cells during space- The most common mechanism of telomere elongation is
+flight,whichwasabsentinthegroundedtwin25.Outsideofspace, through the action of the enzyme telomerase42. A role for
+telomere length changes have been reported in degenerative telomerase in spaceflight-induced telomere elongation has been
+diseases, which often coincide with tissue atrophy50, including suggested for peripheral T cells26. However, telomerase activity
+skeletal muscle18,19,51,52. However, telomere length alterations in measurements in astronaut studies could not be measured
+skeletal muscle cells, both from mice18 and humans53,54, are not midflight, as the activity of TERT in tissue samples was “lost in
+correlated with the effects of aging, where sarcopenia, a muscle space”, likely hampered by the harsh conditions the samples
+wastingprocess,isahallmark55.Althoughmuscledeteriorationis experienced before returning to Earth25,26,41. In the mouse study
+a serious problem in astronauts’ health, the effect of gravity presentedhere,TERT expressioninskeletalmuscleswaslowand
+changes on telomeres of muscle cells has not been studied. In coincidedwithlowtelomeraseactivityinourexperimentalgroups.
+addition,theimpactoftheeffectsofradiationontelomerelength These findings are in agreement with a prior report that showed
+are still inconclusive. A study of Chernobyl radiation cleanup telomerase activity is lost in differentiated skeletal muscle cells43
+workers demonstrated that occupational exposure to ionizing and suggest that telomerase has minimal role in telomere
+radiation led to telomere lengthening in these workers in elongation in this experimental paradigm. However, it cannot be
+peripheral blood leukocytes56. Similar effects were reported for ruledoutthattransienttelomeraseactivityinsmallproportionsof
+atomic bomb survivors, but only those who were exposed to myogeniccellscontributestoourobservedtelomere-lengthening
+lowerdosesofradiation,ashigherdoseradiationexposureledto phenotype. Our investigation into additional modes of telomere
+telomere attrition in peripheral blood T cells57. However, studies lengthening uncovered preliminary evidence of an alternative
+on telomere length following radiation exposure, specifically lengthening (ALT) mechanism engagement. ALT was originally
+focusing on the muscle compartment, are nonexistent. Most discovered in immortalized cell lines and subsequently shown to
+importantly, the combined effect of weightlessness-induced occurinsomehumantumors64,65Whileevidenceismountingthat
+skeletal muscle atrophy and cosmic radiation exposure reported ALT can be regulated by environmental and genetic factors in
+during spaceflight58 led us to query whether these factors can rapidlyproliferatingtumorcells44,itsmodulationandengagement
+contributetochangesintelomeredynamicsinmyogeniccellsina in quiescent non-cancerous cells has not been explored,
+ground-basedmouse model. particularly while maintaining tissue structure. In quiescent
+HLSinrodentsisacommonmodelusedtostudytheeffectsof skeletal muscle myogenic cells, we found that there is a
+ground-basedmuscleatrophy,throughmechanicalunloadingand substantial downregulation of the chromatin remodeler Atrx and
+skeletal muscle disuse59. Using this HLS strategy in mice, we thehistonechaperoneDaxxinboththeHLS+IRandtherecovery
+observed ~20% reductions in gastrocnemius muscle, similar to musclescomparedtocontrols.Thebiologicalunderpinningofthis
+what has been previously reported59. Despite this loss of muscle downregulationinmusclesremainsunknown.Observedtelomere
+mass,nochangesintelomerelengthintheHLSmodelalonewere lengthening, in conjunction with low telomerase activity and
+evident, suggesting that simulated weightless conditions alone reduction of Atrx and Daxx expression, are suggestive of the
+are not sufficient to modify telomere length. To mimic cosmic engagement ALT-type mechanisms. In support of our findings,
+radiation exposure in spaceflights, we exposed mice to whole- recent evidence has shown telomere lengthening in the blood
+bodyionizingradiationbyitselforutilizedacombinedapproach cells of Mount Everest climbers during different points of peak
+ofHLSandirradiation.Undertheseconditions,wefoundtelomere ascent. Based on gene expression analyses, TERT was down-
+lengtheningonlyinmyogeniccelltypesintheHLS+IRgroupbut regulated and RAD50 was upregulated, while ALT and telomere
+IRexposurealonehadminimalimpactontelomeres.Intriguingly, maintenance via recombination pathways were enriched as the
+endothelial cells present in the affected muscles do not exhibit climbers progressed upwards41. These high-altitude studies, in
+significant telomere length changes in either group, suggesting which radiation exposure is higher than sea level, add weight to
+thattelomereswithinskeletalmusclecellsaremoresusceptibleto the validity of our findings of ALT-related pathway engagement
+telomerelengthchangesinourexperimentalsystem.Overall,the overarelatively shorttime frame.
+telomeres in combined radiation exposure and simulated micro- A conundrum of our findings relates to the fact that cells of
+gravityconditionsdemonstratedasynergistictelomerelengthen- undamaged adult skeletal muscles are quiescent, including the
+ing effect when applied together, specifically in myogenic cells myogenic cellsof our study. SinceALT utilizessome of thesame
+butnot inother cellswith themuscle architecture. players of homologous recombinational (HR) repair66, a DNA
+Although many detrimental health effects are associated with double-strandbreakrepairmechanismthatismostactiveduring
+telomere shortening60,61, a growing body of evidence suggests the S and G2 phases of the cell cycle67, our findings are
+that very long telomeres may be problematic in human cells, as unexpected. However, there is substantial evidence that HR can
+these telomeres could develop instabilities and telomeric fragi- occur in the G1 phase of the cell cycle68 and in postmitotic
+lity62,supportingthenotionthattightcontroloftelomerelength neurons69.Inaddition,HRingeneraloccursatsimilarfrequencies
+PublishedincooperationwiththeBiodesignInstituteatArizonaStateUniversity,withthesupportofNASA npjMicrogravity(2023) 76
+
+E.D.Tichyetal.
+8
+inALTproficientandALT-deficienthumancells70,whichaddsan behavior and function of different cell types in relation to their
+additional level of complexity to the understanding of ALT telomerechanges.
+processes. Thus, it is therefore possible that telomerase- In conclusion, the data presented here lay a foundation for
+independent lengthening may be occurring in our experimental future studies to explore telomere length regulation in skeletal
+system, and that reduced expression of Atrx and Daxx supports musclesduringspaceflightconditions,toinvestigatewhetherALT
+theplausibilityofamechanismwithfeaturesofALTcontributing driversexertcelltype-specificinfluencesontelomerelength,and
+toourobservations.Untilmoredetailsemergeonhowmolecular how long these changes last and how they contribute to health
+signaturesassociatedwithALTaregovernedinnondividing,non- risks in astronauts after they return to Earth. Identifying the
+cancerous tissues, the specific mechanisms controlling telomere cellular and molecular muscle changes associated with telomere
+lengthening in a cell type-specific manner in our experimental lengthening, as well as how ALT-related processes affect
+design,orin theenvironmentof space, remain elusive. spaceflight-exposed cells, may yield important clues for future
+Overall, this study examined the relationship between skeletal prophylactic therapy of astronauts’ muscles, both during space
+muscle cells and telomere length dynamics following hindlimb flightsand uponreturn toEarth.
+suspension and irradiation. While these findings are not extend-
+abletopost-flightmeasurementsofastronauts, theexperimental
+design applied here can be of use for preassessments of space- METHODS
+determinedfactorsthatmodulatetelomeredynamicsandskeletal Mice
+muscle functionality. One limitation of our study is that we only
+Male C57Bl/6 mice were purchased from Jackson Labs (stock#
+usemales.Recentstudieshavedemonstratednosexdifferencein
+000664)andusedbetween2and4monthsofage.Experimental
+adulttelomerelengthinvertebrates71,thusincludingfemalemice
+procedures for this project were approved and overseen by the
+inourstudyisunlikelytochangetheinterpretationofthemouse
+University of Pennsylvania IACUC committee (protocol #806800).
+results. Yet, studies in humans have revealed differences in
+Following receipt, mice were acclimated to University of
+telomerelengthbetweensexes,dependingontheageexamined
+andthemethodologyused72–74.Thus,subsequentstudiesshould Pennsylvania rodent housing for 1 week prior to commencing
+theexperiments.AllmiceinthisstudywerefedDietgelboostfood
+considertelomeredifferencesbetweensexes,especiallygiventhe
+(ClearH O)andprovidedhydrogelbarrierhydration(ClearH O)ad
+rise in the number of female astronauts participating in space 2 2
+missions, and other reported differences in additional metrics libitum (as the sole nutrition and hydration sources) for the
+between the sexes in other spaceflight studies75,76. In any event, durationofthe experiment.
+the data presented herein demonstrate that a ground-based
+model may be a useful starting point in elucidating the Fullbodyirradiation
+mechanismsgoverningtelomereelongationdynamicsinmuscles Cohortsofmicewereirradiatedwithionizingradiationfroma137Cs
+ofastronauts duringspaceflight. irradiator(Gammacell40exactor)atadose-rateof1.23cGy/s.Room
+Anotherlimitation ofthisstudy isthetypeanddose/dose-rate air was provided to the mice during the procedure via a vacuum
+of radiation exposure and how it relates to astronauts’ occupa-
+pump. After 2Gy exposure, mice were returned to conventional
+tionalexposure.Thespaceradiationenvironmentiscomprisedof
+housingfor1-week,priorHLS.
+high energy protons and galactic cosmic radiation, including but
+not limited to electrons, protons, and heavier densely ionizing
+charged particles77. Additionally, radiation sources in space are Hindlimb suspension
+not constant, and the absorbed dose varies between mice and Equipment used for hindlimb suspension can be found in
+humans varies, at least for proton radiation78. Our experimental Supplementary Table 1. Briefly, mice were anesthetized with an
+outcome in ground-based rodent muscle utilized a single isoflurane vaporizer (2.5% v/v isoflurane to oxygen), and mouse
+exposure to a single ionizing radiation source, as it was not tailswere wrappedwith cloth surgicaltape, beginning at thetail
+feasible to reload rodent hindlimbs for possible successive base.Afterwrapping~halfofthetaillength,thetapewasfolded
+radiationexposures.Toensureradiationexposuresweresufficient onitselftocreatealoop,andremainingtapewaswrappedaround
+during our experimental window, we utilized a radiation dose of the tail from the midpoint towards the tail base. Through this
+2Gy, which at current standards, is higher than NASA occupa- closed tape loop, plastic-coated wire was threaded and attached
+tional exposures79. toahangingapparatus.Thehangingapparatuswasplacedinarat
+A major difference between mice and humans is telomere cagewithawiremeshbottom.Thehangingapparatusallowsfor
+length,withmanymousestrainshaving∼8-foldlongertelomeres
+movement of mice only through use of the forelimbs. Range of
+than humans80, and they exhibit much faster rates of telomere movement of HLS mice was approximately ½ of the rat cage
+shortening than humans81. This greater telomere reservoir could surfacearea,butHLSmiceweresinglyhousedforthestudy.Mice
+endow muscle cells in in-bred strains of laboratory mice with a were hung for a period of 3 weeks, with or without a 2-week
+protective effect in spaceflight, but it is equally as possible that recoveryperiodwheremicewereplacedinconventionalhousing.
+telomere changes are more easily studied in rodent models
+because of their differences compared with humans. Skeletal
+Tissue samplecollection
+muscle cell telomere length was not examined in astronaut
+studies25,26,65,andmusclebiopsiesofastronautsinspacearerare, Attheendpointofthestudy,micewerehumanelyeuthanizedby
+astheriskofcomplicationstotheirhealthorpossiblyjeopardizing CO 2 asphyxiation, followed by cervical dislocation. Organs of
+themissionsistoogreat.Thus,futureinvestigationsusinganimal interestwerecollectedbydissectionandweighed.Tissueweights
+models in spaceflight would presumably mimic the muscle were normalized to endpoint mouse body weights. Gastrocne-
+defects seen in astronauts and would be invaluable. Given the mius muscles were fixed in 4% paraformaldehyde in phosphate-
+differences in telomere length between typically used research bufferedsaline(PBS;Thermo)for2honarockingplatformat4°C.
+mouse strains and humans, future studies could be further Muscleswerethenincubatedovernightin30%sucroseinwaterat
+strengthened by utilizing more humanized mice in regard to 4°C,priortoembeddinginOCT(NEG-50;Epredia)andcryofreez-
+telomere length, such as the CAST/Ei J strain82. After being ing. Muscle cryosections were cut at 10μm and placed on
+exposed to the same weightless and cosmic radiation conditions superfrostplusslides(Fisher).Slideswerestoredat−20°Cpriorto
+as humans, these mice may be useful to further investigate staining.
+npjMicrogravity(2023) 76 PublishedincooperationwiththeBiodesignInstituteatArizonaStateUniversity,withthesupportofNASA
+
+E.D.Tichyetal.
+9
+Muscle fibercross-sectional area measurements Thermo) were used to label the cells of interest. After washing
+Musclecryosectionswerepermeabilizedwith0.5%tritonX-100for with PBS, glass coverslips were mounted with prolong gold with
+10min, washed with PBS, and blocked with 3% bovine serum DAPI (Thermo). To image telomeres, MuSCs (VCAM1+ in the
+albumin(BSA;GeminiBio)inPBSfor1houratroomtemperature. satellite cell position), myonuclei (based on position within the
+Slides were then incubated with Alexa Fluor 555-conjugated myofibers), or endothelial cells (CD31+) were imaged with a
+wheat germ agglutinin (WGA; 1μg/mL; Thermo) for one hour in Nikon Plan Apo 100x/1.45 oil objective on a Nikon Ni widefield
+the dark at room temperature, to outline muscle fibers. Slides epifluorescence microscope, equipped with a DS-Q1MC mono-
+were washed in PBS and coverslips were mounted with prolong chrome camera. Z stacks of 1 μm thickness from each channel
+gold with DAPI (Thermo). Slides were imaged on a Nikon Ni (telomere, DAPI, cell type) were taken to encompass the entirety
+widefield microscope equipped with a Plan Fluor 10x/0.30 ofthetelomerefields.Imageswereprocessedusingtheextended
+objective and Nikon DS-Qi1Mc 14-bit camera, and random fields depth of focus algorithm in the accompanying Nikon elements
+permouse wereused for fiber areaenumeration inFiji. microscope software. Images were exported as 16-bit mono-
+chrome tiffs and analyzed using the free analysis software,
+Telometer 3.0.6 (https://demarzolab.pathology.jhmi.edu/
+Muscle stemcell number quantification
+telometer/download.html). This software allows cells of interest
+Musclecryosectionswerepermeabilizedwith0.5%tritonX-100for to be analyzed for telomere signal intensities, and normalizes
+10min,washed withPBS, andunderwentheat-mediatedantigen theseintensitiestothatofDAPI,toaccountfordifferencesincell
+retrievalwithEDTAbuffer(1mMEDTA,pH8.0;0.05%Tween20). cyclepositionandhasbeenpreviouslyvalidatedforuseinmuscle.
+Slides were washed with PBS and blocked for 1h at room
+temperature with 3% BSA/PBS/0.1% Triton X-100. Sections were
+Quantitative real-time PCR
+stained with Pax7 rabbit polyclonal antibody (1/100; Thermo
+#PA1–117) overnight at 4°C, washed with PBS, and stained with TotalRNAwasextractedfromwholegastrocnemiusmuscleswith
+Alexa Fluor-647-conjugated Goat anti-rabbit IgG (1/300; Thermo) Trizol. RNA was reverse transcribed into cDNA using the
+for1houratroomtemperature.SlideswerewashedwithPBSand Protoscript II first strand cDNA synthesis kit. (NEB). Multiplexed
+quantitative real-time PCR was completed using either FAM-
+coverslips were mounted with prolong gold with DAPI (Thermo).
+labeledTert(ThermoFisher;geneassayid:Mm00436931_m1),Atrx
+Whole cryosections were imaged using an Axio Scan z1 slide
+(ThermoFisher; gene assay id: Mm00494196_m1), or Daxx
+scanner (Zeiss) and processed with Zen software. Two cryosec-
+tions per mouse were used for quantification of the number of (ThermoFisher; gene assay id: Mm00492089_m1), with VIC-
+pax7positive cellsper 10μmsection withFiji. labeled Gapdh (ThermoFisher 4352339e). Reactions were run on
+a Quantstudio 6 with accompanying software. Relative gene
+expressionwasdeterminedbytheΔΔCTmethod,usingGapdhas
+Senescence-associated β-galactosidase activity assay
+anormalizing control.
+Cryosections from gastrocnemius muscles or mouse kidney were
+fixed with 1% paraformaldehyde/0.2% glutaraldehyde (Electron
+Immunohistochemistry
+microscopy sciences). Slides were incubated with PBS, pH 6.0 for
+Gastrocnemius cryosections were permeabilized with 0.5% triton
+30minutes, followed by incubation with X-gal staining solution
+X-100 for 10min,washed with PBS, and blocked with 3% bovine
+(4mM potassium ferricyanide, 4mM potassium ferrocyanide,
+2mM magnesium chloride, 0.02% Igepal CA-630, and 400μg/mL serum albumin (BSA; GeminiBio) in PBS for 1h at room
+temperature. Primary antibody to TERT (1/100; RayBiotech #
+X-gal; all from Sigma) for 48h at 37°C. Slides were washed with
+PBS,andfixedin1%paraformaldehyde.Slideswerewashedwith
+144–64552–50)wasincubatedinblockingbufferovernightat4°C.
+Slideswere washedthe following day withPBS and stained with
+PBS and coverslips were mounted with Fluromount G (South-
+ernBiotech). Slides were imaged on a Nikon-Ni widefield micro- Alexa Fluor-conjugated goat anti-rabbit 555 secondary antibody
+(1/300; Thermo #A21428) at room temperature for 1hour. Slides
+scopeusing a NikonDS-F12 color camera.
+werewashedwithPBSandcoverslipsweremountedwithprolong
+gold with DAPI (Thermo). Slides were imaged on a Nikon-Ni
+Telomere lengthassessments widefieldmicroscope using aNikon DS-F12 color camera.
+Telomere length was measured using the CRYO MuQ-FISH
+protocol35. Briefly, muscle cryosections were permeabilized in
+Telomerase activity measurement by TRAPassay
+0.5% triton X-100 in PBS for 10min, washed with PBS, and
+Relative telomerase activity was measured by Telomere Repeat
+underwent heat-mediated antigen retrieval with TET buffer
+Amplification Protocol (TRAP) assay as previously described83. In
+(10mM Tris, pH 7.5, 1mM EDTA, pH 8.0, 0.05% Tween-20) for
+brief,muscletissuewaslysedin1XCHAPSbufferfor30minuteson
+10minutes.SlideswerewashedinPBSandincubatedwithRNase
+A(100μg/mL)for20minutesat37°C.Slideswerethenincubated ice.Lysateswerethencentrifugedat16,000×gfor20mintopellet
+cell debris and protein concentration was measured by Bradford
+withAlexaFluor647-conjugatedTelCtelomereprobe(1/600;PNA
+assay. One hundred twenty-five nanograms of protein lysate was
+bio)inhybridizationbuffer[15%ethylenecarbonate(Sigma),20%
+incubated with a telomerase substrate at 30°C for 30minutes to
+dextran sulfate (Sigma), 600mM sodium chloride (Sigma), 1X
+allowfortelomerasetocatalyzetheadditionoftelomererepeatsto
+antigen retrieval citrate buffer (Vector labs)]. Hybridization
+thesubstrate.ThereactionswerethenPCRamplified,resolvedona
+occurred by a denaturation step of 67°C for 10min and a
+4–20% TBE polyacrylamide gel at 200V for 30minutes and
+hybridizationstep of42°Cfor90min.Aglasscoverslip wasused
+visualized by staining with SYBR Green nucleic acid gel stain.
+to prevent evaporation. Slides were washed in buffers with
+RelativetelomeraseactivitywasquantifiedusingImageJsoftware.
+decreasing salt concentration (2X SSC; 0.1% Tween-20, 1X SSC;
+0.1%Tween-20,0.5XSSC;0.1%Tween-20,0.25XSSC;0.1%Tween-
+20)twiceeachsolutionfor5mineachbeforeafinalrinseinPBS. Statistical analysis
+Slides were then blocked with 3% BSA/PBS/0.1% triton X-100 for DatawereanalyzedstatisticallyusingGraphPad(LaJolla,CA,USA)
+1hour.MuSCswerelabeledbyVCAM1staining(1/100of1mg/mL Prism9.5.1 software. Results are presented asthe mean± or SEM
+stock; Thermo # PA5–47029), endothelial cells were marked by forcolumngraphs,withindividualdatapointsrepresentativeofa
+CD31biotin (1/100; Thermo #13–0311–82) antibody staining over- single mouse dataset, or as median with 25th and 75th quartiles
+night at 4°C. Alexa fluor 488-conjugated donkey anti-goat for violin plots. Datasets were analyzed with 1-way ANOVA to
+antibody (1/300; Thermo # A11055), or Cy3-streptavidin (1/100; determine significance, with Tukey’s multiple comparison test of
+PublishedincooperationwiththeBiodesignInstituteatArizonaStateUniversity,withthesupportofNASA npjMicrogravity(2023) 76
+
+E.D.Tichyetal.
+10
+means used to obtain adjusted p values. Differences were 19. Tichy,E.D.etal.PersistentNF-kappaBactivationinmusclestemcellsinduces
+considered statistically significant at p<0.05. Sample sizes are proliferation-independenttelomereshortening.CellRep.35,109098(2021).
+indicated foreach dataset inthefigure legends. 20. Wikgren,M.etal.Shortertelomerelengthislinkedtobrainatrophyandwhite
+matterhyperintensities.AgeAgeing43,212–217(2014).
+21. Herrera, E. et al. Disease states associated with telomerase deficiency appear
+Reporting summary earlierinmicewithshorttelomeres.EMBOJ.18,2950–2960(1999).
+Further information on research design is available in the Nature 22. Hewitt, G. et al. Telomeres are favoured targets of a persistent DNA damage
+ResearchReportingSummary linkedto thisarticle. responseinageingandstress-inducedsenescence.Nat.Commun.3,708(2012).
+23. Fathi,E.,Charoudeh,H.N.,Sanaat,Z.&Farahzadi,R.Telomereshorteningasa
+hallmarkofstemcellsenescence.StemCellInvestig.6,7(2019).
+DATAAVAILABILITY 24. Petrini, J. H. &Theunissen, J. W. Double strand break metabolism andcancer
+susceptibility:lessonsfromthemre11complex.CellCycle3,541–542(2004).
+All data generated during and/or analyzed during this study are included in this
+25. Garrett-Bakelman,F.E.etal.TheNASATwinsStudy:amultidimensionalanalysis
+publishedarticleanditssupplementaryinformation.Anydetaileddatasupporting of a year-long human spaceflight. Science https://doi.org/10.1126/
+the findings of this study are available from the corresponding authors upon
+science.aau8650(2019).
+reasonablerequest.
+26. Luxton,J.J.etal.TemporaltelomereandDNAdamageresponsesinthespace
+radiationenvironment.CellRep.33,108435,(2020).
+27. Ferreira,J.A.,Crissey,J.M.&Brown,M.Analternantmethodtothetraditional
+CODEAVAILABILITY
+NASAhindlimbunloadingmodelinmice.J.Vis.Exp.49,2467(2011).
+Telometer telomereanalysis softwareisavailableforfreebythecreators(https:// 28. Castagne,V.,Moser,P.,Roux,S.&Porsolt,R.D.Rodentmodelsofdepression:
+demarzolab.pathology.jhmi.edu/telometer/). forcedswimandtailsuspensionbehavioraldespairtestsinratsandmice.Curr.
+Protoc.Pharmacol.Chapter5,8(2010).
+Received:17October 2022; Accepted: 6 July2023; 29. Gong,E.J.etal.Low-dose-rateradiationexposureleadstotesticular damage
+with decreases in DNMT1 and HDAC1 in the murine testis. J. Radiat. Res. 55,
+54–60(2014).
+30. DeFelice,F.etal.Radiationeffectsonmalefertility.Andrology7,2–7(2019).
+31. Tash,J.S.,Johnson,D.C.&Enders,G.C.Long-term(6-wk)hindlimbsuspension
+inhibitsspermatogenesisinadultmalerats.J.Appl.Physiol.(1985)92,1191–1198
+REFERENCES
+(2002).
+1. Lee, P. H. U., Chung, M., Ren, Z., Mair, D. B. & Kim, D. H. Factors mediating 32. Ding,Y.etal.Studyofhistopathologicalandmolecularchangesofratkidney
+spaceflight-induced skeletal muscle atrophy. Am. J. Physiol. Cell Physiol. 322, undersimulatedweightlessnessandresistancetrainingprotectiveeffect.PLoS
+C567–C580(2022). ONE6,e20008(2011).
+2. Williams,D.,Kuipers,A.,Mukai,C.&Thirsk,R.Acclimationduringspaceflight: 33. Kostrominova, T.Y.Application ofWGAlectinstainingforvisualizationofthe
+effectsonhumanphysiology.CMAJ180,1317–1323(2009). connectivetissueinskeletalmuscle,bone,andligament/tendonstudies.Microsc.
+3. English, K. L.etal.Highintensity trainingduringspaceflight: resultsfrom the Res.Tech.74,18–22(2011).
+NASASprintStudy.NPJMicrogravity6,21(2020). 34. Trappe,S.etal.Exerciseinspace:humanskeletalmuscleafter6monthsaboard
+4. Petersen,N.etal.Exerciseinspace:theEuropeanSpaceAgencyapproachtoin- theInternationalSpaceStation.J.Appl.Physiol.(1985)106,1159–1168(2009).
+flightexercisecountermeasuresforlong-durationmissionsonISS.Extrem.Physiol. 35. Tichy,E.D.&Mourkioti,F.Telomerelengthassessmentsofmusclestemcellsin
+Med.5,9(2016). rodentandhumanskeletalmusclesections.STARProtoc.2,100830(2021).
+5. Krause,A.R.,Speacht,T.A.,Steiner,J.L.,Lang,C.H.&Donahue,H.J.Mechanical 36. Sherr,C.J.&DePinho,R.A.Cellularsenescence:mitoticclockorcultureshock?
+loadingrecoversbonebutnotmusclelostduringunloading.NPJMicrogravity6, Cell102,407–410(2000).
+36(2020). 37. Shenkman,B.S.,Turtikova,O.V.,Nemirovskaya,T.L.&Grigoriev,A.I.Skeletal
+6. Vandenburgh,H.,Chromiak,J.,Shansky,J.,DelTatto,M.&Lemaire,J.Spacetravel muscleactivityandthefateofmyonuclei.ActaNat.2,59–66(2010).
+directlyinducesskeletalmuscleatrophy.FASEBJ.13,1031–1038(1999). 38. Maesner, C. C., Almada, A. E. & Wagers, A. J. Established cell surface markers
+7. Buckingham,M.etal.Theformationofskeletalmuscle:fromsomitetolimb.J. efficientlyisolatehighlyoverlappingpopulationsofskeletalmusclesatellitecells
+Anat.202,59–68(2003). byfluorescence-activatedcellsorting.Skelet.Muscle6,35(2016).
+8. Seale,P.etal.Pax7isrequiredforthespecificationofmyogenicsatellitecells.Cell 39. Grenon,S.M.,Jeanne,M.,Aguado-Zuniga,J.,Conte,M.S.&Hughes-Fulford,M.
+102,777–786(2000). Effects of gravitational mechanical unloading in endothelial cells: association
+9. Forcina, L., Cosentino, M. & Musaro, A. Mechanisms regulating muscle regen- between caveolins, inflammation and adhesion molecules. Sci. Rep. 3, 1494
+eration: insights into the interrelated and time-dependent phases of tissue (2013).
+healing.Cellshttps://doi.org/10.3390/cells9051297(2020). 40. Muller,A.M.etal.ExpressionoftheendothelialmarkersPECAM-1,vWf,andCD34
+10. DiGirolamo,D.&Tajbakhsh,S.Pathologicalfeaturesoftissuesandcellpopula- invivoandinvitro.Exp.Mol.Pathol.72,221–229(2002).
+tionsduringcancercachexia.CellRegen.11,15(2022). 41. Luxton,J.J.etal.Telomerelengthdynamicsanddnadamageresponsesasso-
+11. He,W.A.etal.NF-kappaB-mediatedPax7dysregulationinthemusclemicro- ciatedwithlong-durationspaceflight.CellRep.33,108457(2020).
+environmentpromotescancercachexia.J.Clin.Invest.123,4821–4835(2013). 42. Autexier,C.&Lue,N.F.Thestructureandfunctionoftelomerasereversetran-
+12. McKenna, C. F.& Fry, C. S. Altered satellite cell dynamics accompany skeletal scriptase.Annu.Rev.Biochem.75,493–517(2006).
+muscleatrophyduringchronicillness,disuse,andaging.Curr.Opin.Clin.Nutr. 43. O'Connor,M.S.,Carlson,M.E.&Conboy,I.M.Differentiationratherthanagingof
+Metab.Care20,447–452(2017). muscle stem cells abolishes their telomerase activity. Biotechnol. Prog. 25,
+13. Jurdana, M., Cemazar, M., Pegan, K. & Mars, T. Effect of ionizing radiation on 1130–1137(2009).
+humanskeletalmuscleprecursorcells.Radiol.Oncol.47,376–381(2013). 44. Dilley,R.L.&Greenberg,R.A.ALTernativetelomeremaintenanceandcancer.
+14. Masuda, S. et al. Time- and dose-dependent effects of total-body ionizing TrendsCancer1,145–156(2015).
+radiationonmusclestemcells.Physiol.Rep.https://doi.org/10.14814/phy2.12377 45. Lovejoy,C.A.etal.LossofATRX,genomeinstability,andanalteredDNAdamage
+(2015). response are hallmarks of the alternative lengthening of telomeres pathway.
+15. Bachman,J.F.etal.Radiation-induceddamagetoprepubertalPax7+skeletal PLoSGenet.8,e1002772(2012).
+musclestemcellsdriveslifelongdeficitsinmyofibersizeandnuclearnumber. 46. Amorim,J.P.,Santos,G.,Vinagre,J.&Soares,P.TheRoleofATRXinthealter-
+iScience23,101760(2020). nativelengtheningoftelomeres(ALT)phenotype.Genes7,66(2016).
+16. DiDonna,S.etal.Telomerasecanextendtheproliferativecapacityofhuman 47. Napier,C.E.etal.ATRXrepressesalternativelengtheningoftelomeres.Onco-
+myoblasts,butdoesnotleadtotheirimmortalization.Mol.CancerRes.1,643–653 target6,16543–16558(2015).
+(2003). 48. Yost, K. E. et al. Rapid and reversible suppression of ALT by DAXX in osteo-
+17. Sedivy, J. M. Can ends justify the means?: telomeres and the mechanisms of sarcomacells.Sci.Rep.9,4544(2019).
+replicativesenescenceandimmortalizationinmammaliancells.Proc.NatlAcad. 49. Setlow,R.B.Thehazardsofspacetravel.EMBORep.4,1013–1016(2003).
+Sci.USA95,9078–9081(1998). 50. Armanios,M.Telomeresandage-relateddisease:howtelomerebiologyinforms
+18. Tichy,E.D.etal.Singlestemcellimagingandanalysisrevealstelomerelength clinicalparadigms.J.Clin.Invest.123,996–1002(2013).
+differences in diseased human and mouse skeletal muscles. Stem Cell Rep. 9, 51. Lund,T.C.,Grange,R.W.&Lowe,D.A.Telomereshorteningindiaphragmand
+1328–1341(2017). tibialisanteriormusclesofagedmdxmice.MuscleNerve36,387–390(2007).
+npjMicrogravity(2023) 76 PublishedincooperationwiththeBiodesignInstituteatArizonaStateUniversity,withthesupportofNASA
+
+E.D.Tichyetal.
+11
+52. Sacco, A. et al. Short telomeres and stem cell exhaustion model Duchenne 79. NationalAcademiesofSciencesEngineeringandMedicine(U.S.).Committeeon
+musculardystrophyinmdx/mTRmice.Cell143,1059–1071(2010). AssessmentofStrategiesforManagingCancerRisksAssociatedwithRadiation
+53. Venturelli,M.etal.Cellularagingofskeletalmuscle:telomericandfreeradical Exposure During Crewed Space Missions et al. Space Radiation And Astronaut
+evidencethatphysicalinactivityisresponsibleandnotage.Clin.Sci.(Lond.)127, Health : Managing And Communicating Cancer Risks. (The National Academies
+415–421(2014). Press,2021).
+54. Ponsot,E.,Lexell,J.&Kadi,F.Skeletalmuscletelomerelengthisnotimpairedin 80. Kipling,D.&Cooke,H.J.Hypervariableultra-longtelomeresinmice.Nature347,
+healthyphysicallyactiveoldwomenandmen.MuscleNerve37,467–472(2008). 400–402(1990).
+55. Walston, J. D. Sarcopenia in older adults. Curr. Opin. Rheumatol. 24, 623–627 81. Vera,E.,BernardesdeJesus,B.,Foronda,M.,Flores,J.M.&Blasco,M.A.Therate
+(2012). of increase of short telomeres predicts longevity in mammals. Cell Rep. 2,
+56. Reste,J.etal.TelomerelengthinChernobylaccidentrecoveryworkersinthelate 732–737(2012).
+periodafterthedisaster.J.Radiat.Res.55,1089–1100(2014). 82. Hemann,M.T.&Greider,C.W.Wild-derivedinbredmousestrainshaveshort
+57. Yoshida,K.etal.Long-termeffectsofradiationexposureandmetabolicstatuson telomeres.NucleicAcidsRes.28,4474–4478(2000).
+telomerelengthofperipheralbloodTcellsinatomicbombsurvivors.Radiat.Res. 83. Herbert, B. S., Hochreiter, A. E., Wright, W. E. & Shay, J. W. Nonradioactive
+186,367–376(2016). detectionoftelomeraseactivityusingthetelomericrepeatamplificationproto-
+58. Xu,Y.,Pei,W.&Hu,W.Acurrentoverviewofthebiologicaleffectsofcombined col.Nat.Protoc.1,1583–1590(2006).
+spaceenvironmentalfactorsinmammals.Front.CellDev.Biol.10,861006(2022).
+59. Theilen,N.T., Jeremic,N.,Weber, G.J.&Tyagi, S.C.Exercise preconditioning
+diminishesskeletalmuscleatrophyafterhindlimbsuspensioninmice.J.Appl. ACKNOWLEDGEMENTS
+Physiol.(1985)125,999–1010(2018).
+We thank Drs. Liyun Wang and Shaopeng Pei for assistance with the hindlimb
+60. Kong,C.M.,Lee,X.W.&Wang,X.Telomereshorteninginhumandiseases.FEBSJ.
+suspensiondesign.WethankRyanBonnerforhelpwithmousemonitoring.Wethank
+280,3180–3193(2013).
+Dr.PuraMuñoz-Cánovesfortheprotocolforsenescencestaining.Schematicswere
+61. Kam,M.L.W.,Nguyen,T.T.T.&Ngeow,J.Y.Y.Telomerebiologydisorders.NPJ
+generated on biorender.com. This work was supported by NASA grant
+Genom.Med.6,36(2021).
+80NSSC19K1602andtheNIH/NIAMS(R01HL146662)toF.M.
+62. Rivera,T.,Haggblom,C.,Cosconati,S.&Karlseder,J.Abalancebetweenelon-
+gationandtrimmingregulatestelomerestabilityinstemcells.Nat.Struct.Mol.
+Biol.24,30–39(2017).
+AUTHORCONTRIBUTIONS
+63. Mirzoev,T.M.Skeletalmusclerecoveryfromdisuseatrophy:proteinturnover
+signalingandstrategiesforacceleratingmuscleregrowth.Int.J.Mol.Sci.https:// E.D.T. and F.M. designed the study. E.D.T., J.H.L., G.L., and K.N.E. performed
+doi.org/10.3390/ijms21217940(2020). experimentsandanalyzeddata.E.D.T.,F.B.J.,andF.M.interpreteddata.E.D.T.and
+F.M.wrotethemanuscript.
+64. Bryan,T.M.,Englezou,A.,Dalla-Pozza,L.,Dunham,M.A.&Reddel,R.R.Evidence
+foranalternativemechanismformaintainingtelomerelengthinhumantumors
+andtumor-derivedcelllines.Nat.Med.3,1271–1274(1997).
+COMPETINGINTERESTS
+65. Bryan,T.M.,Englezou,A.,Gupta,J.,Bacchetti,S.&Reddel,R.R.Telomereelon-
+gationinimmortalhumancellswithoutdetectabletelomeraseactivity.EMBOJ. Theauthorsdeclarenocompetinginterests.
+14,4240–4248(1995).
+66. Zhang, J. M. & Zou, L. Alternative lengthening of telomeres: from molecular
+mechanismstotherapeuticoutlooks.CellBiosci.10,30(2020). ADDITIONAL INFORMATION
+67. Xu,Y.&Xu,D.Repairpathwaychoicefordouble-strandbreaks.EssaysBiochem.
+Supplementary information The online version contains supplementary material
+64,765–777(2020).
+availableathttps://doi.org/10.1038/s41526-023-00303-1.
+68. Smith, M. J., Bryant, E. E., Joseph, F. J. & Rothstein, R. DNA damage triggers
+increased mobility of chromosomes in G1-phase cells. Mol. Biol. Cell 30,
+Correspondence and requests for materials should be addressed to Foteini
+2620–2625(2019).
+Mourkioti.
+69. Welty,S.etal.RAD52isrequiredforRNA-templatedrecombinationrepairinpost-
+mitoticneurons.J.Biol.Chem.293,1353–1362(2018).
+Reprints and permission information is available at http://www.nature.com/
+70. Bechter,O.E.,Zou,Y.,Shay,J.W.&Wright,W.E.Homologousrecombinationin
+reprints
+humantelomerase-positiveandALTcellsoccurswiththesamefrequency.EMBO
+Rep.4,1138–1143(2003).
+Publisher’snoteSpringerNatureremainsneutralwithregardtojurisdictionalclaims
+71. Remot,F.etal.Nosexdifferencesinadulttelomerelengthacrossvertebrates:a inpublishedmapsandinstitutionalaffiliations.
+meta-analysis.R.Soc.OpenSci.7,200548(2020).
+72. Gardner, M. et al. Gender and telomere length: systematic review and meta-
+analysis.Exp.Gerontol.51,15–27(2014).
+73. Moller,P.etal.Sex-relateddifferencesinlengthanderosiondynamicsofhuman
+Open Access This article is licensed under a Creative Commons
+telomeresfavorfemales.Aging(AlbanyNY)1,733–739(2009).
+Attribution 4.0 International License, which permits use, sharing,
+74. Gutierrez-Rodrigues,F.etal.Associationbetweenleukocytetelomerelengthand
+adaptation,distributionandreproductioninanymediumorformat,aslongasyougive
+sex by quantile regression analysis. Hematol. Transfus. Cell Ther. 44, 346–351
+appropriatecredittotheoriginalauthor(s)andthesource,providealinktotheCreative
+(2022). Commonslicense,andindicateifchangesweremade.Theimagesorotherthirdparty
+75. Mark,S.etal.Theimpactofsexandgenderonadaptationtospace:executive materialinthisarticleareincludedinthearticle’sCreativeCommonslicense,unless
+summary.J.Women’sHealth(Larchmt.)23,941–947(2014).
+indicatedotherwiseinacreditlinetothematerial.Ifmaterialisnotincludedinthe
+76. Yasuda,H.&Sihver,L.BroadeningtheselectioncriteriaforAstronautsunder- article’sCreativeCommonslicenseandyourintendeduseisnotpermittedbystatutory
+taking long–term space travel. Front. Nuclear Med. https://doi.org/10.3389/
+regulationorexceedsthepermitteduse,youwillneedtoobtainpermissiondirectly
+fnume.2022.997718(2022).
+from the copyright holder. To view a copy of this license, visit http://
+77. Onorato,G.,DiSchiavi,E.&DiCunto,F.Understandingtheeffectsofdeepspace
+creativecommons.org/licenses/by/4.0/.
+radiation on nervous system: the role of genetically tractable experimental
+models.Front.Phys.https://doi.org/10.3389/fphy.2020.00362(2020).
+78. Chancellor,J.C.etal.Limitationsinpredictingthespaceradiationhealthriskfor ©TheAuthor(s)2023
+explorationastronauts.NPJMicrogravity4,8(2018).
+PublishedincooperationwiththeBiodesignInstituteatArizonaStateUniversity,withthesupportofNASA npjMicrogravity(2023) 76
