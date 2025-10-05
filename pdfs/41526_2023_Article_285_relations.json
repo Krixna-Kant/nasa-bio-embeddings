@@ -1,0 +1,181 @@
+{
+  "filename": "41526_2023_Article_285.pdf",
+  "relations": [
+    {
+      "subject": "Microbial",
+      "subject_type": "BIOENTITY",
+      "predicate": "applies_to",
+      "object": "bioregenerative life support systems",
+      "object_type": "BIOENTITY",
+      "paper_id": "41526_2023_Article_285",
+      "section": "Results",
+      "evidence": "Microbial applications can be beneficial in bioregenerative life support systems, their applicability to biological in situ resource utilization (bISRU), and their capability to be genetically engineered for biotechnological space applications.",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Microbial",
+      "subject_type": "BIOENTITY",
+      "predicate": "related_to",
+      "object": "in situ resource utilization",
+      "object_type": "BIOENTITY",
+      "paper_id": "41526_2023_Article_285",
+      "section": "Results",
+      "evidence": "Microbial applications can be beneficial in bioregenerative life support systems, their applicability to biological in situ resource utilization (bISRU), and their capability to be genetically engineered for biotechnological space applications.",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Microbial",
+      "subject_type": "BIOENTITY",
+      "predicate": "can_be",
+      "object": "genetically engineered",
+      "object_type": "BIOENTITY",
+      "paper_id": "41526_2023_Article_285",
+      "section": "Results",
+      "evidence": "Microbial applications can be beneficial in bioregenerative life support systems, their applicability to biological in situ resource utilization (bISRU), and their capability to be genetically engineered for biotechnological space applications.",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Microbial",
+      "subject_type": "BIOENTITY",
+      "predicate": "related_to",
+      "object": "biotechnological space",
+      "object_type": "BIOENTITY",
+      "paper_id": "41526_2023_Article_285",
+      "section": "Results",
+      "evidence": "Microbial applications can be beneficial in bioregenerative life support systems, their applicability to biological in situ resource utilization (bISRU), and their capability to be genetically engineered for biotechnological space applications.",
+      "confidence": 0.8
+    },
+    {
+      "subject": "applicability",
+      "subject_type": "BIOENTITY",
+      "predicate": "is_a",
+      "object": "in situ resource utilization",
+      "object_type": "BIOENTITY",
+      "paper_id": "41526_2023_Article_285",
+      "section": "Results",
+      "evidence": "Microbial applications can be beneficial in bioregenerative life support systems, their applicability to biological in situ resource utilization (bISRU), and their capability to be genetically engineered for biotechnological space applications.",
+      "confidence": 0.7
+    },
+    {
+      "subject": "bioregenerative life support systems",
+      "subject_type": "BIOENTITY",
+      "predicate": "supports",
+      "object": "microbes",
+      "object_type": "ORGANISM",
+      "paper_id": "41526_2023_Article_285",
+      "section": "Results",
+      "evidence": "Research on bioregenerative life support systems (BLSS) has shown that microbes play a vital role in generating essential resources for human survival through biological processes.",
+      "confidence": 0.9
+    },
+    {
+      "subject": "microbes",
+      "subject_type": "ORGANISM",
+      "predicate": "generates",
+      "object": "resources",
+      "object_type": "BIOENTITY",
+      "paper_id": "41526_2023_Article_285",
+      "section": "Results",
+      "evidence": "Research on bioregenerative life support systems (BLSS) has shown that microbes play a vital role in generating essential resources for human survival through biological processes.",
+      "confidence": 0.9
+    },
+    {
+      "subject": "resources",
+      "subject_type": "BIOENTITY",
+      "predicate": "necessary_for",
+      "object": "human",
+      "object_type": "BIOENTITY",
+      "paper_id": "41526_2023_Article_285",
+      "section": "Results",
+      "evidence": "Research on bioregenerative life support systems (BLSS) has shown that microbes play a vital role in generating essential resources for human survival through biological processes.",
+      "confidence": 0.9
+    },
+    {
+      "subject": "human",
+      "subject_type": "BIOENTITY",
+      "predicate": "related_to",
+      "object": "survival",
+      "object_type": "BIOENTITY",
+      "paper_id": "41526_2023_Article_285",
+      "section": "Results",
+      "evidence": "Research on bioregenerative life support systems (BLSS) has shown that microbes play a vital role in generating essential resources for human survival through biological processes.",
+      "confidence": 0.8
+    },
+    {
+      "subject": "bioregenerative life support systems",
+      "subject_type": "BIOENTITY",
+      "predicate": "involves",
+      "object": "biological processes",
+      "object_type": "BIOENTITY",
+      "paper_id": "41526_2023_Article_285",
+      "section": "Results",
+      "evidence": "Research on bioregenerative life support systems (BLSS) has shown that microbes play a vital role in generating essential resources for human survival through biological processes.",
+      "confidence": 0.8
+    },
+    {
+      "subject": "research",
+      "subject_type": "BIOENTITY",
+      "predicate": "aims_to_optimize",
+      "object": "microbial",
+      "object_type": "BIOENTITY",
+      "paper_id": "41526_2023_Article_285",
+      "section": "Conclusion",
+      "evidence": "Further research is needed to optimize microbial technologies for space exploration and to develop effective mitigation strategies for potential health risks.",
+      "confidence": 0.7
+    },
+    {
+      "subject": "microbial",
+      "subject_type": "BIOENTITY",
+      "predicate": "used_for",
+      "object": "technologies",
+      "object_type": "BIOENTITY",
+      "paper_id": "41526_2023_Article_285",
+      "section": "Conclusion",
+      "evidence": "Further research is needed to optimize microbial technologies for space exploration and to develop effective mitigation strategies for potential health risks.",
+      "confidence": 0.8
+    },
+    {
+      "subject": "technologies",
+      "subject_type": "BIOENTITY",
+      "predicate": "applied_in",
+      "object": "space",
+      "object_type": "BIOENTITY",
+      "paper_id": "41526_2023_Article_285",
+      "section": "Conclusion",
+      "evidence": "Further research is needed to optimize microbial technologies for space exploration and to develop effective mitigation strategies for potential health risks.",
+      "confidence": 0.7
+    },
+    {
+      "subject": "space",
+      "subject_type": "BIOENTITY",
+      "predicate": "associated_with",
+      "object": "exploration",
+      "object_type": "BIOENTITY",
+      "paper_id": "41526_2023_Article_285",
+      "section": "Conclusion",
+      "evidence": "Further research is needed to optimize microbial technologies for space exploration and to develop effective mitigation strategies for potential health risks.",
+      "confidence": 0.9
+    },
+    {
+      "subject": "mitigation",
+      "subject_type": "BIOENTITY",
+      "predicate": "developed_for",
+      "object": "potential",
+      "object_type": "BIOENTITY",
+      "paper_id": "41526_2023_Article_285",
+      "section": "Conclusion",
+      "evidence": "Further research is needed to optimize microbial technologies for space exploration and to develop effective mitigation strategies for potential health risks.",
+      "confidence": 0.8
+    },
+    {
+      "subject": "potential",
+      "subject_type": "BIOENTITY",
+      "predicate": "related_to",
+      "object": "health risks",
+      "object_type": "BIOENTITY",
+      "paper_id": "41526_2023_Article_285",
+      "section": "Conclusion",
+      "evidence": "Further research is needed to optimize microbial technologies for space exploration and to develop effective mitigation strategies for potential health risks.",
+      "confidence": 0.9
+    }
+  ]
+}

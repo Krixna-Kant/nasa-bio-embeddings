@@ -1,0 +1,41 @@
+{
+  "filename": "41526_2023_Article_285.pdf",
+  "authors": [
+    "Allison P. Koehle",
+    "Stephanie L. Brumwell",
+    "Emily P. Seto",
+    "Anne M. Lynch",
+    "Camilla Urbaniak"
+  ],
+  "year": 2023,
+  "title": "Microbial applications for sustainable space exploration beyond low Earth orbit",
+  "summary": "This review discusses the role of microbes in supporting sustainable human habitats during long-duration space missions, particularly for future explorations to the Moon and Mars. It highlights both the beneficial applications of microbes in bioregenerative life support systems and the potential negative impacts, such as increased pathogenicity and biofilm formation, which could threaten astronaut health and spacecraft integrity. The paper emphasizes the need for further research to optimize microbial technologies for space exploration.",
+  "sections": [
+    {
+      "section": "Abstract",
+      "text": "With the construction of the International Space Station, humans have been continuously living and working in space for 22 years. Microbial studies in space and other extreme environments on Earth have shown the ability for bacteria and fungi to adapt and change compared to 'normal' conditions. Some of these changes, like biofilm formation, can impact astronaut health and spacecraft integrity in a negative way, while others, such as a propensity for plastic degradation, can promote self-sufficiency and sustainability in space. With the next era of space exploration upon us, which will see crewed missions to the Moon and Mars in the next 10 years, incorporating microbiology research into planning, decision-making, and mission design will be paramount to ensuring success of these long-duration missions."
+    },
+    {
+      "section": "Introduction",
+      "text": "The National Aeronautics and Space Administration (NASA) has pledged to return humans to the Moon in the next two years and land the first humans on Mars by 2033. The journey beyond low Earth orbit (LEO) will expand human civilization, enable future space settlements, provide scientific knowledge of the evolution of our planet and the solar system, and create global partnerships in the quest for further space exploration. Under the Artemis plan, a crewed lunar flyby is scheduled for 2024, followed by a lunar landing in 2025."
+    },
+    {
+      "section": "Methods",
+      "text": "In this review, we will examine some key considerations for planning crewed space missions that allow for self-sufficiency and sustainability and specifically the role that microbes can play in achieving these goals. We will also discuss the possible detrimental effects of microbes that could derail a mission, such as biofouling and increased pathogenicity, and suggest mitigation strategies to help alleviate some of these concerns."
+    },
+    {
+      "section": "Results",
+      "text": "Microbial applications can be beneficial in bioregenerative life support systems, their applicability to biological in situ resource utilization (bISRU), and their capability to be genetically engineered for biotechnological space applications. Research on bioregenerative life support systems (BLSS) has shown that microbes play a vital role in generating essential resources for human survival through biological processes."
+    },
+    {
+      "section": "Discussion",
+      "text": "While microbes offer many benefits and biotechnological solutions for extended space flight and the development of sustainable habitats beyond LEO, they can also have a negative impact on space exploration. This can manifest as increased microbial pathogenicity, horizontal gene transfer (HGT) of problematic genes, and biofilm formation which have direct effects on crew health and spacecraft integrity."
+    },
+    {
+      "section": "Conclusion",
+      "text": "Utilizing the benefits of microbes, while understanding their limitations, will help us explore deeper into space and develop sustainable human habitats on the Moon, Mars, and beyond. Further research is needed to optimize microbial technologies for space exploration and to develop effective mitigation strategies for potential health risks."
+    }
+  ],
+  "total_sections": 6,
+  "processing_timestamp": "2025-10-05T13:37:33.351185"
+}

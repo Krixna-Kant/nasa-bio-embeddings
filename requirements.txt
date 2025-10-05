@@ -1,0 +1,10 @@
+flask==3.0.0
+flask-cors==4.0.0
+python-dotenv==1.0.0
+PyPDF2==3.0.1
+openai>=1.13.3
+requests>=2.31.0
+spacy>=3.7.0
+scispacy>=0.5.3
+nltk>=3.8.1
+neo4j>=5.18.0
