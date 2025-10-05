@@ -1,5 +1,6 @@
 import os
 import json
+import re
 import pdfplumber
 import pandas as pd
 from dotenv import load_dotenv
@@ -7,6 +8,7 @@ import google.generativeai as genai
 from openai import OpenAI
 from pinecone import Pinecone
 import tiktoken
+from pinecone import ServerlessSpec
 
 # --- Load keys ---
 load_dotenv()
@@ -19,9 +21,18 @@ genai.configure(api_key=GOOGLE_API_KEY)
 openai_client = OpenAI(api_key=OPENAI_API_KEY)
 pc = Pinecone(api_key=PINECONE_API_KEY)
 
-index_name = "nasa-bio-embeddings"
+index_name = "nasa-bio-embeddings-new"
 if index_name not in [i["name"] for i in pc.list_indexes()]:
-    pc.create_index(name=index_name, dimension=1536, metric="cosine")
+    # pc.create_index(name=index_name, dimension=1536, metric="cosine")
+    pc.create_index(
+    name=index_name,
+    dimension=1536,
+    metric="cosine",
+    spec=ServerlessSpec(cloud="aws", region="us-east-1")
+)
+else:
+    print(f"Index '{index_name}' already exists.")
+    
 index = pc.Index(index_name)
 
 encoding = tiktoken.get_encoding("cl100k_base")
@@ -59,6 +70,30 @@ def extract_pdf_text(pdf_path):
             if page_text:
                 text.append(page_text)
     return "\n".join(text)
+
+# --- Regex-based metadata extraction fallback ---
+def extract_title(text):
+    match = re.search(r"(?:(?:Article|Paper|Research)\s*)?([\w\s,:;'\-\(\)\[\]/&]+)\n", text)
+    if match:
+        title = match.group(1).strip()
+        if len(title.split()) > 3 and not title.lower().startswith("received"):
+            return title
+    return ""
+
+def extract_authors(text):
+    author_block = re.search(r"(?:[A-Z][\w\.\-\s]+(?:,|and|\d))+[A-Z][\w\.\-\s]+", text)
+    if author_block:
+        raw = author_block.group(0)
+        authors = re.split(r",|and", raw)
+        authors = [a.strip() for a in authors if len(a.strip()) > 2 and "@" not in a]
+        return authors
+    return []
+
+def extract_year(text):
+    match = re.search(r"(?:19|20)\d{2}", text)
+    if match:
+        return match.group(0)
+    return ""
 
 # --- Gemini section & metadata extraction ---
 def gemini_extract_sections(text):
@@ -115,7 +150,7 @@ def upload_to_pinecone(filename, metadata, title, url):
     }
 
     for sname, stext in sections.items():
-        if not stext.strip():
+        if not stext or not stext.strip():
             continue
         summary = summarize_section(stext, sname)
         chunks = chunk_text(summary)
@@ -132,8 +167,8 @@ def upload_to_pinecone(filename, metadata, title, url):
                 "text": chunk,
                 "title": title,
                 "url": url,
-                "authors": metadata.get("authors", []),
-                "year": metadata.get("year", "")
+                "authors": paper_meta["authors"],
+                "year": paper_meta["year"]
             }
 
             index.upsert([{
@@ -154,7 +189,6 @@ for fname in os.listdir(pdf_dir):
     if not fname.lower().endswith(".pdf"):
         continue
 
-    # Match filename in CSV (skip if not found)
     meta_info = get_doc_metadata(fname)
     if not meta_info:
         print(f"Skipping {fname} (not found in CSV metadata)")
@@ -168,15 +202,23 @@ for fname in os.listdir(pdf_dir):
     with open(os.path.join(extract_dir, f"{fname}.txt"), "w", encoding="utf-8") as f:
         f.write(raw_text)
 
-    # Gemini for structured JSON
+    # Gemini structured JSON
     structured = gemini_extract_sections(raw_text)
 
-    # Save JSON
+    # --- Fallback: Fill missing metadata using regex ---
+    if not structured.get("title"):
+        structured["title"] = extract_title(raw_text)
+    if not structured.get("authors"):
+        structured["authors"] = extract_authors(raw_text)
+    if not structured.get("year"):
+        structured["year"] = extract_year(raw_text)
+
+    # Save improved JSON
     json_path = os.path.join(structured_dir, f"{fname}.json")
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(structured, f, indent=2)
 
-    # Upload summarized chunks with new metadata
-    upload_to_pinecone(fname, structured, meta_info["title"], meta_info["url"])
+    # Upload summarized chunks with improved metadata
+    upload_to_pinecone(fname, structured, structured.get("title", meta_info["title"]), meta_info["url"])
 
-print("All PDFs processed and uploaded successfully!")
+print("All PDFs processed, enriched, and uploaded successfully!")
