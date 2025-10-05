@@ -1,4 +1,7 @@
-import os, json, pdfplumber
+import os
+import json
+import pdfplumber
+import pandas as pd
 from dotenv import load_dotenv
 import google.generativeai as genai
 from openai import OpenAI
@@ -22,6 +25,20 @@ if index_name not in [i["name"] for i in pc.list_indexes()]:
 index = pc.Index(index_name)
 
 encoding = tiktoken.get_encoding("cl100k_base")
+
+# --- Load CSV metadata ---
+csv_path = os.path.join(os.path.dirname(__file__), "../data/csv/pinecone_documents.csv")
+doc_metadata = pd.read_csv(csv_path)
+
+# Helper function to find metadata by filename
+def get_doc_metadata(filename):
+    row = doc_metadata[doc_metadata["filename"] == filename]
+    if row.empty:
+        return None
+    return {
+        "title": row.iloc[0]["title"],
+        "url": row.iloc[0]["URL"]
+    }
 
 # --- Helpers ---
 def chunk_text(text, max_tokens=750, overlap=150):
@@ -86,11 +103,12 @@ def summarize_section(text, section_name):
     return resp.choices[0].message.content.strip()
 
 # --- Upload to Pinecone ---
-def upload_to_pinecone(filename, metadata):
+def upload_to_pinecone(filename, metadata, title, url):
     sections = metadata.get("sections", {})
     paper_meta = {
-        "paper_id": metadata.get("paper_id", ""),
-        "title": metadata.get("title", ""),
+        "paper_id": filename,
+        "title": title,
+        "url": url,
         "authors": metadata.get("authors", []),
         "year": metadata.get("year", ""),
         "doi": metadata.get("doi", "")
@@ -106,7 +124,18 @@ def upload_to_pinecone(filename, metadata):
                 model="text-embedding-3-small",
                 input=chunk
             ).data[0].embedding
-            meta = {**paper_meta, "section": sname, "text_preview": chunk[:200]}
+
+            meta = {
+                "paper_id": filename,
+                "type": "section_summary",
+                "section": sname,
+                "text": chunk,
+                "title": title,
+                "url": url,
+                "authors": metadata.get("authors", []),
+                "year": metadata.get("year", "")
+            }
+
             index.upsert([{
                 "id": f"{filename}_{sname}_{i}",
                 "values": emb,
@@ -125,6 +154,12 @@ for fname in os.listdir(pdf_dir):
     if not fname.lower().endswith(".pdf"):
         continue
 
+    # Match filename in CSV (skip if not found)
+    meta_info = get_doc_metadata(fname)
+    if not meta_info:
+        print(f"Skipping {fname} (not found in CSV metadata)")
+        continue
+
     print(f"Processing {fname}...")
     pdf_path = os.path.join(pdf_dir, fname)
     raw_text = extract_pdf_text(pdf_path)
@@ -141,7 +176,7 @@ for fname in os.listdir(pdf_dir):
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(structured, f, indent=2)
 
-    # Upload summarized chunks
-    upload_to_pinecone(fname, structured)
+    # Upload summarized chunks with new metadata
+    upload_to_pinecone(fname, structured, meta_info["title"], meta_info["url"])
 
-print("All PDFs processed successfully!")
+print("All PDFs processed and uploaded successfully!")
